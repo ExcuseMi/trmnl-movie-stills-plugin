@@ -24,20 +24,20 @@
   <div>{{error_text}}</div>
   {% else %}
   {% if selected_movie %}
-  <div class="layout movie-container m--0 p--0">
-    <img class="image main-image image-dither m--0 p--0" src="https://raw.githubusercontent.com/excusemi/trmnl-movie-guesser-plugin/refs/heads/main/movie_dataset/{{ image_path }}" alt="Movie Still" class="movie-still">
+  <div class="layout movie-container">
+    <img class="image main-image image-dither" src="https://raw.githubusercontent.com/excusemi/trmnl-movie-guesser-plugin/refs/heads/main/movie_dataset/{{ image_path }}" alt="Movie Still" class="movie-still">
 
     <div id="qrcode" class="bg--white p--2.5 mb--2 mr--2">
       <span data-qr-mode="text" data-qr-size="100" data-text="{{qr_content}}" /></span>
     </div>
   </div>
   {% else %}
-  <div>No movie matched your filter criteria.</div>
+  <div>{{t_no_match}}</div>
   {% endif%}
   {% endif %}
 </div>
 <div class="title_bar p--4 mb--2">
-  <span class="title">Can you guess this movie{% if long_title %} from the {{decade}}s{% endif %}?</span>
+  <span class="title">{{t_guess}}{% if long_title and selected_movie %} {{t_from_decade}} {{decade}} {{t_decade_suffix}}{% endif %}?</span>
 </div>
 
 

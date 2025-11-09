@@ -32,12 +32,12 @@
     </div>
   </div>
   {% else %}
-  <div>No movie matched your filter criteria.</div>
+  <div>{{t_no_match}}</div>
   {% endif%}
   {% endif %}
 </div>
 <div class="title_bar p--4">
-  <span class="title">Can you guess this movie{% if long_title %} from the {{decade}}s{% endif %}?</span>
+  <span class="title">{{t_guess}}{% if long_title and selected_movie %} {{t_from_decade}} {{decade}} {{t_decade_suffix}}{% endif %}?</span>
 </div>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js" integrity="sha512-CNgIRecGo7nphbeZ04Sc13ka07paqdeTu0WR1IM4kNcpmBAUSHSQX0FslNhTDadL4O5SAGapGt4FodqL8My0mA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script>

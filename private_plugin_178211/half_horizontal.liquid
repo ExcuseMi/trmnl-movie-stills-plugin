@@ -33,12 +33,12 @@
     </div>
   </div>
   {% else %}
-  <div>No movie matched your filter criteria.</div>
+  <div>{{t_no_match}}</div>
   {% endif%}
   {% endif %}
 </div>
 <div class="title_bar p--4">
-  <span class="title">Can you guess this movie{% if long_title %} from the {{decade}}s{% endif %}?</span>
+  <span class="title">{{t_guess}}{% if long_title and selected_movie %} {{t_from_decade}} {{decade}} {{t_decade_suffix}}{% endif %}?</span>
 </div>
 
 

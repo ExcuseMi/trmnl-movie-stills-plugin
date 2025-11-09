@@ -4,14 +4,27 @@ Displays a random movie still from your curated dataset
 {% endcomment %}
 
 {% comment %} Load user settings {% endcomment %}
-{% assign min_year = trmnl.plugin_settings.custom_fields_values.min_year %}
-{% assign max_year = trmnl.plugin_settings.custom_fields_values.max_year %}
+{% assign min_year = trmnl.plugin_settings.custom_fields_values.min_year  | plus: 0 %}
+{% assign max_year = trmnl.plugin_settings.custom_fields_values.max_year  | plus: 0 %}
 {% assign genre_inclusions = trmnl.plugin_settings.custom_fields_values.genre_inclusions %}
 {% assign genre_exclusions = trmnl.plugin_settings.custom_fields_values.genre_exclusions %}
-{% assign top_movies_limit = trmnl.plugin_settings.custom_fields_values.max_rank_movies | default: 500 %}
+{% assign top_movies_limit = trmnl.plugin_settings.custom_fields_values.max_rank_movies | default: 1000 %}
+
+{% comment %} Load translations from IDX_1 with fallback to English {% endcomment %}
+{% assign all_translations = IDX_1 %}
+{% assign user_locale = trmnl.user.locale | default: "en" %}
+{% assign translations = all_translations[user_locale] %}
+{% unless translations %}
+  {% assign translations = all_translations["en"] %}
+{% endunless %}
+{% assign t_guess = translations.guess_prompt %}
+{% assign t_from_decade = translations.from_decade %}
+{% assign t_decade_suffix = translations.decade_suffix %}
+{% assign t_no_match = translations.no_match %}
+{% assign t_year_error = translations.year_error %}
 
 {% comment %} Load the movies dataset {% endcomment %}
-{% assign all_movies = data %}
+{% assign all_movies = IDX_0.data %}
 {% comment %} Limit to top N movies {% endcomment %}
 {% if top_movies_limit %}
 {% assign limited_movies = all_movies | slice: 0, top_movies_limit %}
@@ -26,13 +39,13 @@ Displays a random movie still from your curated dataset
 
 {% comment %} Check year range {% endcomment %}
 {% assign movie_year = movie.year | plus: 0 %}
-{% if min_year and max_year and min_year > max_year %}
-{% assign error_text = "You cannot have a minium year (" | concat: min_year | concat: ") defined later than the maximum year (" | concat: max_year | concat: ")." %}
+{% if min_year > 0 and max_year > 0 and min_year > max_year %}
+{% assign error_text = t_year_error %}
 {% endif %}
-{% if min_year and movie_year < min_year %}
+{% if min_year > 0 and movie_year < min_year %}
                                 {% assign should_include = false %}
                                 {% endif %}
-                                {% if max_year and movie_year > max_year %}
+                                {% if max_year > 0 and movie_year > max_year %}
   {% assign should_include = false %}
   {% endif %}
 

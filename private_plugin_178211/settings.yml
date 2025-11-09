@@ -4,7 +4,7 @@ no_screen_padding: 'yes'
 dark_mode: 'no'
 static_data: ''
 polling_verb: get
-polling_url: https://raw.githubusercontent.com/excusemi/trmnl-movie-guesser-plugin/refs/heads/main/movie_dataset/movies.json?ts={{trmnl.system.timestamp_utc}}
+polling_url: "https://raw.githubusercontent.com/excusemi/trmnl-movie-guesser-plugin/refs/heads/main/movie_dataset/movies.json?ts={{trmnl.system.timestamp_utc}}\r\n\r\nhttps://raw.githubusercontent.com/ExcuseMi/trmnl-movie-guesser-plugin/refs/heads/main/i18n.json"
 polling_headers: ''
 polling_body: ''
 id: 178211
