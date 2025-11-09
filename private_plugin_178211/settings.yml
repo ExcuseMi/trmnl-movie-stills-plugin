@@ -1,72 +1,69 @@
 ---
 strategy: polling
-no_screen_padding: 'no'
+no_screen_padding: 'yes'
 dark_mode: 'no'
 static_data: ''
 polling_verb: get
-polling_url: https://raw.githubusercontent.com/ExcuseMi/trmnl-movie-stills-plugin/refs/heads/main/movie_dataset/movies.json?ts={{trmnl.system.timestamp_utc}}
+polling_url: https://raw.githubusercontent.com/excusemi/trmnl-movie-guesser-plugin/refs/heads/main/movie_dataset/movies.json?ts={{trmnl.system.timestamp_utc}}
 polling_headers: ''
 polling_body: ''
 id: 178211
 custom_fields:
-- keyname: title_option
-  field_type: select
-  options:
-  - "QR Code"
-  - "Upside Down"
-  - "Plain"
-  - "Hidden"
-  name: "How to display the movie title"
-  description: "How to display the movie title"
-  optional: true
+- keyname: about
+  name: About This Plugin
+  field_type: author_bio
+  description: 'Movie Guesser - Test your film knowledge!<br /><br /> This plugin displays random movie stills from a curated dataset of top-rated films. Perfect for movie buffs who want to challenge their cinematic knowledge.<br /><br /> <b>Features:</b><br /> ● Display random movie stills from top-rated films<br /> ● Filter by genre, year range, and popularity rank<br /> ● QR code with movie details for instant verification<br /> ● Clean, focused interface for guessing games<br /><br /> <b>Configuration Options:</b><br /> ● <b>Maximum rank</b>: Show only top-rated movies (1-1000)<br /> ● <b>Genre filter</b>: Focus on specific genres or mix<br /> ● <b>Year range</b>: Limit to specific decades or eras<br /><br /> Perfect for movie nights, film education, or testing your cinephile knowledge!<br /> Made with <a href=https://www.themoviedb.org/>TheMovieDB</a>'
+  github_url: https://github.com/ExcuseMi/trmnl-movie-guesser-plugin
 - keyname: max_rank_movies
   field_type: number
-  name: "Maximum rank of the movies"
-  description: "Maximum rank of the movies"
+  name: Maximum rank of the movies
+  description: Maximum rank of the movies
   min: 1
   max: 1000
-  default: 500
+  placeholder: 1000
   optional: true
 - keyname: genres
   field_type: select
-  name: Genres
-  description: Genres
-  optional: true
+  name: Genre Filter
+  description: Only show movies that for these genres.<br />Leave empty to show all.
   options:
-  - "Action":"Action"
-  - "Adventure":"Adventure"
-  - "Animation":"Animation"
-  - "Comedy":"Comedy"
-  - "Crime":"Crime"
-  - "Documentary":"Documentary"
-  - "Drama": "Drama"
-  - "Family":"Family"
-  - "Fantasy":"Fantasy"
-  - "History":"History"
-  - "Horror": "Horror"
-  - "Music":"Music"
-  - "Mystery":"Mystery"
-  - "Romance":"Romance"
-  - "Science Fiction":"Science Fiction"
-  - "TV Movie":"TV Movie"
-  - "Thriller":"Thriller"
-  - "War":"War"
-  - "Western":"Western"
+  - Action
+  - Adventure
+  - Animation
+  - Comedy
+  - Crime
+  - Documentary
+  - Drama
+  - Family
+  - Fantasy
+  - History
+  - Horror
+  - Music
+  - Mystery
+  - Romance
+  - Science Fiction
+  - TV Movie
+  - Thriller
+  - War
+  - Western
   multiple: true
-  help_text: "Use <kdb>⌘</kdb>+<kdb>click</kdb> or <kdb>ctrl</kdb>+<kdb>click</kdb> to select and deselect multiple options."
+  help_text: Use <kdb>⌘</kdb>+<kdb>click</kdb> or <kdb>ctrl</kdb>+<kdb>click</kdb> to select and deselect multiple options.
+  optional: true
 - keyname: min_year
   field_type: number
-  name: "Minimum year of the movies"
-  description: "Minimum year of the movies"
+  name: Minimum year of the movies
+  description: Minimum year of the movies
   min: 1900
   max: 2050
-  default: 1900
+  placeholder: 1900
+  optional: true
 - keyname: max_year
   field_type: number
-  name: "Maximum year of the movies"
-  description: "Maximum year of the movies"
+  name: Maximum year of the movies
+  description: Maximum year of the movies
   min: 1900
   max: 2050
+  placeholder: 2025
   optional: true
 name: Movie Guesser
 refresh_interval: 15

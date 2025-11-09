@@ -1,0 +1,76 @@
+{% comment %}
+TRMNL Movie Guesser Plugin
+Displays a random movie still from your curated dataset
+{% endcomment %}
+{% comment %} User configurable settings {% endcomment %}
+{% assign show_title = false %}
+{% assign min_year = trmnl.plugin_settings.custom_fields_values.min_year %}
+{% assign max_year = trmnl.plugin_settings.custom_fields_values.max_year %}
+{% assign genre_filter = trmnl.plugin_settings.custom_fields_values.genres %}
+{% assign top_movies_limit = trmnl.plugin_settings.custom_fields_values.max_rank_movies | default: 500 %}
+{% assign long_title = long_title | default: false %}
+
+{% comment %} Load the movies dataset {% endcomment %}
+{% assign all_movies = data %}
+
+{% comment %} Filter movies by year range and genre {% endcomment %}
+{% assign filtered_movies = "" | split: "" %}
+
+{% for movie in all_movies %}
+  {% assign should_include = true %}
+  
+  {% comment %} Check year range {% endcomment %}
+  {% assign movie_year = movie.year | plus: 0 %}
+  {% if min_year and movie_year < min_year %}
+    {% assign should_include = false %}
+  {% endif %}
+  {% if max_year and movie_year > max_year %}
+    {% assign should_include = false %}
+  {% endif %}
+
+  
+  {% comment %} Check genre filter - FIXED VERSION {% endcomment %}
+  {% if genre_filter != blank and should_include == true %}
+    {% assign filter_match = false %}
+    {% comment %} Normalize movie genres for comparison {% endcomment %}
+    {% assign movie_genres_normalized = movie.genres | downcase | replace: " ", "_" %}
+    {% comment %} Check if any of the filter genres match the movie's genres {% endcomment %}
+    {% for filter_genre in genre_filter %}
+      {% if movie_genres_normalized contains filter_genre %}
+        {% assign filter_match = true %}
+        {% break %}
+      {% endif %}
+    {% endfor %}
+    {% unless filter_match %}
+      {% assign should_include = false %}
+    {% endunless %}
+  {% endif %}
+  
+  {% comment %} Add to filtered array if it passes all filters {% endcomment %}
+  {% if should_include == true %}
+    {% assign temp_array = all_movies | slice: forloop.index0, 1 %}
+    {% assign filtered_movies = filtered_movies | concat: temp_array %}
+  {% endif %}
+{% endfor %}
+
+{% assign limited_movies = filtered_movies | slice: 0, top_movies_limit %}
+
+{% comment %} Pick a random movie from filtered list {% endcomment %}
+{% assign random_index = "now" | date: "%s" | modulo: limited_movies.size %}
+{% assign selected_movie = limited_movies[random_index] %}
+
+{% comment %} Pick a random image from the movie's images {% endcomment %}
+{% assign image_count = selected_movie.images.size %}
+{% assign random_image_index = "now" | date: "%N" | modulo: image_count %}
+{% assign selected_image = selected_movie.images[random_image_index] %}
+
+{% comment %} Construct image path {% endcomment %}
+{% assign image_path = selected_movie.id | append: "/" | append: selected_image %}
+{% assign movie_slug = selected_movie.title | downcase | replace: " ", "-" | replace: "'", "" | replace: ":", "" | replace: ",", "" | replace: ".", "" %}
+{% assign tmdb_url = "https://www.themoviedb.org/movie/" | append: selected_movie.id %}
+{% capture qr_content %}{{ selected_movie.title }} ({{ selected_movie.year }})
+{{ selected_movie.genres | join: ", " }}
+Rating: {{ selected_movie.rating | round: 1 }}/10
+{{ tmdb_url }}
+{% endcapture %}
+{% assign decade = selected_movie.year | divided_by: 10 | floor | times: 10 %}

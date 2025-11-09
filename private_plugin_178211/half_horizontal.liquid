@@ -1,5 +1,6 @@
 {% assign long_title = true %}
-  <style>
+
+<style>
   .movie-container {
     width: 100%;
     height: 100%;
@@ -23,14 +24,13 @@
 <div class="layout">
   <div class="layout movie-container">
     <div class="flex flex--row">
-      
       <img class="image main-image image-dither" src="https://raw.githubusercontent.com/excusemi/trmnl-movie-guesser-plugin/refs/heads/main/movie_dataset/{{ image_path }}" alt="Movie Still" class="movie-still">
     </div>
 
     <div id="qrcode" class="bg--white p--2.5">
       <span data-qr-mode="text" data-qr-size="100" data-text="{{qr_content}}" /></span>
     </div>
-
+  
   </div>
 </div>
 
