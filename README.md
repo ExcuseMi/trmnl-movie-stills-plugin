@@ -1,4 +1,4 @@
-# trmnl-movie-stills-plugin
+# trmnl-movie-guesser-plugin
 
 <!-- PLUGIN_STATS_START -->
 ## 🚀 TRMNL Plugin(s)

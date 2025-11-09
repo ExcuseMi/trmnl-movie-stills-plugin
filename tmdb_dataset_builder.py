@@ -155,53 +155,60 @@ class TMDBDatasetBuilder:
 
             # Create movie folder using movie ID
             movie_dir = self.output_dir / str(movie_id)
+            folder_existed : bool =  movie_dir.exists()
             movie_dir.mkdir(exist_ok=True)
+            movie_json_path = movie_dir / "movie.json"
 
-            # Get images for this movie
-            image_paths = self.get_movie_images(movie_id)
+            if not folder_existed or not movie_json_path.exists():
+                # Get images for this movie
+                image_paths = self.get_movie_images(movie_id)
 
 
-            if not image_paths:
-                print(f"  No images found, skipping...")
-                continue
+                if not image_paths:
+                    print(f"  No images found, skipping...")
+                    continue
 
-            # Download and convert images
-            downloaded_images = []
-            for img_idx, img_path in enumerate(image_paths):
-                filename = f"still_{img_idx}.webp"
-                save_path = movie_dir / filename
+                # Download and convert images
+                downloaded_images = []
+                for img_idx, img_path in enumerate(image_paths):
+                    filename = f"still_{img_idx}.webp"
+                    save_path = movie_dir / filename
 
-                if save_path.exists():
-                    print(f"  Image {img_idx + 1} already exists")
-                    downloaded_images.append(filename)
-                else:
-                    print(f"  Downloading image {img_idx + 1}/{len(image_paths)}...")
-                    if self.download_and_convert_image(img_path, save_path):
+                    if save_path.exists():
+                        print(f"  Image {img_idx + 1} already exists")
                         downloaded_images.append(filename)
-                        time.sleep(0.1)  # Rate limiting
+                    else:
+                        print(f"  Downloading image {img_idx + 1}/{len(image_paths)}...")
+                        if self.download_and_convert_image(img_path, save_path):
+                            downloaded_images.append(filename)
+                            time.sleep(0.1)  # Rate limiting
 
-            if not downloaded_images:
-                print(f"  No images downloaded, skipping...")
-                continue
+                if not downloaded_images:
+                    print(f"  No images downloaded, skipping...")
+                    continue
 
-            # Convert genre IDs to names
-            genre_names = [self.genres.get(gid, f"Unknown_{gid}") for gid in movie.get('genre_ids', [])]
+                # Convert genre IDs to names
+                genre_names = [self.genres.get(gid, f"Unknown_{gid}") for gid in movie.get('genre_ids', [])]
 
-            # Store metadata
-            movie_data = {
-                "id": movie_id,
-                "title": title,
-                "year": movie.get('release_date', '')[:4],
-                "overview": movie.get('overview'),
-                "rating": movie.get('vote_average'),
-                "genres": genre_names,
-                "images": downloaded_images
-            }
+                # Store metadata
+                movie_data = {
+                    "id": movie_id,
+                    "title": title,
+                    "year": movie.get('release_date', '')[:4],
+                    "overview": movie.get('overview'),
+                    "rating": movie.get('vote_average'),
+                    "genres": genre_names,
+                    "images": downloaded_images
+                }
+                with open(movie_json_path, 'w', encoding='utf-8') as f:
+                    json.dump(movie_data, f, indent=2, ensure_ascii=False)
 
-            # Only include original_title if different from title
-            if original_title and original_title != title:
-                movie_data["original_title"] = original_title
-
+                # Only include original_title if different from title
+                if original_title and original_title != title:
+                    movie_data["original_title"] = original_title
+            else:
+                with open(movie_json_path, 'r', encoding='utf-8') as f:
+                    movie_data = json.load(f)
             # Add to dataset
             dataset.append(movie_data)
 

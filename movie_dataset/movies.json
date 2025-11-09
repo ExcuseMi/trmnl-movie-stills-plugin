@@ -996,7 +996,7 @@
     "title": "Dead Poets Society",
     "year": "1989",
     "overview": "At an elite, old-fashioned boarding school in New England, a passionate English teacher inspires his students to rebel against convention and seize the potential of every day, courting the disdain of the stern headmaster.",
-    "rating": 8.301,
+    "rating": 8.3,
     "genres": [
       "Drama"
     ],
@@ -1866,8 +1866,7 @@
     ],
     "images": [
       "still_0.webp",
-      "still_1.webp",
-      "still_2.webp"
+      "still_1.webp"
     ]
   },
   {
@@ -2267,9 +2266,7 @@
       "Drama"
     ],
     "images": [
-      "still_0.webp",
-      "still_1.webp",
-      "still_2.webp"
+      "still_0.webp"
     ],
     "original_title": "Det sjunde inseglet"
   },
@@ -3523,7 +3520,6 @@
       "Adventure"
     ],
     "images": [
-      "still_0.webp",
       "still_1.webp",
       "still_2.webp"
     ]
@@ -4855,9 +4851,7 @@
       "Drama"
     ],
     "images": [
-      "still_0.webp",
-      "still_1.webp",
-      "still_2.webp"
+      "still_1.webp"
     ]
   },
   {
@@ -5045,8 +5039,7 @@
     ],
     "images": [
       "still_0.webp",
-      "still_1.webp",
-      "still_2.webp"
+      "still_1.webp"
     ]
   },
   {
@@ -6976,8 +6969,7 @@
     ],
     "images": [
       "still_0.webp",
-      "still_1.webp",
-      "still_2.webp"
+      "still_1.webp"
     ]
   },
   {
@@ -7627,7 +7619,6 @@
     ],
     "images": [
       "still_0.webp",
-      "still_1.webp",
       "still_2.webp"
     ],
     "original_title": "ドラゴンボール超 スーパーヒーロー"
@@ -9997,6 +9988,23 @@
     "original_title": "劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来"
   },
   {
+    "id": 1062722,
+    "title": "Frankenstein",
+    "year": "2025",
+    "overview": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both the creator and his tragic creation.",
+    "rating": 7.9,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Fantasy"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_1.webp",
+      "still_2.webp"
+    ]
+  },
+  {
     "id": 398924,
     "title": "A Bag of Marbles",
     "year": "2017",
@@ -10119,23 +10127,6 @@
     "original_title": "Io capitano"
   },
   {
-    "id": 937746,
-    "title": "Io Capitano",
-    "year": "2023",
-    "overview": "Longing for a brighter future, two Senegalese teenagers embark on a journey from West Africa to Italy. However, between their dreams and reality lies a labyrinth of checkpoints, the Sahara Desert, and the vast waters of the Mediterranean.",
-    "rating": 7.802,
-    "genres": [
-      "Adventure",
-      "Drama"
-    ],
-    "images": [
-      "still_0.webp",
-      "still_1.webp",
-      "still_2.webp"
-    ],
-    "original_title": "Io capitano"
-  },
-  {
     "id": 393559,
     "title": "My Life as a Zucchini",
     "year": "2016",
@@ -10173,7 +10164,7 @@
     "title": "Toy Story 3",
     "year": "2010",
     "overview": "Woody, Buzz, and the rest of Andy's toys haven't been played with in years. With Andy about to go to college, the gang find themselves accidentally left at a nefarious day care center. The toys must band together to escape and return home to Andy.",
-    "rating": 7.803,
+    "rating": 7.802,
     "genres": [
       "Animation",
       "Family",
@@ -10356,7 +10347,7 @@
     "title": "The Wizards Return: Alex vs. Alex",
     "year": "2013",
     "overview": "While trying to prove to her family she can be mature and responsible, teen wizard Alex Russo conjures up a spell to rid herself of her bad qualities, unintentionally creating a Good and Evil Alex. When Evil Alex gets involved in a plan to take over the world by a dark wizard, Good Alex must find a way to save her family, humankind, and ultimately herself in an epic Good vs. Evil battle.",
-    "rating": 7.801,
+    "rating": 7.797,
     "genres": [
       "Family",
       "Comedy",
@@ -10408,7 +10399,7 @@
     "title": "Porco Rosso",
     "year": "1992",
     "overview": "In Italy in the 1930s, sky pirates in biplanes terrorize wealthy cruise ships as they sail the Adriatic Sea. The only pilot brave enough to stop the scourge is the mysterious Porco Rosso, a former World War I flying ace who was somehow turned into a pig during the war. As he prepares to battle the pirate crew's American ace, Porco Rosso enlists the help of spunky girl mechanic Fio Piccolo and his longtime friend Madame Gina.",
-    "rating": 7.795,
+    "rating": 7.796,
     "genres": [
       "Family",
       "Comedy",
@@ -10449,6 +10440,21 @@
       "Fantasy",
       "Adventure",
       "Family"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_1.webp",
+      "still_2.webp"
+    ]
+  },
+  {
+    "id": 22683,
+    "title": "Gifted Hands: The Ben Carson Story",
+    "year": "2009",
+    "overview": "Gifted Hands: The Ben Carson Story is a movie based on the life story of world-renowned neurosurgeon Ben Carson from 1961 to 1987.",
+    "rating": 7.794,
+    "genres": [
+      "Drama"
     ],
     "images": [
       "still_0.webp",
@@ -12476,24 +12482,6 @@
     ]
   },
   {
-    "id": 10020,
-    "title": "Beauty and the Beast",
-    "year": "1991",
-    "overview": "Follow the adventures of Belle, a bright young woman who finds herself in the castle of a prince who's been turned into a mysterious beast. With the help of the castle's enchanted staff, Belle soon learns the most important lesson of all -- that true beauty comes from within.",
-    "rating": 7.729,
-    "genres": [
-      "Romance",
-      "Family",
-      "Animation",
-      "Fantasy"
-    ],
-    "images": [
-      "still_0.webp",
-      "still_1.webp",
-      "still_2.webp"
-    ]
-  },
-  {
     "id": 2108,
     "title": "The Breakfast Club",
     "year": "1985",
@@ -13124,6 +13112,24 @@
       "still_1.webp",
       "still_2.webp"
     ]
+  },
+  {
+    "id": 980026,
+    "title": "The Promised Land",
+    "year": "2023",
+    "overview": "Denmark, 1755. Captain Ludvig Kahlen sets out to conquer a Danish heath reputed to be uncultivable, with an impossible goal: to establish a colony in the name of the king, in exchange for a royal title. A single-minded ambition that the ruthless lord of the region will relentlessly seek to put down. Kahlen's fate hangs in the balance: will his endevours bring him wealth and honour, or cost him his life...?",
+    "rating": 7.707,
+    "genres": [
+      "Action",
+      "Drama",
+      "History"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_1.webp",
+      "still_2.webp"
+    ],
+    "original_title": "Bastarden"
   },
   {
     "id": 980026,
@@ -14156,24 +14162,6 @@
     "original_title": "Ma nuit chez Maud"
   },
   {
-    "id": 48831,
-    "title": "My Night at Maud's",
-    "year": "1969",
-    "overview": "The Catholic Jean-Louis runs into an old friend, the Marxist Vidal, in Clermont-Ferrand around Christmas. Vidal introduces Jean-Louis to the modestly libertine, recently divorced Maud and the three engage in conversation on religion, atheism, love, morality and Blaise Pascal's life and writings on philosophy, faith and mathematics. Jean-Louis ends up spending a night at Maud's. Jean-Louis' Catholic views on marriage, fidelity and obligation make his situation a dilemma, as he has already, at the very beginning of the film, proclaimed his love for a young woman whom, however, he has never yet spoken to.",
-    "rating": 7.679,
-    "genres": [
-      "Romance",
-      "Comedy",
-      "Drama"
-    ],
-    "images": [
-      "still_0.webp",
-      "still_1.webp",
-      "still_2.webp"
-    ],
-    "original_title": "Ma nuit chez Maud"
-  },
-  {
     "id": 799766,
     "title": "Better Man",
     "year": "2024",
@@ -14483,6 +14471,23 @@
       "History",
       "Action",
       "Thriller"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_1.webp",
+      "still_2.webp"
+    ]
+  },
+  {
+    "id": 993,
+    "title": "Sleuth",
+    "year": "1972",
+    "overview": "A man who loves games and theater invites his wife's lover to meet him, setting up a battle of wits with potentially deadly results.",
+    "rating": 7.672,
+    "genres": [
+      "Thriller",
+      "Mystery",
+      "Crime"
     ],
     "images": [
       "still_0.webp",
@@ -15144,23 +15149,6 @@
     ]
   },
   {
-    "id": 891,
-    "title": "All the President's Men",
-    "year": "1976",
-    "overview": "During the 1972 elections, two reporters' investigation sheds light on the controversial Watergate scandal that compels President Nixon to resign from his post.",
-    "rating": 7.65,
-    "genres": [
-      "Drama",
-      "Mystery",
-      "Thriller"
-    ],
-    "images": [
-      "still_0.webp",
-      "still_1.webp",
-      "still_2.webp"
-    ]
-  },
-  {
     "id": 812,
     "title": "Aladdin",
     "year": "1992",
@@ -15480,6 +15468,24 @@
       "still_2.webp"
     ],
     "original_title": "吸血鬼ハンターD ブラッドラスト"
+  },
+  {
+    "id": 871,
+    "title": "Planet of the Apes",
+    "year": "1968",
+    "overview": "Astronaut Taylor crash lands on a distant planet ruled by apes who use a primitive race of humans for experimentation and sport. Soon Taylor finds himself among the hunted, his life in the hands of a benevolent chimpanzee scientist.",
+    "rating": 7.643,
+    "genres": [
+      "Science Fiction",
+      "Adventure",
+      "Drama",
+      "Action"
+    ],
+    "images": [
+      "still_0.webp",
+      "still_1.webp",
+      "still_2.webp"
+    ]
   },
   {
     "id": 871,
@@ -16139,21 +16145,6 @@
     ]
   },
   {
-    "id": 426426,
-    "title": "Roma",
-    "year": "2018",
-    "overview": "In 1970s Mexico City, two domestic workers help a mother of four while her husband is away for an extended period of time.",
-    "rating": 7.625,
-    "genres": [
-      "Drama"
-    ],
-    "images": [
-      "still_0.webp",
-      "still_1.webp",
-      "still_2.webp"
-    ]
-  },
-  {
     "id": 38251,
     "title": "Mediterraneo",
     "year": "1991",
@@ -16466,7 +16457,6 @@
       "History"
     ],
     "images": [
-      "still_0.webp",
       "still_1.webp",
       "still_2.webp"
     ]
