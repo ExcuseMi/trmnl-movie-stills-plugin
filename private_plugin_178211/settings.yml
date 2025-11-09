@@ -12,20 +12,20 @@ custom_fields:
 - keyname: about
   name: About This Plugin
   field_type: author_bio
-  description: 'Movie Guesser - Test your film knowledge!<br /><br /> This plugin displays random movie stills from a curated dataset of top-rated films. Perfect for movie buffs who want to challenge their cinematic knowledge.<br /><br /> <b>Features:</b><br /> ● Display random movie stills from top-rated films<br /> ● Filter by genre, year range, and popularity rank<br /> ● QR code with movie details for instant verification<br /> ● Clean, focused interface for guessing games<br /><br /> <b>Configuration Options:</b><br /> ● <b>Maximum rank</b>: Show only top-rated movies (1-1000)<br /> ● <b>Genre filter</b>: Focus on specific genres or mix<br /> ● <b>Year range</b>: Limit to specific decades or eras<br /><br /> Perfect for movie nights, film education, or testing your cinephile knowledge!<br /> Made with <a href=https://www.themoviedb.org/>TheMovieDB</a>'
+  description: Movie Guesser - Test your film knowledge!<br /><br /> This plugin displays random movie stills from top-rated films. Challenge yourself to identify movies from a single frame.<br /><br /> <b>Features:</b><br /> ● Random stills from critically acclaimed films<br /> ● Customizable filters for genre, year, and popularity<br /> ● QR code reveals movie details and TMDB link<br /> ● Clean interface perfect for guessing games<br /><br /> <b>How it works:</b><br /> Each refresh shows a new random still from your filtered movie selection. Scan the QR code to reveal the answer and see full movie details.<br /><br /> Powered by <a href=https://www.themoviedb.org/>TheMovieDB</a>
   github_url: https://github.com/ExcuseMi/trmnl-movie-guesser-plugin
 - keyname: max_rank_movies
   field_type: number
-  name: Maximum rank of the movies
-  description: Maximum rank of the movies
+  name: Maximum Movie Rank
+  description: Only show movies ranked within the top X most popular films (1-1000)
   min: 1
   max: 1000
-  placeholder: 1000
+  placeholder: 500
   optional: true
-- keyname: genres
+- keyname: genre_inclusions
   field_type: select
-  name: Genre Filter
-  description: Only show movies that for these genres.<br />Leave empty to show all.
+  name: Genre Inclusions
+  description: Only show movies from these genres
   options:
   - Action
   - Adventure
@@ -47,20 +47,47 @@ custom_fields:
   - War
   - Western
   multiple: true
-  help_text: Use <kdb>⌘</kdb>+<kdb>click</kdb> or <kdb>ctrl</kdb>+<kdb>click</kdb> to select and deselect multiple options.
+  help_text: Use <kbd>⌘</kbd>+<kbd>click</kbd> or <kbd>ctrl</kbd>+<kbd>click</kbd> to select multiple genres. Leave empty to show all genres.
+  optional: true
+- keyname: genre_exclusions
+  field_type: select
+  name: Genre Exclusions
+  description: Exclude specific genres from appearing
+  options:
+  - Action
+  - Adventure
+  - Animation
+  - Comedy
+  - Crime
+  - Documentary
+  - Drama
+  - Family
+  - Fantasy
+  - History
+  - Horror
+  - Music
+  - Mystery
+  - Romance
+  - Science Fiction
+  - TV Movie
+  - Thriller
+  - War
+  - Western
+  multiple: true
+  help_text: Use <kbd>⌘</kbd>+<kbd>click</kbd> or <kbd>ctrl</kbd>+<kbd>click</kbd> to select multiple genres.
   optional: true
 - keyname: min_year
   field_type: number
-  name: Minimum year of the movies
-  description: Minimum year of the movies
+  name: Minimum Release Year
+  description: Only show movies released in or after this year.<br /><i>Leave empty to use no restrictions.</i>
   min: 1900
   max: 2050
-  placeholder: 1900
+  placeholder: 1970
   optional: true
 - keyname: max_year
   field_type: number
-  name: Maximum year of the movies
-  description: Maximum year of the movies
+  name: Maximum Release Year
+  description: Only show movies released in or before this year.<br /><i>Leave empty to use no restrictions.</i>
   min: 1900
   max: 2050
   placeholder: 2025

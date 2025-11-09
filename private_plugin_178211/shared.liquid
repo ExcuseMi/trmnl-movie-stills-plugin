@@ -2,18 +2,18 @@
 TRMNL Movie Guesser Plugin
 Displays a random movie still from your curated dataset
 {% endcomment %}
-{% comment %} User configurable settings {% endcomment %}
-{% assign show_title = false %}
+
+{% comment %} Load user settings {% endcomment %}
 {% assign min_year = trmnl.plugin_settings.custom_fields_values.min_year %}
 {% assign max_year = trmnl.plugin_settings.custom_fields_values.max_year %}
-{% assign genre_filter = trmnl.plugin_settings.custom_fields_values.genres %}
+{% assign genre_inclusions = trmnl.plugin_settings.custom_fields_values.genre_inclusions %}
+{% assign genre_exclusions = trmnl.plugin_settings.custom_fields_values.genre_exclusions %}
 {% assign top_movies_limit = trmnl.plugin_settings.custom_fields_values.max_rank_movies | default: 500 %}
-{% assign long_title = long_title | default: false %}
 
 {% comment %} Load the movies dataset {% endcomment %}
 {% assign all_movies = data %}
 
-{% comment %} Filter movies by year range and genre {% endcomment %}
+{% comment %} Filter movies by all criteria {% endcomment %}
 {% assign filtered_movies = "" | split: "" %}
 
 {% for movie in all_movies %}
@@ -27,23 +27,33 @@ Displays a random movie still from your curated dataset
   {% if max_year and movie_year > max_year %}
     {% assign should_include = false %}
   {% endif %}
-
   
-  {% comment %} Check genre filter - FIXED VERSION {% endcomment %}
-  {% if genre_filter != blank and should_include == true %}
-    {% assign filter_match = false %}
-    {% comment %} Normalize movie genres for comparison {% endcomment %}
-    {% assign movie_genres_normalized = movie.genres | downcase | replace: " ", "_" %}
-    {% comment %} Check if any of the filter genres match the movie's genres {% endcomment %}
-    {% for filter_genre in genre_filter %}
-      {% if movie_genres_normalized contains filter_genre %}
-        {% assign filter_match = true %}
+  {% comment %} Check genre inclusions (whitelist) {% endcomment %}
+  {% if genre_inclusions != blank and should_include == true %}
+    {% assign inclusion_match = false %}
+    {% assign movie_genres_normalized = movie.genres | join: "|" | downcase | replace: " ", "_" %}
+    {% for included_genre in genre_inclusions %}
+      {% assign normalized_genre = included_genre | downcase | replace: " ", "_" %}
+      {% if movie_genres_normalized contains normalized_genre %}
+        {% assign inclusion_match = true %}
         {% break %}
       {% endif %}
     {% endfor %}
-    {% unless filter_match %}
+    {% unless inclusion_match %}
       {% assign should_include = false %}
     {% endunless %}
+  {% endif %}
+  
+  {% comment %} Check genre exclusions (blacklist) {% endcomment %}
+  {% if genre_exclusions != blank and should_include == true %}
+    {% assign movie_genres_normalized = movie.genres | join: "|" | downcase | replace: " ", "_" %}
+    {% for excluded_genre in genre_exclusions %}
+      {% assign normalized_genre = excluded_genre | downcase | replace: " ", "_" %}
+      {% if movie_genres_normalized contains normalized_genre %}
+        {% assign should_include = false %}
+        {% break %}
+      {% endif %}
+    {% endfor %}
   {% endif %}
   
   {% comment %} Add to filtered array if it passes all filters {% endcomment %}
@@ -53,6 +63,7 @@ Displays a random movie still from your curated dataset
   {% endif %}
 {% endfor %}
 
+{% comment %} Limit to top N movies {% endcomment %}
 {% assign limited_movies = filtered_movies | slice: 0, top_movies_limit %}
 
 {% comment %} Pick a random movie from filtered list {% endcomment %}
@@ -64,13 +75,14 @@ Displays a random movie still from your curated dataset
 {% assign random_image_index = "now" | date: "%N" | modulo: image_count %}
 {% assign selected_image = selected_movie.images[random_image_index] %}
 
-{% comment %} Construct image path {% endcomment %}
+{% comment %} Construct image path and URLs {% endcomment %}
 {% assign image_path = selected_movie.id | append: "/" | append: selected_image %}
-{% assign movie_slug = selected_movie.title | downcase | replace: " ", "-" | replace: "'", "" | replace: ":", "" | replace: ",", "" | replace: ".", "" %}
-{% assign tmdb_url = "https://www.themoviedb.org/movie/" | append: selected_movie.id %}
+{% assign movie_slug = selected_movie.title | downcase | replace: " ", "-" | replace: "'", "" | replace: ":", "" | replace: ",", "" | replace: ".", "" | replace: "!", "" | replace: "?", "" %}
+{% assign tmdb_url = "https://www.themoviedb.org/movie/" | append: selected_movie.id | append: "-" | append: movie_slug %}
+
+{% comment %} Create QR code content with movie details {% endcomment %}
 {% capture qr_content %}{{ selected_movie.title }} ({{ selected_movie.year }})
 {{ selected_movie.genres | join: ", " }}
 Rating: {{ selected_movie.rating | round: 1 }}/10
-{{ tmdb_url }}
-{% endcapture %}
-{% assign decade = selected_movie.year | divided_by: 10 | floor | times: 10 %}
+{{ tmdb_url }}{% endcapture %}
+    {% assign decade = selected_movie.year | divided_by: 10 | floor | times: 10 %}
