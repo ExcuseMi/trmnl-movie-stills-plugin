@@ -142,7 +142,7 @@ class TMDBDatasetBuilder:
         dataset = []
 
         print(f"\nProcessing {len(movies)} movies and downloading images...")
-        processed_count = 0
+
         for idx, movie in enumerate(movies, 1):
             movie_id = movie['id']
             title = movie['title']
@@ -183,8 +183,6 @@ class TMDBDatasetBuilder:
                 print(f"  No images downloaded, skipping...")
                 continue
 
-            processed_count += 1
-
             # Convert genre IDs to names
             genre_names = [self.genres.get(gid, f"Unknown_{gid}") for gid in movie.get('genre_ids', [])]
 
@@ -203,38 +201,46 @@ class TMDBDatasetBuilder:
             if original_title and original_title != title:
                 movie_data["original_title"] = original_title
 
-            # Save movie.json in the movie folder
-            movie_json_path = movie_dir / "movie.json"
-            with open(movie_json_path, 'w', encoding='utf-8') as f:
-                json.dump(movie_data, f, indent=2, ensure_ascii=False)
+            # Add to dataset
+            dataset.append(movie_data)
 
-
-            # Progress update
+            # Progress update and save periodically
             if idx % 50 == 0:
-                print(f"\n  Progress: {processed_count} movies processed with images")
+                self.save_dataset(dataset)
+                print(f"\n  Progress saved! ({len(dataset)} movies with images)")
 
-        print(f"\n✅ Dataset complete! {processed_count} movies processed.")
+        # Final save
+        self.save_dataset(dataset)
+        print(f"\n✅ Dataset complete! {len(dataset)} movies with images saved.")
         print(f"📁 Location: {self.output_dir.absolute()}")
 
-        return processed_count
+        return len(dataset)
+
+    def save_dataset(self, dataset: List[Dict]):
+        """Save dataset to JSON file"""
+        output_file = self.output_dir / "movies.json"
+        with open(output_file, 'w', encoding='utf-8') as f:
+            json.dump(dataset, f, indent=2, ensure_ascii=False)
 
     def print_stats(self):
         """Print dataset statistics"""
-        movie_dirs = [d for d in self.output_dir.iterdir() if d.is_dir()]
-        total_images = 0
+        movies_file = self.output_dir / "movies.json"
+        if not movies_file.exists():
+            print("No dataset found!")
+            return
 
-        for movie_dir in movie_dirs:
-            images = list(movie_dir.glob("*.webp"))
-            total_images += len(images)
+        with open(movies_file, 'r', encoding='utf-8') as f:
+            dataset = json.load(f)
+
+        total_images = sum(len(m['images']) for m in dataset)
 
         print("\n📊 Dataset Statistics:")
-        print(f"  Total movies: {len(movie_dirs)}")
+        print(f"  Total movies: {len(dataset)}")
         print(f"  Total images: {total_images}")
-        if movie_dirs:
-            print(f"  Avg images per movie: {total_images / len(movie_dirs):.1f}")
+        print(f"  Avg images per movie: {total_images / len(dataset):.1f}")
         print(f"  Storage location: {self.output_dir.absolute()}")
-
 load_dotenv()
+
 if __name__ == "__main__":
     # Check for PIL/Pillow
     try:
