@@ -1,0 +1,16 @@
+{
+  "id": 85,
+  "title": "Raiders of the Lost Ark",
+  "year": "1981",
+  "overview": "When Dr. Indiana Jones – the tweed-suited professor who just happens to be a celebrated archaeologist – is hired by the government to locate the legendary Ark of the Covenant, he finds himself up against the entire Nazi regime.",
+  "rating": 7.923,
+  "genres": [
+    "Adventure",
+    "Action"
+  ],
+  "images": [
+    "still_0.webp",
+    "still_1.webp",
+    "still_2.webp"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 808,
+  "title": "Shrek",
+  "year": "2001",
+  "overview": "It ain't easy bein' green -- especially if you're a likable (albeit smelly) ogre named Shrek. On a mission to retrieve a gorgeous princess from the clutches of a fire-breathing dragon, Shrek teams up with an unlikely compatriot -- a wisecracking donkey.",
+  "rating": 7.752,
+  "genres": [
+    "Animation",
+    "Comedy",
+    "Fantasy",
+    "Adventure",
+    "Family"
+  ],
+  "images": [
+    "still_0.webp",
+    "still_1.webp",
+    "still_2.webp"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 78,
+  "title": "Blade Runner",
+  "year": "1982",
+  "overview": "In the smog-choked dystopian Los Angeles of 2019, blade runner Rick Deckard is called out of retirement to terminate a quartet of replicants who have escaped to Earth seeking their creator for a way to extend their short life spans.",
+  "rating": 7.941,
+  "genres": [
+    "Science Fiction",
+    "Drama",
+    "Thriller"
+  ],
+  "images": [
+    "still_0.webp",
+    "still_1.webp",
+    "still_2.webp"
+  ]
+}

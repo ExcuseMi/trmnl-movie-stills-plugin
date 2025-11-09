@@ -1,0 +1,16 @@
+{
+  "id": 600,
+  "title": "Full Metal Jacket",
+  "year": "1987",
+  "overview": "A pragmatic U.S. Marine observes the dehumanizing effects the U.S.-Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue.",
+  "rating": 8.123,
+  "genres": [
+    "Drama",
+    "War"
+  ],
+  "images": [
+    "still_0.webp",
+    "still_1.webp",
+    "still_2.webp"
+  ]
+}

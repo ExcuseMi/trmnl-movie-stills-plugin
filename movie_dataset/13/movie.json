@@ -1,0 +1,17 @@
+{
+  "id": 13,
+  "title": "Forrest Gump",
+  "year": "1994",
+  "overview": "A man with a low IQ has accomplished great things in his life and been present during significant historic events—in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.",
+  "rating": 8.463,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "images": [
+    "still_0.webp",
+    "still_1.webp",
+    "still_2.webp"
+  ]
+}
