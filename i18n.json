@@ -1,0 +1,37 @@
+{
+  "en": {
+    "guess_prompt": "Can you guess this movie",
+    "from_decade": "from the",
+    "decade_suffix": "s",
+    "no_match": "No movie matched your filter criteria.",
+    "year_error": "You cannot have a minimum year defined later than the maximum year."
+  },
+  "nl": {
+    "guess_prompt": "Kun je deze film raden",
+    "from_decade": "uit de jaren",
+    "decade_suffix": "",
+    "no_match": "Geen film voldoet aan je filtercriteria.",
+    "year_error": "Het minimumjaar kan niet later zijn dan het maximumjaar."
+  },
+  "fr": {
+    "guess_prompt": "Pouvez-vous deviner ce film",
+    "from_decade": "des années",
+    "decade_suffix": "",
+    "no_match": "Aucun film ne correspond à vos critères de filtre.",
+    "year_error": "L'année minimum ne peut pas être postérieure à l'année maximum."
+  },
+  "de": {
+    "guess_prompt": "Können Sie diesen Film erraten",
+    "from_decade": "aus den",
+    "decade_suffix": "er Jahren",
+    "no_match": "Kein Film entspricht Ihren Filterkriterien.",
+    "year_error": "Das Mindestalter darf nicht später sein als das Höchstalter."
+  },
+  "es": {
+    "guess_prompt": "¿Puedes adivinar esta película",
+    "from_decade": "de los años",
+    "decade_suffix": "",
+    "no_match": "Ninguna película coincide con tus criterios de filtro.",
+    "year_error": "El año mínimo no puede ser posterior al año máximo."
+  }
+}
