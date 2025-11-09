@@ -19,15 +19,13 @@
   }
 </style>
 
-<div class="layout">
+<div class="layout m--0 p--0">
   {% if error_text %}
   <div>{{error_text}}</div>
   {% else %}
   {% if selected_movie %}
-  <div class="layout movie-container">
-    <div class="flex flex--row">
-      <img class="image main-image image-dither" src="https://raw.githubusercontent.com/excusemi/trmnl-movie-guesser-plugin/refs/heads/main/movie_dataset/{{ image_path }}" alt="Movie Still" class="movie-still">
-    </div>
+  <div class="movie-container">
+    <img class="image main-image image-dither" src="https://raw.githubusercontent.com/excusemi/trmnl-movie-guesser-plugin/refs/heads/main/movie_dataset/{{ image_path }}" alt="Movie Still" class="movie-still">
 
     <div id="qrcode" class="bg--white p--2.5 mb--2 mr--2">
       <span data-qr-mode="text" data-qr-size="100" data-text="{{qr_content}}" /></span>
@@ -38,11 +36,9 @@
   {% endif%}
   {% endif %}
 </div>
-
-<div class="title_bar">
-  <span class="title ml--3">Can you guess this movie{% if long_title %} from the {{decade}}s{% endif %}?</span>
+<div class="title_bar p--4">
+  <span class="title">Can you guess this movie{% if long_title %} from the {{decade}}s{% endif %}?</span>
 </div>
-
 <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js" integrity="sha512-CNgIRecGo7nphbeZ04Sc13ka07paqdeTu0WR1IM4kNcpmBAUSHSQX0FslNhTDadL4O5SAGapGt4FodqL8My0mA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script>
   Array.from(document.querySelectorAll('[data-qr-mode]')).forEach(e => {
