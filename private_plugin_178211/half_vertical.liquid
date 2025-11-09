@@ -26,7 +26,7 @@
   <div class="layout movie-container">
     <img class="image main-image image-dither" src="https://raw.githubusercontent.com/excusemi/trmnl-movie-guesser-plugin/refs/heads/main/movie_dataset/{{ image_path }}" alt="Movie Still" class="movie-still">
 
-    <div id="qrcode" class="bg--white p--1 mb--2 mr--2">
+    <div id="qrcode" data-content="{{qr_content}}" class="bg--white p--1 mb--2 mr--2">
       <qr>{{qr_content}}</qr>
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js" integrity="sha512-CNgIRecGo7nphbeZ04Sc13ka07paqdeTu0WR1IM4kNcpmBAUSHSQX0FslNhTDadL4O5SAGapGt4FodqL8My0mA==" crossorigin="anonymous" referrerpolicy="no-referrer" defer></script>

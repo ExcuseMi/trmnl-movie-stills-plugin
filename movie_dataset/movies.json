@@ -13,7 +13,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-shawshank-redemption"
   },
   {
     "id": 238,
@@ -28,7 +29,8 @@
     "images": [
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-godfather"
   },
   {
     "id": 240,
@@ -43,7 +45,8 @@
     "images": [
       "still_0.webp",
       "still_1.webp"
-    ]
+    ],
+    "slug": "the-godfather-part-ii"
   },
   {
     "id": 424,
@@ -60,7 +63,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "schindlers-list"
   },
   {
     "id": 389,
@@ -75,7 +79,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "12-angry-men"
   },
   {
     "id": 129,
@@ -93,7 +98,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "千と千尋の神隠し"
+    "original_title": "千と千尋の神隠し",
+    "slug": "spirited-away"
   },
   {
     "id": 155,
@@ -111,7 +117,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-dark-knight"
   },
   {
     "id": 19404,
@@ -129,7 +136,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "दिलवाले दुल्हनिया ले जायेंगे"
+    "original_title": "दिलवाले दुल्हनिया ले जायेंगे",
+    "slug": "dilwale-dulhania-le-jayenge"
   },
   {
     "id": 497,
@@ -146,7 +154,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-green-mile"
   },
   {
     "id": 496243,
@@ -164,7 +173,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "기생충"
+    "original_title": "기생충",
+    "slug": "parasite"
   },
   {
     "id": 122,
@@ -181,7 +191,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-lord-of-the-rings-the-return-of-the-king"
   },
   {
     "id": 680,
@@ -198,7 +209,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "pulp-fiction"
   },
   {
     "id": 372058,
@@ -216,7 +228,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "君の名は。"
+    "original_title": "君の名は。",
+    "slug": "your-name"
   },
   {
     "id": 13,
@@ -233,7 +246,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "forrest-gump"
   },
   {
     "id": 157336,
@@ -250,7 +264,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "interstellar"
   },
   {
     "id": 429,
@@ -266,7 +281,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Il buono, il brutto, il cattivo"
+    "original_title": "Il buono, il brutto, il cattivo",
+    "slug": "the-good-the-bad-and-the-ugly"
   },
   {
     "id": 769,
@@ -282,7 +298,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "goodfellas"
   },
   {
     "id": 346,
@@ -298,7 +315,8 @@
       "still_0.webp",
       "still_1.webp"
     ],
-    "original_title": "七人の侍"
+    "original_title": "七人の侍",
+    "slug": "seven-samurai"
   },
   {
     "id": 12477,
@@ -316,7 +334,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "火垂るの墓"
+    "original_title": "火垂るの墓",
+    "slug": "grave-of-the-fireflies"
   },
   {
     "id": 637,
@@ -332,7 +351,8 @@
       "still_0.webp",
       "still_1.webp"
     ],
-    "original_title": "La vita è bella"
+    "original_title": "La vita è bella",
+    "slug": "life-is-beautiful"
   },
   {
     "id": 550,
@@ -348,7 +368,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "fight-club"
   },
   {
     "id": 667257,
@@ -363,7 +384,8 @@
     "images": [
       "still_0.webp"
     ],
-    "original_title": "Cosas imposibles"
+    "original_title": "Cosas imposibles",
+    "slug": "impossible-things"
   },
   {
     "id": 14537,
@@ -381,7 +403,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "切腹"
+    "original_title": "切腹",
+    "slug": "harakiri"
   },
   {
     "id": 11216,
@@ -398,7 +421,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Nuovo Cinema Paradiso"
+    "original_title": "Nuovo Cinema Paradiso",
+    "slug": "cinema-paradiso"
   },
   {
     "id": 598,
@@ -415,7 +439,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Cidade de Deus"
+    "original_title": "Cidade de Deus",
+    "slug": "city-of-god"
   },
   {
     "id": 120,
@@ -432,7 +457,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-lord-of-the-rings-the-fellowship-of-the-ring"
   },
   {
     "id": 539,
@@ -449,7 +475,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "psycho"
   },
   {
     "id": 40096,
@@ -468,7 +495,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "O Auto da Compadecida"
+    "original_title": "O Auto da Compadecida",
+    "slug": "a-dogs-will"
   },
   {
     "id": 510,
@@ -482,7 +510,8 @@
     "images": [
       "still_0.webp",
       "still_1.webp"
-    ]
+    ],
+    "slug": "one-flew-over-the-cuckoos-nest"
   },
   {
     "id": 121,
@@ -499,7 +528,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-lord-of-the-rings-the-two-towers"
   },
   {
     "id": 696374,
@@ -515,7 +545,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "gabriels-inferno"
   },
   {
     "id": 311,
@@ -530,7 +561,8 @@
     "images": [
       "still_0.webp",
       "still_1.webp"
-    ]
+    ],
+    "slug": "once-upon-a-time-in-america"
   },
   {
     "id": 255709,
@@ -546,7 +578,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "소원"
+    "original_title": "소원",
+    "slug": "hope"
   },
   {
     "id": 324857,
@@ -564,7 +597,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "spider-man-into-the-spider-verse"
   },
   {
     "id": 4935,
@@ -582,7 +616,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "ハウルの動く城"
+    "original_title": "ハウルの動く城",
+    "slug": "howls-moving-castle"
   },
   {
     "id": 1891,
@@ -599,7 +634,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-empire-strikes-back"
   },
   {
     "id": 378064,
@@ -617,7 +653,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "映画 聲の形"
+    "original_title": "映画 聲の形",
+    "slug": "a-silent-voice-the-movie"
   },
   {
     "id": 423,
@@ -633,7 +670,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-pianist"
   },
   {
     "id": 807,
@@ -650,7 +688,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "se7en"
   },
   {
     "id": 244786,
@@ -666,7 +705,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "whiplash"
   },
   {
     "id": 27205,
@@ -683,7 +723,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "inception"
   },
   {
     "id": 724089,
@@ -699,7 +740,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "gabriels-inferno-part-ii"
   },
   {
     "id": 770156,
@@ -713,7 +755,8 @@
     ],
     "images": [
       "still_0.webp"
-    ]
+    ],
+    "slug": "lucy-shimmers-and-the-prince-of-peace"
   },
   {
     "id": 1058694,
@@ -728,7 +771,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "radical"
   },
   {
     "id": 761053,
@@ -742,7 +786,8 @@
     ],
     "images": [
       "still_0.webp"
-    ]
+    ],
+    "slug": "gabriels-inferno-part-iii"
   },
   {
     "id": 12493,
@@ -759,7 +804,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "天国と地獄"
+    "original_title": "天国と地獄",
+    "slug": "high-and-low"
   },
   {
     "id": 567,
@@ -775,7 +821,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "rear-window"
   },
   {
     "id": 274,
@@ -792,7 +839,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-silence-of-the-lambs"
   },
   {
     "id": 569094,
@@ -809,7 +857,8 @@
     "images": [
       "still_0.webp",
       "still_1.webp"
-    ]
+    ],
+    "slug": "spider-man-across-the-spider-verse"
   },
   {
     "id": 620249,
@@ -826,7 +875,8 @@
       "still_0.webp",
       "still_1.webp"
     ],
-    "original_title": "罗小黑战记"
+    "original_title": "罗小黑战记",
+    "slug": "the-legend-of-hei"
   },
   {
     "id": 73,
@@ -841,7 +891,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "american-history-x"
   },
   {
     "id": 128,
@@ -859,7 +910,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "もののけ姫"
+    "original_title": "もののけ姫",
+    "slug": "princess-mononoke"
   },
   {
     "id": 105,
@@ -876,7 +928,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "back-to-the-future"
   },
   {
     "id": 1184918,
@@ -894,7 +947,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-wild-robot"
   },
   {
     "id": 15804,
@@ -911,7 +965,8 @@
       "still_0.webp",
       "still_2.webp"
     ],
-    "original_title": "牯嶺街少年殺人事件"
+    "original_title": "牯嶺街少年殺人事件",
+    "slug": "a-brighter-summer-day"
   },
   {
     "id": 820067,
@@ -928,7 +983,8 @@
       "still_0.webp",
       "still_1.webp"
     ],
-    "original_title": "映画 五等分の花嫁"
+    "original_title": "映画 五等分の花嫁",
+    "slug": "the-quintessential-quintuplets-movie"
   },
   {
     "id": 372754,
@@ -944,7 +1000,8 @@
       "still_0.webp",
       "still_1.webp"
     ],
-    "original_title": "同級生"
+    "original_title": "同級生",
+    "slug": "dou-kyu-sei-classmates"
   },
   {
     "id": 3782,
@@ -960,7 +1017,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "生きる"
+    "original_title": "生きる",
+    "slug": "ikiru"
   },
   {
     "id": 10494,
@@ -977,7 +1035,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "PERFECT BLUE"
+    "original_title": "PERFECT BLUE",
+    "slug": "perfect-blue"
   },
   {
     "id": 207,
@@ -992,7 +1051,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "dead-poets-society"
   },
   {
     "id": 101,
@@ -1010,7 +1070,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Léon"
+    "original_title": "Léon",
+    "slug": "lon-the-professional"
   },
   {
     "id": 1186532,
@@ -1025,7 +1086,8 @@
     "images": [
       "still_0.webp",
       "still_1.webp"
-    ]
+    ],
+    "slug": "the-forge"
   },
   {
     "id": 652837,
@@ -1043,7 +1105,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "ジョゼと虎と魚たち"
+    "original_title": "ジョゼと虎と魚たち",
+    "slug": "josee-the-tiger-and-the-fish"
   },
   {
     "id": 914,
@@ -1059,7 +1122,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-great-dictator"
   },
   {
     "id": 599,
@@ -1074,7 +1138,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "sunset-boulevard"
   },
   {
     "id": 533514,
@@ -1092,7 +1157,8 @@
       "still_0.webp",
       "still_1.webp"
     ],
-    "original_title": "劇場版 ヴァイオレット・エヴァーガーデン"
+    "original_title": "劇場版 ヴァイオレット・エヴァーガーデン",
+    "slug": "violet-evergarden-the-movie"
   },
   {
     "id": 1139087,
@@ -1108,7 +1174,8 @@
     ],
     "images": [
       "still_2.webp"
-    ]
+    ],
+    "slug": "once-upon-a-studio"
   },
   {
     "id": 1356039,
@@ -1126,7 +1193,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Contraataque"
+    "original_title": "Contraataque",
+    "slug": "counterattack"
   },
   {
     "id": 42269,
@@ -1143,7 +1211,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "C'eravamo tanto amati"
+    "original_title": "C'eravamo tanto amati",
+    "slug": "we-all-loved-each-other-so-much"
   },
   {
     "id": 3082,
@@ -1160,7 +1229,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "modern-times"
   },
   {
     "id": 335,
@@ -1177,7 +1247,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "C'era una volta il West"
+    "original_title": "C'era una volta il West",
+    "slug": "once-upon-a-time-in-the-west"
   },
   {
     "id": 1585,
@@ -1194,7 +1265,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "its-a-wonderful-life"
   },
   {
     "id": 92321,
@@ -1212,7 +1284,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "蛍火の杜へ"
+    "original_title": "蛍火の杜へ",
+    "slug": "hotarubi-no-mori-e"
   },
   {
     "id": 77338,
@@ -1229,7 +1302,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Intouchables"
+    "original_title": "Intouchables",
+    "slug": "the-intouchables"
   },
   {
     "id": 18491,
@@ -1248,7 +1322,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "新世紀エヴァンゲリオン劇場版 Air／まごころを、君に"
+    "original_title": "新世紀エヴァンゲリオン劇場版 Air／まごころを、君に",
+    "slug": "neon-genesis-evangelion-the-end-of-evangelion"
   },
   {
     "id": 28,
@@ -1264,7 +1339,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "apocalypse-now"
   },
   {
     "id": 632632,
@@ -1282,7 +1358,8 @@
       "still_0.webp",
       "still_2.webp"
     ],
-    "original_title": "映画 ギヴン"
+    "original_title": "映画 ギヴン",
+    "slug": "given"
   },
   {
     "id": 901,
@@ -1299,7 +1376,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "city-lights"
   },
   {
     "id": 975,
@@ -1314,7 +1392,8 @@
     "images": [
       "still_0.webp",
       "still_1.webp"
-    ]
+    ],
+    "slug": "paths-of-glory"
   },
   {
     "id": 8587,
@@ -1332,7 +1411,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-lion-king"
   },
   {
     "id": 637920,
@@ -1348,7 +1428,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "7. Koğuştaki Mucize"
+    "original_title": "7. Koğuştaki Mucize",
+    "slug": "miracle-in-cell-no-7"
   },
   {
     "id": 568332,
@@ -1363,7 +1444,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "taylor-swift-reputation-stadium-tour"
   },
   {
     "id": 29259,
@@ -1380,7 +1462,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "le-trou"
   },
   {
     "id": 630566,
@@ -1397,7 +1480,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "clouds"
   },
   {
     "id": 10376,
@@ -1414,7 +1498,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "La leggenda del pianista sull'oceano"
+    "original_title": "La leggenda del pianista sull'oceano",
+    "slug": "the-legend-of-1900"
   },
   {
     "id": 670,
@@ -1433,7 +1518,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "올드보이"
+    "original_title": "올드보이",
+    "slug": "oldboy"
   },
   {
     "id": 572154,
@@ -1452,7 +1538,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "青春ブタ野郎はゆめみる少女の夢を見ない"
+    "original_title": "青春ブタ野郎はゆめみる少女の夢を見ない",
+    "slug": "rascal-does-not-dream-of-a-dreaming-girl"
   },
   {
     "id": 447362,
@@ -1467,7 +1554,8 @@
     "images": [
       "still_0.webp",
       "still_1.webp"
-    ]
+    ],
+    "slug": "life-in-a-year"
   },
   {
     "id": 504253,
@@ -1485,7 +1573,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "君の膵臓をたべたい"
+    "original_title": "君の膵臓をたべたい",
+    "slug": "i-want-to-eat-your-pancreas"
   },
   {
     "id": 299534,
@@ -1502,7 +1591,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "avengers-endgame"
   },
   {
     "id": 299536,
@@ -1519,7 +1609,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "avengers-infinity-war"
   },
   {
     "id": 603,
@@ -1535,7 +1626,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-matrix"
   },
   {
     "id": 803796,
@@ -1553,7 +1645,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "kpop-demon-hunters"
   },
   {
     "id": 508965,
@@ -1572,7 +1665,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "klaus"
   },
   {
     "id": 527641,
@@ -1588,7 +1682,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "five-feet-apart"
   },
   {
     "id": 654299,
@@ -1605,7 +1700,8 @@
       "still_0.webp",
       "still_1.webp"
     ],
-    "original_title": "Como caído del cielo"
+    "original_title": "Como caído del cielo",
+    "slug": "out-of-the-clear-blue-sky"
   },
   {
     "id": 490132,
@@ -1622,7 +1718,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "green-book"
   },
   {
     "id": 25237,
@@ -1637,7 +1734,8 @@
     "images": [
       "still_0.webp"
     ],
-    "original_title": "Иди и смотри"
+    "original_title": "Иди и смотри",
+    "slug": "come-and-see"
   },
   {
     "id": 857,
@@ -1654,7 +1752,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "saving-private-ryan"
   },
   {
     "id": 98,
@@ -1671,7 +1770,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "gladiator"
   },
   {
     "id": 110420,
@@ -1690,7 +1790,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "おおかみこどもの雨と雪"
+    "original_title": "おおかみこどもの雨と雪",
+    "slug": "wolf-children"
   },
   {
     "id": 24188,
@@ -1708,7 +1809,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Il sorpasso"
+    "original_title": "Il sorpasso",
+    "slug": "il-sorpasso"
   },
   {
     "id": 995133,
@@ -1725,7 +1827,8 @@
     "images": [
       "still_0.webp",
       "still_1.webp"
-    ]
+    ],
+    "slug": "the-boy-the-mole-the-fox-and-the-horse"
   },
   {
     "id": 265177,
@@ -1740,7 +1843,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "mommy"
   },
   {
     "id": 37257,
@@ -1757,7 +1861,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "witness-for-the-prosecution"
   },
   {
     "id": 92060,
@@ -1773,7 +1878,8 @@
     "images": [
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "michael-jacksons-thriller"
   },
   {
     "id": 16869,
@@ -1790,7 +1896,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "inglourious-basterds"
   },
   {
     "id": 635302,
@@ -1808,7 +1915,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "劇場版「鬼滅の刃」無限列車編"
+    "original_title": "劇場版「鬼滅の刃」無限列車編",
+    "slug": "demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train"
   },
   {
     "id": 315162,
@@ -1827,7 +1935,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "puss-in-boots-the-last-wish"
   },
   {
     "id": 618344,
@@ -1844,7 +1953,8 @@
     "images": [
       "still_0.webp",
       "still_1.webp"
-    ]
+    ],
+    "slug": "justice-league-dark-apokolips-war"
   },
   {
     "id": 694,
@@ -1860,7 +1970,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-shining"
   },
   {
     "id": 441130,
@@ -1877,7 +1988,8 @@
     "images": [
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "wolfwalkers"
   },
   {
     "id": 50014,
@@ -1891,7 +2003,8 @@
     "images": [
       "still_0.webp",
       "still_1.webp"
-    ]
+    ],
+    "slug": "the-help"
   },
   {
     "id": 1124,
@@ -1908,7 +2021,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-prestige"
   },
   {
     "id": 11,
@@ -1925,7 +2039,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "star-wars"
   },
   {
     "id": 11324,
@@ -1942,7 +2057,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "shutter-island"
   },
   {
     "id": 354912,
@@ -1960,7 +2076,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "coco"
   },
   {
     "id": 829402,
@@ -1976,7 +2093,8 @@
     ],
     "images": [
       "still_0.webp"
-    ]
+    ],
+    "slug": "ultraman-rising"
   },
   {
     "id": 16672,
@@ -1993,7 +2111,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "砂の女"
+    "original_title": "砂の女",
+    "slug": "woman-in-the-dunes"
   },
   {
     "id": 290098,
@@ -2011,7 +2130,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "아가씨"
+    "original_title": "아가씨",
+    "slug": "the-handmaiden"
   },
   {
     "id": 283566,
@@ -2030,7 +2150,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "シン・エヴァンゲリオン劇場版:||"
+    "original_title": "シン・エヴァンゲリオン劇場版:||",
+    "slug": "evangelion-3010-thrice-upon-a-time"
   },
   {
     "id": 284,
@@ -2047,7 +2168,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-apartment"
   },
   {
     "id": 313106,
@@ -2063,7 +2185,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "doctor-who-the-day-of-the-doctor"
   },
   {
     "id": 324786,
@@ -2080,7 +2203,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "hacksaw-ridge"
   },
   {
     "id": 522924,
@@ -2095,7 +2219,8 @@
     "images": [
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-art-of-racing-in-the-rain"
   },
   {
     "id": 1160164,
@@ -2110,7 +2235,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "taylor-swift-the-eras-tour"
   },
   {
     "id": 68718,
@@ -2126,7 +2252,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "django-unchained"
   },
   {
     "id": 185,
@@ -2142,7 +2269,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "a-clockwork-orange"
   },
   {
     "id": 620683,
@@ -2157,7 +2285,8 @@
       "still_0.webp",
       "still_1.webp"
     ],
-    "original_title": "Minha Mãe é uma Peça 3: O Filme"
+    "original_title": "Minha Mãe é uma Peça 3: O Filme",
+    "slug": "my-mom-is-a-character-3"
   },
   {
     "id": 77,
@@ -2173,7 +2302,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "memento"
   },
   {
     "id": 476292,
@@ -2192,7 +2322,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "さよならの朝に約束の花をかざろう"
+    "original_title": "さよならの朝に約束の花をかざろう",
+    "slug": "maquia-when-the-promised-flower-blooms"
   },
   {
     "id": 5156,
@@ -2207,7 +2338,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Ladri di biciclette"
+    "original_title": "Ladri di biciclette",
+    "slug": "bicycle-thieves"
   },
   {
     "id": 629,
@@ -2224,7 +2356,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-usual-suspects"
   },
   {
     "id": 490,
@@ -2239,7 +2372,8 @@
     "images": [
       "still_0.webp"
     ],
-    "original_title": "Det sjunde inseglet"
+    "original_title": "Det sjunde inseglet",
+    "slug": "the-seventh-seal"
   },
   {
     "id": 537061,
@@ -2260,7 +2394,8 @@
     ],
     "images": [
       "still_0.webp"
-    ]
+    ],
+    "slug": "steven-universe-the-movie"
   },
   {
     "id": 361743,
@@ -2276,7 +2411,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "top-gun-maverick"
   },
   {
     "id": 348,
@@ -2292,7 +2428,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "alien"
   },
   {
     "id": 18148,
@@ -2307,7 +2444,8 @@
       "still_0.webp",
       "still_2.webp"
     ],
-    "original_title": "東京物語"
+    "original_title": "東京物語",
+    "slug": "tokyo-story"
   },
   {
     "id": 26451,
@@ -2324,7 +2462,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Indagine su un cittadino al di sopra di ogni sospetto"
+    "original_title": "Indagine su un cittadino al di sopra di ogni sospetto",
+    "slug": "investigation-of-a-citizen-above-suspicion"
   },
   {
     "id": 20941,
@@ -2340,7 +2479,8 @@
       "still_0.webp",
       "still_1.webp"
     ],
-    "original_title": "Voces inocentes"
+    "original_title": "Voces inocentes",
+    "slug": "innocent-voices"
   },
   {
     "id": 1422,
@@ -2357,7 +2497,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-departed"
   },
   {
     "id": 111,
@@ -2374,7 +2515,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "scarface"
   },
   {
     "id": 489,
@@ -2389,7 +2531,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "good-will-hunting"
   },
   {
     "id": 289,
@@ -2404,7 +2547,8 @@
     "images": [
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "casablanca"
   },
   {
     "id": 851644,
@@ -2421,7 +2565,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "20세기 소녀"
+    "original_title": "20세기 소녀",
+    "slug": "20th-century-girl"
   },
   {
     "id": 426,
@@ -2438,7 +2583,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "vertigo"
   },
   {
     "id": 81481,
@@ -2454,7 +2600,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "도가니"
+    "original_title": "도가니",
+    "slug": "silenced"
   },
   {
     "id": 399106,
@@ -2468,7 +2615,8 @@
     ],
     "images": [
       "still_1.webp"
-    ]
+    ],
+    "slug": "piper"
   },
   {
     "id": 37165,
@@ -2484,7 +2632,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-truman-show"
   },
   {
     "id": 10098,
@@ -2500,7 +2649,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-kid"
   },
   {
     "id": 592350,
@@ -2517,7 +2667,8 @@
     "images": [
       "still_0.webp"
     ],
-    "original_title": "僕のヒーローアカデミア THE MOVIE ヒーローズ：ライジング"
+    "original_title": "僕のヒーローアカデミア THE MOVIE ヒーローズ：ライジング",
+    "slug": "my-hero-academia-heroes-rising"
   },
   {
     "id": 872,
@@ -2532,7 +2683,8 @@
     "images": [
       "still_0.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "singin-in-the-rain"
   },
   {
     "id": 606856,
@@ -2548,7 +2700,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "togo"
   },
   {
     "id": 517814,
@@ -2564,7 +2717,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "کفرناحوم"
+    "original_title": "کفرناحوم",
+    "slug": "capernaum"
   },
   {
     "id": 458220,
@@ -2579,7 +2733,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "palmer"
   },
   {
     "id": 797,
@@ -2594,7 +2749,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "persona"
   },
   {
     "id": 666,
@@ -2610,7 +2766,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Central do Brasil"
+    "original_title": "Central do Brasil",
+    "slug": "central-station"
   },
   {
     "id": 575813,
@@ -2628,7 +2785,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "少年的你"
+    "original_title": "少年的你",
+    "slug": "better-days"
   },
   {
     "id": 280,
@@ -2645,7 +2803,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "terminator-2-judgment-day"
   },
   {
     "id": 823219,
@@ -2664,7 +2823,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Straume"
+    "original_title": "Straume",
+    "slug": "flow"
   },
   {
     "id": 103,
@@ -2680,7 +2840,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "taxi-driver"
   },
   {
     "id": 693134,
@@ -2696,7 +2857,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "dune-part-two"
   },
   {
     "id": 1103621,
@@ -2711,7 +2873,8 @@
       "still_0.webp",
       "still_1.webp"
     ],
-    "original_title": "หลานม่า"
+    "original_title": "หลานม่า",
+    "slug": "how-to-make-millions-before-grandma-dies"
   },
   {
     "id": 475557,
@@ -2728,7 +2891,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "joker"
   },
   {
     "id": 20914,
@@ -2744,7 +2908,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Amici miei"
+    "original_title": "Amici miei",
+    "slug": "my-friends"
   },
   {
     "id": 9702,
@@ -2762,7 +2927,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "bound-by-honor"
   },
   {
     "id": 812225,
@@ -2781,7 +2947,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "映画 ブラッククローバー 魔法帝の剣"
+    "original_title": "映画 ブラッククローバー 魔法帝の剣",
+    "slug": "black-clover-sword-of-the-wizard-king"
   },
   {
     "id": 935,
@@ -2796,7 +2963,8 @@
     "images": [
       "still_0.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb"
   },
   {
     "id": 600,
@@ -2812,7 +2980,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "full-metal-jacket"
   },
   {
     "id": 422,
@@ -2826,7 +2995,8 @@
     "images": [
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "8"
   },
   {
     "id": 810693,
@@ -2843,7 +3013,8 @@
       "still_0.webp",
       "still_1.webp"
     ],
-    "original_title": "劇場版 呪術廻戦 0"
+    "original_title": "劇場版 呪術廻戦 0",
+    "slug": "jujutsu-kaisen-0"
   },
   {
     "id": 500,
@@ -2857,7 +3028,8 @@
     ],
     "images": [
       "still_0.webp"
-    ]
+    ],
+    "slug": "reservoir-dogs"
   },
   {
     "id": 610892,
@@ -2875,7 +3047,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "ヴァイオレット・エヴァーガーデン 外伝 - 永遠と自動手記人形 -"
+    "original_title": "ヴァイオレット・エヴァーガーデン 外伝 - 永遠と自動手記人形 -",
+    "slug": "violet-evergarden-eternity-and-the-auto-memory-doll"
   },
   {
     "id": 1398,
@@ -2892,7 +3065,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Сталкер"
+    "original_title": "Сталкер",
+    "slug": "stalker"
   },
   {
     "id": 38288,
@@ -2906,7 +3080,8 @@
     "images": [
       "still_0.webp"
     ],
-    "original_title": "“I Corti” di Aldo, Giovanni e Giacomo"
+    "original_title": "“I Corti” di Aldo, Giovanni e Giacomo",
+    "slug": "the-shorts-by-aldo-giovanni-and-giacomo"
   },
   {
     "id": 795607,
@@ -2924,7 +3099,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "白蛇2：青蛇劫起"
+    "original_title": "白蛇2：青蛇劫起",
+    "slug": "green-snake"
   },
   {
     "id": 406997,
@@ -2940,7 +3116,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "wonder"
   },
   {
     "id": 3780,
@@ -2956,7 +3133,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "赤ひげ"
+    "original_title": "赤ひげ",
+    "slug": "red-beard"
   },
   {
     "id": 531428,
@@ -2974,7 +3152,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Portrait de la jeune fille en feu"
+    "original_title": "Portrait de la jeune fille en feu",
+    "slug": "portrait-of-a-lady-on-fire"
   },
   {
     "id": 1026227,
@@ -2991,7 +3170,8 @@
       "still_0.webp",
       "still_2.webp"
     ],
-    "original_title": "C'è ancora domani"
+    "original_title": "C'è ancora domani",
+    "slug": "theres-still-tomorrow"
   },
   {
     "id": 100,
@@ -3007,7 +3187,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "lock-stock-and-two-smoking-barrels"
   },
   {
     "id": 398818,
@@ -3023,7 +3204,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "call-me-by-your-name"
   },
   {
     "id": 996,
@@ -3039,7 +3221,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "double-indemnity"
   },
   {
     "id": 791373,
@@ -3056,7 +3239,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "zack-snyders-justice-league"
   },
   {
     "id": 46738,
@@ -3073,7 +3257,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "incendies"
   },
   {
     "id": 20334,
@@ -3090,7 +3275,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-shop-around-the-corner"
   },
   {
     "id": 10681,
@@ -3106,7 +3292,8 @@
     "images": [
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "walle"
   },
   {
     "id": 600354,
@@ -3121,7 +3308,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-father"
   },
   {
     "id": 508442,
@@ -3140,7 +3328,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "soul"
   },
   {
     "id": 146233,
@@ -3156,7 +3345,8 @@
     "images": [
       "still_0.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "prisoners"
   },
   {
     "id": 614,
@@ -3172,7 +3362,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Smultronstället"
+    "original_title": "Smultronstället",
+    "slug": "wild-strawberries"
   },
   {
     "id": 19,
@@ -3188,7 +3379,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "metropolis"
   },
   {
     "id": 24382,
@@ -3205,7 +3397,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "I soliti ignoti"
+    "original_title": "I soliti ignoti",
+    "slug": "big-deal-on-madonna-street"
   },
   {
     "id": 103663,
@@ -3221,7 +3414,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Jagten"
+    "original_title": "Jagten",
+    "slug": "the-hunt"
   },
   {
     "id": 843,
@@ -3238,7 +3432,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "花樣年華"
+    "original_title": "花樣年華",
+    "slug": "in-the-mood-for-love"
   },
   {
     "id": 755812,
@@ -3256,7 +3451,8 @@
       "still_0.webp",
       "still_2.webp"
     ],
-    "original_title": "Miraculous World : New York, les héros unis"
+    "original_title": "Miraculous World : New York, les héros unis",
+    "slug": "miraculous-world-new-york-united-heroez"
   },
   {
     "id": 663558,
@@ -3273,7 +3469,8 @@
       "still_0.webp",
       "still_1.webp"
     ],
-    "original_title": "新神榜：哪吒重生"
+    "original_title": "新神榜：哪吒重生",
+    "slug": "new-gods-nezha-reborn"
   },
   {
     "id": 655,
@@ -3288,7 +3485,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "paris-texas"
   },
   {
     "id": 239,
@@ -3305,7 +3503,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "some-like-it-hot"
   },
   {
     "id": 38,
@@ -3322,7 +3521,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "eternal-sunshine-of-the-spotless-mind"
   },
   {
     "id": 664767,
@@ -3339,7 +3539,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "mortal-kombat-legends-scorpions-revenge"
   },
   {
     "id": 470044,
@@ -3355,7 +3556,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-hate-u-give"
   },
   {
     "id": 11878,
@@ -3372,7 +3574,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "用心棒"
+    "original_title": "用心棒",
+    "slug": "yojimbo"
   },
   {
     "id": 149871,
@@ -3389,7 +3592,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "かぐや姫の物語"
+    "original_title": "かぐや姫の物語",
+    "slug": "the-tale-of-the-princess-kaguya"
   },
   {
     "id": 282848,
@@ -3405,7 +3609,8 @@
     "images": [
       "still_0.webp",
       "still_1.webp"
-    ]
+    ],
+    "slug": "doctor-who-the-time-of-the-doctor"
   },
   {
     "id": 387,
@@ -3422,7 +3627,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "das-boot"
   },
   {
     "id": 20532,
@@ -3438,7 +3644,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "山椒大夫"
+    "original_title": "山椒大夫",
+    "slug": "sansho-the-bailiff"
   },
   {
     "id": 411088,
@@ -3456,7 +3663,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Contratiempo"
+    "original_title": "Contratiempo",
+    "slug": "the-invisible-guest"
   },
   {
     "id": 12445,
@@ -3471,7 +3679,8 @@
     "images": [
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "harry-potter-and-the-deathly-hallows-part-2"
   },
   {
     "id": 406,
@@ -3486,7 +3695,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "la-haine"
   },
   {
     "id": 705,
@@ -3501,7 +3711,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "all-about-eve"
   },
   {
     "id": 55823,
@@ -3518,7 +3729,8 @@
       "still_0.webp",
       "still_1.webp"
     ],
-    "original_title": "La grande guerra"
+    "original_title": "La grande guerra",
+    "slug": "the-great-war"
   },
   {
     "id": 831827,
@@ -3534,7 +3746,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "far-from-the-tree"
   },
   {
     "id": 7345,
@@ -3549,7 +3762,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "there-will-be-blood"
   },
   {
     "id": 2457,
@@ -3566,7 +3780,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Les Enfants du Paradis"
+    "original_title": "Les Enfants du Paradis",
+    "slug": "children-of-paradise"
   },
   {
     "id": 8392,
@@ -3584,7 +3799,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "となりのトトロ"
+    "original_title": "となりのトトロ",
+    "slug": "my-neighbor-totoro"
   },
   {
     "id": 1091,
@@ -3601,7 +3817,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-thing"
   },
   {
     "id": 31439,
@@ -3619,7 +3836,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "活着"
+    "original_title": "活着",
+    "slug": "to-live"
   },
   {
     "id": 11659,
@@ -3637,7 +3855,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "La meglio gioventù"
+    "original_title": "La meglio gioventù",
+    "slug": "the-best-of-youth"
   },
   {
     "id": 62,
@@ -3653,7 +3872,8 @@
     "images": [
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "2001-a-space-odyssey"
   },
   {
     "id": 1064486,
@@ -3670,7 +3890,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "memoir-of-a-snail"
   },
   {
     "id": 359940,
@@ -3686,7 +3907,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "three-billboards-outside-ebbing-missouri"
   },
   {
     "id": 21634,
@@ -3703,7 +3925,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "prayers-for-bobby"
   },
   {
     "id": 762975,
@@ -3718,7 +3941,8 @@
     "images": [
       "still_0.webp",
       "still_1.webp"
-    ]
+    ],
+    "slug": "purple-hearts"
   },
   {
     "id": 7347,
@@ -3734,7 +3958,8 @@
     "images": [
       "still_2.webp"
     ],
-    "original_title": "Tropa de Elite"
+    "original_title": "Tropa de Elite",
+    "slug": "elite-squad"
   },
   {
     "id": 4348,
@@ -3750,7 +3975,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "pride-prejudice"
   },
   {
     "id": 133919,
@@ -3767,7 +3993,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Scener ur ett äktenskap"
+    "original_title": "Scener ur ett äktenskap",
+    "slug": "scenes-from-a-marriage"
   },
   {
     "id": 522518,
@@ -3784,7 +4011,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "a-dogs-journey"
   },
   {
     "id": 439,
@@ -3800,7 +4028,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "La dolce vita"
+    "original_title": "La dolce vita",
+    "slug": "la-dolce-vita"
   },
   {
     "id": 11423,
@@ -3817,7 +4046,8 @@
       "still_0.webp",
       "still_1.webp"
     ],
-    "original_title": "살인의 추억"
+    "original_title": "살인의 추억",
+    "slug": "memories-of-murder"
   },
   {
     "id": 381284,
@@ -3833,7 +4063,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "hidden-figures"
   },
   {
     "id": 532067,
@@ -3852,7 +4083,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "映画 この素晴らしい世界に祝福を！紅伝説"
+    "original_title": "映画 この素晴らしい世界に祝福を！紅伝説",
+    "slug": "konosuba-gods-blessing-on-this-wonderful-world-legend-of-crimson"
   },
   {
     "id": 518068,
@@ -3869,7 +4101,8 @@
     "images": [
       "still_0.webp"
     ],
-    "original_title": "신과함께-인과 연"
+    "original_title": "신과함께-인과 연",
+    "slug": "along-with-the-gods-the-last-49-days"
   },
   {
     "id": 1955,
@@ -3884,7 +4117,8 @@
     "images": [
       "still_0.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-elephant-man"
   },
   {
     "id": 11645,
@@ -3901,7 +4135,8 @@
       "still_0.webp",
       "still_2.webp"
     ],
-    "original_title": "乱"
+    "original_title": "乱",
+    "slug": "ran"
   },
   {
     "id": 872585,
@@ -3916,7 +4151,8 @@
     "images": [
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "oppenheimer"
   },
   {
     "id": 437068,
@@ -3934,7 +4170,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "택시운전사"
+    "original_title": "택시운전사",
+    "slug": "a-taxi-driver"
   },
   {
     "id": 548,
@@ -3951,7 +4188,8 @@
       "still_0.webp",
       "still_2.webp"
     ],
-    "original_title": "羅生門"
+    "original_title": "羅生門",
+    "slug": "rashomon"
   },
   {
     "id": 1244492,
@@ -3968,7 +4206,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "ルックバック"
+    "original_title": "ルックバック",
+    "slug": "look-back"
   },
   {
     "id": 640344,
@@ -3983,7 +4222,8 @@
     "images": [
       "still_0.webp"
     ],
-    "original_title": "Me contro Te: Il film - La vendetta del Signor S"
+    "original_title": "Me contro Te: Il film - La vendetta del Signor S",
+    "slug": "me-against-you-mr-ss-vendetta"
   },
   {
     "id": 334543,
@@ -3998,7 +4238,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "lion"
   },
   {
     "id": 42229,
@@ -4013,7 +4254,8 @@
     "images": [
       "still_0.webp"
     ],
-    "original_title": "Una giornata particolare"
+    "original_title": "Una giornata particolare",
+    "slug": "a-special-day"
   },
   {
     "id": 555604,
@@ -4031,7 +4273,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "guillermo-del-toros-pinocchio"
   },
   {
     "id": 582,
@@ -4048,7 +4291,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Das Leben der Anderen"
+    "original_title": "Das Leben der Anderen",
+    "slug": "the-lives-of-others"
   },
   {
     "id": 397567,
@@ -4068,7 +4312,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "신과함께-죄와 벌"
+    "original_title": "신과함께-죄와 벌",
+    "slug": "along-with-the-gods-the-two-worlds"
   },
   {
     "id": 698687,
@@ -4085,7 +4330,8 @@
     "images": [
       "still_0.webp",
       "still_1.webp"
-    ]
+    ],
+    "slug": "transformers-one"
   },
   {
     "id": 638507,
@@ -4103,7 +4349,8 @@
     "images": [
       "still_0.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "how-to-train-your-dragon-homecoming"
   },
   {
     "id": 120467,
@@ -4119,7 +4366,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-grand-budapest-hotel"
   },
   {
     "id": 310569,
@@ -4134,7 +4382,8 @@
       "still_0.webp",
       "still_1.webp"
     ],
-    "original_title": "Que Horas Ela Volta?"
+    "original_title": "Que Horas Ela Volta?",
+    "slug": "the-second-mother"
   },
   {
     "id": 26022,
@@ -4150,7 +4399,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "my-name-is-khan"
   },
   {
     "id": 550776,
@@ -4166,7 +4416,8 @@
     "images": [
       "still_0.webp",
       "still_1.webp"
-    ]
+    ],
+    "slug": "believe-me-the-abduction-of-lisa-mcvey"
   },
   {
     "id": 800,
@@ -4183,7 +4434,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Los olvidados"
+    "original_title": "Los olvidados",
+    "slug": "the-young-and-the-damned"
   },
   {
     "id": 20530,
@@ -4199,7 +4451,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "晩春"
+    "original_title": "晩春",
+    "slug": "late-spring"
   },
   {
     "id": 106646,
@@ -4216,7 +4469,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-wolf-of-wall-street"
   },
   {
     "id": 279,
@@ -4232,7 +4486,8 @@
     "images": [
       "still_0.webp",
       "still_1.webp"
-    ]
+    ],
+    "slug": "amadeus"
   },
   {
     "id": 400608,
@@ -4247,7 +4502,8 @@
     "images": [
       "still_0.webp",
       "still_1.webp"
-    ]
+    ],
+    "slug": "bo-burnham-make-happy"
   },
   {
     "id": 785534,
@@ -4263,7 +4519,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Kağıttan Hayatlar"
+    "original_title": "Kağıttan Hayatlar",
+    "slug": "paper-lives"
   },
   {
     "id": 147,
@@ -4278,7 +4535,8 @@
       "still_0.webp",
       "still_2.webp"
     ],
-    "original_title": "Les Quatre Cents Coups"
+    "original_title": "Les Quatre Cents Coups",
+    "slug": "the-400-blows"
   },
   {
     "id": 9277,
@@ -4295,7 +4553,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-sting"
   },
   {
     "id": 307,
@@ -4312,7 +4571,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Roma città aperta"
+    "original_title": "Roma città aperta",
+    "slug": "rome-open-city"
   },
   {
     "id": 610461,
@@ -4326,7 +4586,8 @@
     "images": [
       "still_0.webp",
       "still_1.webp"
-    ]
+    ],
+    "slug": "veinteaera-divorciada-y-fantstica"
   },
   {
     "id": 821,
@@ -4341,7 +4602,8 @@
     "images": [
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "judgment-at-nuremberg"
   },
   {
     "id": 938,
@@ -4357,7 +4619,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Per qualche dollaro in più"
+    "original_title": "Per qualche dollaro in più",
+    "slug": "for-a-few-dollars-more"
   },
   {
     "id": 472454,
@@ -4375,7 +4638,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Ayla"
+    "original_title": "Ayla",
+    "slug": "ayla-the-daughter-of-war"
   },
   {
     "id": 980477,
@@ -4394,7 +4658,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "哪吒之魔童闹海"
+    "original_title": "哪吒之魔童闹海",
+    "slug": "ne-zha-2"
   },
   {
     "id": 641,
@@ -4410,7 +4675,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "requiem-for-a-dream"
   },
   {
     "id": 43949,
@@ -4426,7 +4692,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "flipped"
   },
   {
     "id": 28178,
@@ -4441,7 +4708,8 @@
     "images": [
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "hachi-a-dogs-tale"
   },
   {
     "id": 673,
@@ -4457,7 +4725,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "harry-potter-and-the-prisoner-of-azkaban"
   },
   {
     "id": 204,
@@ -4473,7 +4742,8 @@
     "images": [
       "still_0.webp"
     ],
-    "original_title": "Le Salaire de la peur"
+    "original_title": "Le Salaire de la peur",
+    "slug": "the-wages-of-fear"
   },
   {
     "id": 347688,
@@ -4490,7 +4760,8 @@
     "images": [
       "still_0.webp",
       "still_1.webp"
-    ]
+    ],
+    "slug": "scooby-doo-and-kiss-rock-and-roll-mystery"
   },
   {
     "id": 359724,
@@ -4507,7 +4778,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "ford-v-ferrari"
   },
   {
     "id": 521,
@@ -4523,7 +4795,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "dial-m-for-murder"
   },
   {
     "id": 414419,
@@ -4539,7 +4812,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "kill-bill-the-whole-bloody-affair"
   },
   {
     "id": 55960,
@@ -4554,7 +4828,8 @@
     "images": [
       "still_0.webp"
     ],
-    "original_title": "Totò, Peppino e la... malafemmina"
+    "original_title": "Totò, Peppino e la... malafemmina",
+    "slug": "toto-peppino-and-the-hussy"
   },
   {
     "id": 1087192,
@@ -4572,7 +4847,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "how-to-train-your-dragon"
   },
   {
     "id": 14,
@@ -4587,7 +4863,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "american-beauty"
   },
   {
     "id": 14696,
@@ -4605,7 +4882,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "雨月物語"
+    "original_title": "雨月物語",
+    "slug": "ugetsu"
   },
   {
     "id": 400928,
@@ -4620,7 +4898,8 @@
     "images": [
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "gifted"
   },
   {
     "id": 110416,
@@ -4637,7 +4916,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "song-of-the-sea"
   },
   {
     "id": 15,
@@ -4652,7 +4932,8 @@
     "images": [
       "still_0.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "citizen-kane"
   },
   {
     "id": 526702,
@@ -4666,7 +4947,8 @@
     "images": [
       "still_0.webp",
       "still_1.webp"
-    ]
+    ],
+    "slug": "black-beauty"
   },
   {
     "id": 264644,
@@ -4682,7 +4964,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "room"
   },
   {
     "id": 8422,
@@ -4699,7 +4982,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Rocco e i suoi fratelli"
+    "original_title": "Rocco e i suoi fratelli",
+    "slug": "rocco-and-his-brothers"
   },
   {
     "id": 20453,
@@ -4714,7 +4998,8 @@
     "images": [
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "3-idiots"
   },
   {
     "id": 515001,
@@ -4729,7 +5014,8 @@
     ],
     "images": [
       "still_1.webp"
-    ]
+    ],
+    "slug": "jojo-rabbit"
   },
   {
     "id": 140420,
@@ -4746,7 +5032,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "paperman"
   },
   {
     "id": 823754,
@@ -4762,7 +5049,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "bo-burnham-inside"
   },
   {
     "id": 947,
@@ -4778,7 +5066,8 @@
     "images": [
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "lawrence-of-arabia"
   },
   {
     "id": 838240,
@@ -4796,7 +5085,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "robot-dreams"
   },
   {
     "id": 595,
@@ -4810,7 +5100,8 @@
     "images": [
       "still_0.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "to-kill-a-mockingbird"
   },
   {
     "id": 568160,
@@ -4829,7 +5120,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "天気の子"
+    "original_title": "天気の子",
+    "slug": "weathering-with-you"
   },
   {
     "id": 3175,
@@ -4846,7 +5138,8 @@
     "images": [
       "still_0.webp",
       "still_1.webp"
-    ]
+    ],
+    "slug": "barry-lyndon"
   },
   {
     "id": 524,
@@ -4862,7 +5155,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "casino"
   },
   {
     "id": 780,
@@ -4879,7 +5173,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "La Passion de Jeanne d'Arc"
+    "original_title": "La Passion de Jeanne d'Arc",
+    "slug": "the-passion-of-joan-of-arc"
   },
   {
     "id": 339877,
@@ -4897,7 +5192,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "loving-vincent"
   },
   {
     "id": 205596,
@@ -4914,7 +5210,8 @@
     "images": [
       "still_0.webp",
       "still_1.webp"
-    ]
+    ],
+    "slug": "the-imitation-game"
   },
   {
     "id": 13223,
@@ -4929,7 +5226,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "gran-torino"
   },
   {
     "id": 11658,
@@ -4948,7 +5246,8 @@
       "still_0.webp",
       "still_1.webp"
     ],
-    "original_title": "태극기 휘날리며"
+    "original_title": "태극기 휘날리며",
+    "slug": "tae-guk-gi-the-brotherhood-of-war"
   },
   {
     "id": 19426,
@@ -4964,7 +5263,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Le notti di Cabiria"
+    "original_title": "Le notti di Cabiria",
+    "slug": "nights-of-cabiria"
   },
   {
     "id": 962232,
@@ -4981,7 +5281,8 @@
       "still_0.webp",
       "still_1.webp"
     ],
-    "original_title": "Depois do Universo"
+    "original_title": "Depois do Universo",
+    "slug": "beyond-the-universe"
   },
   {
     "id": 906126,
@@ -4997,7 +5298,8 @@
       "still_0.webp",
       "still_1.webp"
     ],
-    "original_title": "La sociedad de la nieve"
+    "original_title": "La sociedad de la nieve",
+    "slug": "society-of-the-snow"
   },
   {
     "id": 530915,
@@ -5014,7 +5316,8 @@
     "images": [
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "1917"
   },
   {
     "id": 962,
@@ -5031,7 +5334,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-gold-rush"
   },
   {
     "id": 455661,
@@ -5048,7 +5352,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "in-a-heartbeat"
   },
   {
     "id": 449176,
@@ -5065,7 +5370,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "love-simon"
   },
   {
     "id": 678580,
@@ -5078,7 +5384,8 @@
     ],
     "images": [
       "still_0.webp"
-    ]
+    ],
+    "slug": "el-mesero"
   },
   {
     "id": 429210,
@@ -5094,7 +5401,8 @@
       "still_0.webp",
       "still_1.webp"
     ],
-    "original_title": "Bingo: O Rei das Manhãs"
+    "original_title": "Bingo: O Rei das Manhãs",
+    "slug": "bingo-the-king-of-the-mornings"
   },
   {
     "id": 337404,
@@ -5111,7 +5419,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "cruella"
   },
   {
     "id": 51822,
@@ -5128,7 +5437,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Amar te duele"
+    "original_title": "Amar te duele",
+    "slug": "love-hurts"
   },
   {
     "id": 2517,
@@ -5144,7 +5454,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "誰も知らない"
+    "original_title": "誰も知らない",
+    "slug": "nobody-knows"
   },
   {
     "id": 11778,
@@ -5160,7 +5471,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-deer-hunter"
   },
   {
     "id": 213,
@@ -5174,7 +5486,8 @@
     ],
     "images": [
       "still_0.webp"
-    ]
+    ],
+    "slug": "north-by-northwest"
   },
   {
     "id": 678512,
@@ -5189,7 +5502,8 @@
     "images": [
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "sound-of-freedom"
   },
   {
     "id": 12761,
@@ -5205,7 +5519,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Höstsonaten"
+    "original_title": "Höstsonaten",
+    "slug": "autumn-sonata"
   },
   {
     "id": 640,
@@ -5221,7 +5536,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "catch-me-if-you-can"
   },
   {
     "id": 19542,
@@ -5237,7 +5553,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-red-shoes"
   },
   {
     "id": 25376,
@@ -5255,7 +5572,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "El secreto de sus ojos"
+    "original_title": "El secreto de sus ojos",
+    "slug": "the-secret-in-their-eyes"
   },
   {
     "id": 11104,
@@ -5273,7 +5591,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "重慶森林"
+    "original_title": "重慶森林",
+    "slug": "chungking-express"
   },
   {
     "id": 1059,
@@ -5290,7 +5609,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "隠し砦の三悪人"
+    "original_title": "隠し砦の三悪人",
+    "slug": "the-hidden-fortress"
   },
   {
     "id": 626332,
@@ -5306,7 +5626,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "flamin-hot"
   },
   {
     "id": 862,
@@ -5323,7 +5644,8 @@
     "images": [
       "still_0.webp",
       "still_1.webp"
-    ]
+    ],
+    "slug": "toy-story"
   },
   {
     "id": 24,
@@ -5339,7 +5661,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "kill-bill-vol-1"
   },
   {
     "id": 10515,
@@ -5359,7 +5682,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "天空の城ラピュタ"
+    "original_title": "天空の城ラピュタ",
+    "slug": "castle-in-the-sky"
   },
   {
     "id": 38286,
@@ -5373,7 +5697,8 @@
     "images": [
       "still_0.webp"
     ],
-    "original_title": "Tre uomini e una gamba"
+    "original_title": "Tre uomini e una gamba",
+    "slug": "three-men-and-a-leg"
   },
   {
     "id": 76,
@@ -5387,7 +5712,8 @@
     ],
     "images": [
       "still_0.webp"
-    ]
+    ],
+    "slug": "before-sunrise"
   },
   {
     "id": 895,
@@ -5403,7 +5729,8 @@
       "still_0.webp",
       "still_2.webp"
     ],
-    "original_title": "Андрей Рублёв"
+    "original_title": "Андрей Рублёв",
+    "slug": "andrei-rublev"
   },
   {
     "id": 424694,
@@ -5419,7 +5746,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "bohemian-rhapsody"
   },
   {
     "id": 329,
@@ -5435,7 +5763,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "jurassic-park"
   },
   {
     "id": 1084736,
@@ -5453,7 +5782,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Le Comte de Monte-Cristo"
+    "original_title": "Le Comte de Monte-Cristo",
+    "slug": "the-count-of-monte-cristo"
   },
   {
     "id": 11712,
@@ -5471,7 +5801,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "椿三十郎"
+    "original_title": "椿三十郎",
+    "slug": "sanjuro"
   },
   {
     "id": 14160,
@@ -5489,7 +5820,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "up"
   },
   {
     "id": 627,
@@ -5505,7 +5837,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "trainspotting"
   },
   {
     "id": 48035,
@@ -5520,7 +5853,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "ordet"
   },
   {
     "id": 1000837,
@@ -5537,7 +5871,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Ainda Estou Aqui"
+    "original_title": "Ainda Estou Aqui",
+    "slug": "im-still-here"
   },
   {
     "id": 574074,
@@ -5554,7 +5889,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "kitbull"
   },
   {
     "id": 30017,
@@ -5571,7 +5907,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "کلوزآپ ، نمای نزدیک"
+    "original_title": "کلوزآپ ، نمای نزدیک",
+    "slug": "close-up"
   },
   {
     "id": 930094,
@@ -5587,7 +5924,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "red-white-royal-blue"
   },
   {
     "id": 70,
@@ -5602,7 +5940,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "million-dollar-baby"
   },
   {
     "id": 10386,
@@ -5620,7 +5959,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-iron-giant"
   },
   {
     "id": 3090,
@@ -5636,7 +5976,8 @@
     "images": [
       "still_0.webp",
       "still_1.webp"
-    ]
+    ],
+    "slug": "the-treasure-of-the-sierra-madre"
   },
   {
     "id": 679,
@@ -5653,7 +5994,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "aliens"
   },
   {
     "id": 1000492,
@@ -5669,7 +6011,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Je verrai toujours vos visages"
+    "original_title": "Je verrai toujours vos visages",
+    "slug": "all-your-faces"
   },
   {
     "id": 160885,
@@ -5683,7 +6026,8 @@
     "images": [
       "still_0.webp",
       "still_1.webp"
-    ]
+    ],
+    "slug": "tel-chi-el-teln"
   },
   {
     "id": 37797,
@@ -5699,7 +6043,8 @@
     "images": [
       "still_2.webp"
     ],
-    "original_title": "耳をすませば"
+    "original_title": "耳をすませば",
+    "slug": "whisper-of-the-heart"
   },
   {
     "id": 237791,
@@ -5715,7 +6060,8 @@
       "still_0.webp",
       "still_1.webp"
     ],
-    "original_title": "Hoje Eu Quero Voltar Sozinho"
+    "original_title": "Hoje Eu Quero Voltar Sozinho",
+    "slug": "the-way-he-looks"
   },
   {
     "id": 10997,
@@ -5730,7 +6076,8 @@
       "still_0.webp",
       "still_2.webp"
     ],
-    "original_title": "霸王别姬"
+    "original_title": "霸王别姬",
+    "slug": "farewell-my-concubine"
   },
   {
     "id": 81,
@@ -5748,7 +6095,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "風の谷のナウシカ"
+    "original_title": "風の谷のナウシカ",
+    "slug": "nausica-of-the-valley-of-the-wind"
   },
   {
     "id": 745,
@@ -5765,7 +6113,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-sixth-sense"
   },
   {
     "id": 6977,
@@ -5781,7 +6130,8 @@
     "images": [
       "still_0.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "no-country-for-old-men"
   },
   {
     "id": 726684,
@@ -5800,7 +6150,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Miraculous World : Shanghai, la légende de Ladydragon"
+    "original_title": "Miraculous World : Shanghai, la légende de Ladydragon",
+    "slug": "miraculous-world-shanghai-the-legend-of-ladydragon"
   },
   {
     "id": 29264,
@@ -5817,7 +6168,8 @@
       "still_0.webp",
       "still_1.webp"
     ],
-    "original_title": "El ángel exterminador"
+    "original_title": "El ángel exterminador",
+    "slug": "the-exterminating-angel"
   },
   {
     "id": 28422,
@@ -5836,7 +6188,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "愛のむきだし"
+    "original_title": "愛のむきだし",
+    "slug": "love-exposure"
   },
   {
     "id": 1580,
@@ -5853,7 +6206,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "rope"
   },
   {
     "id": 12104,
@@ -5867,7 +6221,8 @@
     ],
     "images": [
       "still_1.webp"
-    ]
+    ],
+    "slug": "pink-floyd-the-wall"
   },
   {
     "id": 1396,
@@ -5884,7 +6239,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Зеркало"
+    "original_title": "Зеркало",
+    "slug": "mirror"
   },
   {
     "id": 197,
@@ -5902,7 +6258,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "braveheart"
   },
   {
     "id": 78,
@@ -5919,7 +6276,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "blade-runner"
   },
   {
     "id": 41050,
@@ -5936,7 +6294,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "La notte"
+    "original_title": "La notte",
+    "slug": "la-notte"
   },
   {
     "id": 5925,
@@ -5951,7 +6310,8 @@
     ],
     "images": [
       "still_1.webp"
-    ]
+    ],
+    "slug": "the-great-escape"
   },
   {
     "id": 315465,
@@ -5972,7 +6332,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "バケモノの子"
+    "original_title": "バケモノの子",
+    "slug": "the-boy-and-the-beast"
   },
   {
     "id": 15244,
@@ -5989,7 +6350,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Un condamné à mort s'est échappé"
+    "original_title": "Un condamné à mort s'est échappé",
+    "slug": "a-man-escaped"
   },
   {
     "id": 76203,
@@ -6005,7 +6367,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "12-years-a-slave"
   },
   {
     "id": 18438,
@@ -6023,7 +6386,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "김씨 표류기"
+    "original_title": "김씨 표류기",
+    "slug": "castaway-on-the-moon"
   },
   {
     "id": 149,
@@ -6041,7 +6405,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "AKIRA"
+    "original_title": "AKIRA",
+    "slug": "akira"
   },
   {
     "id": 634649,
@@ -6058,7 +6423,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "spider-man-no-way-home"
   },
   {
     "id": 489412,
@@ -6072,7 +6438,8 @@
     ],
     "images": [
       "still_2.webp"
-    ]
+    ],
+    "slug": "its-such-a-beautiful-day"
   },
   {
     "id": 28978,
@@ -6088,7 +6455,8 @@
     "images": [
       "still_0.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-circus"
   },
   {
     "id": 10404,
@@ -6104,7 +6472,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "大红灯笼高高挂"
+    "original_title": "大红灯笼高高挂",
+    "slug": "raise-the-red-lantern"
   },
   {
     "id": 447365,
@@ -6122,7 +6491,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "guardians-of-the-galaxy-vol-3"
   },
   {
     "id": 242828,
@@ -6141,7 +6511,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "思い出のマーニー"
+    "original_title": "思い出のマーニー",
+    "slug": "when-marnie-was-there"
   },
   {
     "id": 11010,
@@ -6158,7 +6529,8 @@
       "still_0.webp",
       "still_1.webp"
     ],
-    "original_title": "Il postino"
+    "original_title": "Il postino",
+    "slug": "the-postman"
   },
   {
     "id": 961,
@@ -6177,7 +6549,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-general"
   },
   {
     "id": 1050035,
@@ -6195,7 +6568,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "怪物"
+    "original_title": "怪物",
+    "slug": "monster"
   },
   {
     "id": 8290,
@@ -6212,7 +6586,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "La Grande Vadrouille"
+    "original_title": "La Grande Vadrouille",
+    "slug": "dont-look-now-were-being-shot-at"
   },
   {
     "id": 296096,
@@ -6227,7 +6602,8 @@
     "images": [
       "still_0.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "me-before-you"
   },
   {
     "id": 9323,
@@ -6245,7 +6621,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "GHOST IN THE SHELL"
+    "original_title": "GHOST IN THE SHELL",
+    "slug": "ghost-in-the-shell"
   },
   {
     "id": 6715,
@@ -6260,7 +6637,8 @@
     "images": [
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-cure"
   },
   {
     "id": 770,
@@ -6276,7 +6654,8 @@
     "images": [
       "still_0.webp",
       "still_1.webp"
-    ]
+    ],
+    "slug": "gone-with-the-wind"
   },
   {
     "id": 180147,
@@ -6292,7 +6671,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Nosotros los nobles"
+    "original_title": "Nosotros los nobles",
+    "slug": "we-are-the-nobles"
   },
   {
     "id": 142061,
@@ -6310,7 +6690,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "batman-the-dark-knight-returns-part-2"
   },
   {
     "id": 85,
@@ -6326,7 +6707,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "raiders-of-the-lost-ark"
   },
   {
     "id": 949,
@@ -6343,7 +6725,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "heat"
   },
   {
     "id": 21334,
@@ -6360,7 +6743,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "بچه‌های آسمان"
+    "original_title": "بچه‌های آسمان",
+    "slug": "children-of-heaven"
   },
   {
     "id": 1578,
@@ -6375,7 +6759,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "raging-bull"
   },
   {
     "id": 234,
@@ -6393,7 +6778,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Das Cabinet des Dr. Caligari"
+    "original_title": "Das Cabinet des Dr. Caligari",
+    "slug": "the-cabinet-of-dr-caligari"
   },
   {
     "id": 1646,
@@ -6409,7 +6795,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "freedom-writers"
   },
   {
     "id": 152532,
@@ -6425,7 +6812,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "dallas-buyers-club"
   },
   {
     "id": 38360,
@@ -6443,7 +6831,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Летят журавли"
+    "original_title": "Летят журавли",
+    "slug": "the-cranes-are-flying"
   },
   {
     "id": 829,
@@ -6460,7 +6849,8 @@
     "images": [
       "still_0.webp",
       "still_1.webp"
-    ]
+    ],
+    "slug": "chinatown"
   },
   {
     "id": 20803,
@@ -6477,7 +6867,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Иван Васильевич меняет профессию"
+    "original_title": "Иван Васильевич меняет профессию",
+    "slug": "ivan-vasilyevich-changes-his-profession"
   },
   {
     "id": 3777,
@@ -6493,7 +6884,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "蜘蛛巣城"
+    "original_title": "蜘蛛巣城",
+    "slug": "throne-of-blood"
   },
   {
     "id": 23282,
@@ -6508,7 +6900,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "one-week"
   },
   {
     "id": 1092,
@@ -6523,7 +6916,8 @@
     "images": [
       "still_0.webp",
       "still_1.webp"
-    ]
+    ],
+    "slug": "the-third-man"
   },
   {
     "id": 13398,
@@ -6541,7 +6935,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "東京ゴッドファーザーズ"
+    "original_title": "東京ゴッドファーザーズ",
+    "slug": "tokyo-godfathers"
   },
   {
     "id": 194,
@@ -6558,7 +6953,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Le Fabuleux Destin d'Amélie Poulain"
+    "original_title": "Le Fabuleux Destin d'Amélie Poulain",
+    "slug": "amlie"
   },
   {
     "id": 33,
@@ -6573,7 +6969,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "unforgiven"
   },
   {
     "id": 150540,
@@ -6592,7 +6989,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "inside-out"
   },
   {
     "id": 122906,
@@ -6608,7 +7006,8 @@
     "images": [
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "about-time"
   },
   {
     "id": 827,
@@ -6624,7 +7023,8 @@
       "still_0.webp",
       "still_1.webp"
     ],
-    "original_title": "Les Diaboliques"
+    "original_title": "Les Diaboliques",
+    "slug": "diabolique"
   },
   {
     "id": 405,
@@ -6640,7 +7040,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "La strada"
+    "original_title": "La strada",
+    "slug": "la-strada"
   },
   {
     "id": 110,
@@ -6658,7 +7059,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Trois couleurs : Rouge"
+    "original_title": "Trois couleurs : Rouge",
+    "slug": "three-colors-red"
   },
   {
     "id": 51482,
@@ -6679,7 +7081,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "DEATH NOTE リライト ～幻視する神～"
+    "original_title": "DEATH NOTE リライト ～幻視する神～",
+    "slug": "death-note-relight-1-visions-of-a-god"
   },
   {
     "id": 20722,
@@ -6693,7 +7096,8 @@
     "images": [
       "still_0.webp"
     ],
-    "original_title": "つみきのいえ"
+    "original_title": "つみきのいえ",
+    "slug": "la-maison-en-petits-cubes"
   },
   {
     "id": 378108,
@@ -6713,7 +7117,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "この世界の片隅に"
+    "original_title": "この世界の片隅に",
+    "slug": "in-this-corner-of-the-world"
   },
   {
     "id": 118340,
@@ -6730,7 +7135,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "guardians-of-the-galaxy"
   },
   {
     "id": 9764,
@@ -6747,7 +7153,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Дерсу Узала"
+    "original_title": "Дерсу Узала",
+    "slug": "dersu-uzala"
   },
   {
     "id": 1892,
@@ -6764,7 +7171,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "return-of-the-jedi"
   },
   {
     "id": 776503,
@@ -6781,7 +7189,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "coda"
   },
   {
     "id": 10674,
@@ -6797,7 +7206,8 @@
     "images": [
       "still_0.webp",
       "still_1.webp"
-    ]
+    ],
+    "slug": "mulan"
   },
   {
     "id": 775,
@@ -6814,7 +7224,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Le Voyage dans la Lune"
+    "original_title": "Le Voyage dans la Lune",
+    "slug": "a-trip-to-the-moon"
   },
   {
     "id": 597,
@@ -6830,7 +7241,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "titanic"
   },
   {
     "id": 615457,
@@ -6846,7 +7258,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "nobody"
   },
   {
     "id": 503314,
@@ -6864,7 +7277,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "ドラゴンボール超 ブロリー"
+    "original_title": "ドラゴンボール超 ブロリー",
+    "slug": "dragon-ball-super-broly"
   },
   {
     "id": 10728,
@@ -6881,7 +7295,8 @@
       "still_0.webp",
       "still_1.webp"
     ],
-    "original_title": "Faust - Eine deutsche Volkssage"
+    "original_title": "Faust - Eine deutsche Volkssage",
+    "slug": "faust"
   },
   {
     "id": 10242,
@@ -6898,7 +7313,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "what-ever-happened-to-baby-jane"
   },
   {
     "id": 404378,
@@ -6914,7 +7330,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "a-street-cat-named-bob"
   },
   {
     "id": 60243,
@@ -6930,7 +7347,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "جدایی نادر از سیمین"
+    "original_title": "جدایی نادر از سیمین",
+    "slug": "a-separation"
   },
   {
     "id": 25538,
@@ -6945,7 +7363,8 @@
       "still_0.webp",
       "still_2.webp"
     ],
-    "original_title": "一一"
+    "original_title": "一一",
+    "slug": "yi-yi"
   },
   {
     "id": 15383,
@@ -6963,7 +7382,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "L'Armée des ombres"
+    "original_title": "L'Armée des ombres",
+    "slug": "army-of-shadows"
   },
   {
     "id": 28971,
@@ -6980,7 +7400,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "limelight"
   },
   {
     "id": 671,
@@ -6995,7 +7416,8 @@
     "images": [
       "still_0.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "harry-potter-and-the-philosophers-stone"
   },
   {
     "id": 752,
@@ -7012,7 +7434,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "v-for-vendetta"
   },
   {
     "id": 488623,
@@ -7030,7 +7453,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "기억의 밤"
+    "original_title": "기억의 밤",
+    "slug": "forgotten"
   },
   {
     "id": 354857,
@@ -7052,7 +7476,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "regular-show-the-movie"
   },
   {
     "id": 916224,
@@ -7071,7 +7496,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "すずめの戸締まり"
+    "original_title": "すずめの戸締まり",
+    "slug": "suzume"
   },
   {
     "id": 313369,
@@ -7088,7 +7514,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "la-la-land"
   },
   {
     "id": 14836,
@@ -7105,7 +7532,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "coraline"
   },
   {
     "id": 223,
@@ -7122,7 +7550,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "rebecca"
   },
   {
     "id": 740937,
@@ -7138,7 +7567,8 @@
       "still_0.webp",
       "still_1.webp"
     ],
-    "original_title": "Simone, le voyage du siècle"
+    "original_title": "Simone, le voyage du siècle",
+    "slug": "simone-woman-of-the-century"
   },
   {
     "id": 360814,
@@ -7155,7 +7585,8 @@
       "still_0.webp",
       "still_2.webp"
     ],
-    "original_title": "दंगल"
+    "original_title": "दंगल",
+    "slug": "dangal"
   },
   {
     "id": 49964,
@@ -7171,7 +7602,8 @@
     "images": [
       "still_0.webp"
     ],
-    "original_title": "خانه‌ی دوست کجاست؟"
+    "original_title": "خانه‌ی دوست کجاست؟",
+    "slug": "where-is-the-friends-house"
   },
   {
     "id": 7857,
@@ -7187,7 +7619,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "amarcord"
   },
   {
     "id": 920394,
@@ -7203,7 +7636,8 @@
       "still_0.webp",
       "still_1.webp"
     ],
-    "original_title": "Babamın Kemanı"
+    "original_title": "Babamın Kemanı",
+    "slug": "my-fathers-violin"
   },
   {
     "id": 554596,
@@ -7216,7 +7650,8 @@
     ],
     "images": [
       "still_0.webp"
-    ]
+    ],
+    "slug": "no-manches-frida-2-paraso-destruido"
   },
   {
     "id": 426618,
@@ -7233,7 +7668,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "where-hands-touch"
   },
   {
     "id": 7984,
@@ -7247,7 +7683,8 @@
     "images": [
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "in-the-name-of-the-father"
   },
   {
     "id": 11036,
@@ -7263,7 +7700,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-notebook"
   },
   {
     "id": 10238,
@@ -7279,7 +7717,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Viskningar och rop"
+    "original_title": "Viskningar och rop",
+    "slug": "cries-and-whispers"
   },
   {
     "id": 334533,
@@ -7295,7 +7734,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "captain-fantastic"
   },
   {
     "id": 1162,
@@ -7310,7 +7750,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-miracle-worker"
   },
   {
     "id": 1402,
@@ -7325,7 +7766,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-pursuit-of-happyness"
   },
   {
     "id": 665,
@@ -7341,7 +7783,8 @@
     "images": [
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "ben-hur"
   },
   {
     "id": 491480,
@@ -7357,7 +7800,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-boy-who-harnessed-the-wind"
   },
   {
     "id": 210577,
@@ -7373,7 +7817,8 @@
     "images": [
       "still_0.webp",
       "still_1.webp"
-    ]
+    ],
+    "slug": "gone-girl"
   },
   {
     "id": 29455,
@@ -7389,7 +7834,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Nattvardsgästerna"
+    "original_title": "Nattvardsgästerna",
+    "slug": "winter-light"
   },
   {
     "id": 582927,
@@ -7404,7 +7850,8 @@
       "still_0.webp",
       "still_1.webp"
     ],
-    "original_title": "Ya no estoy aquí"
+    "original_title": "Ya no estoy aquí",
+    "slug": "im-no-longer-here"
   },
   {
     "id": 458302,
@@ -7422,7 +7869,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Rémi sans famille"
+    "original_title": "Rémi sans famille",
+    "slug": "remi-nobodys-boy"
   },
   {
     "id": 610150,
@@ -7439,7 +7887,8 @@
       "still_0.webp",
       "still_2.webp"
     ],
-    "original_title": "ドラゴンボール超 スーパーヒーロー"
+    "original_title": "ドラゴンボール超 スーパーヒーロー",
+    "slug": "dragon-ball-super-super-hero"
   },
   {
     "id": 183011,
@@ -7458,7 +7907,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "justice-league-the-flashpoint-paradox"
   },
   {
     "id": 158445,
@@ -7475,7 +7925,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "7번방의 선물"
+    "original_title": "7번방의 선물",
+    "slug": "miracle-in-cell-no-7"
   },
   {
     "id": 804,
@@ -7492,7 +7943,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "roman-holiday"
   },
   {
     "id": 615453,
@@ -7509,7 +7961,8 @@
       "still_0.webp",
       "still_1.webp"
     ],
-    "original_title": "哪吒之魔童降世"
+    "original_title": "哪吒之魔童降世",
+    "slug": "ne-zha"
   },
   {
     "id": 505262,
@@ -7527,7 +7980,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "僕のヒーローアカデミア THE MOVIE ～2人の英雄～"
+    "original_title": "僕のヒーローアカデミア THE MOVIE ～2人の英雄～",
+    "slug": "my-hero-academia-two-heroes"
   },
   {
     "id": 2011,
@@ -7543,7 +7997,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "persepolis"
   },
   {
     "id": 20271,
@@ -7560,7 +8015,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Divorzio all'italiana"
+    "original_title": "Divorzio all'italiana",
+    "slug": "divorce-italian-style"
   },
   {
     "id": 17295,
@@ -7578,7 +8034,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "La battaglia di Algeri"
+    "original_title": "La battaglia di Algeri",
+    "slug": "the-battle-of-algiers"
   },
   {
     "id": 654,
@@ -7594,7 +8051,8 @@
     "images": [
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "on-the-waterfront"
   },
   {
     "id": 24238,
@@ -7610,7 +8068,8 @@
     "images": [
       "still_0.webp",
       "still_1.webp"
-    ]
+    ],
+    "slug": "mary-and-max"
   },
   {
     "id": 573164,
@@ -7629,7 +8088,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Un rescate de huevitos"
+    "original_title": "Un rescate de huevitos",
+    "slug": "an-egg-rescue"
   },
   {
     "id": 667520,
@@ -7648,7 +8108,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "泣きたい私は猫をかぶる"
+    "original_title": "泣きたい私は猫をかぶる",
+    "slug": "a-whisker-away"
   },
   {
     "id": 482321,
@@ -7666,7 +8127,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "rons-gone-wrong"
   },
   {
     "id": 944401,
@@ -7681,7 +8143,8 @@
     ],
     "images": [
       "still_0.webp"
-    ]
+    ],
+    "slug": "dogman"
   },
   {
     "id": 94047,
@@ -7700,7 +8163,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "마이웨이"
+    "original_title": "마이웨이",
+    "slug": "my-way"
   },
   {
     "id": 1376434,
@@ -7718,7 +8182,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "predator-killer-of-killers"
   },
   {
     "id": 52629,
@@ -7735,7 +8200,8 @@
     ],
     "images": [
       "still_0.webp"
-    ]
+    ],
+    "slug": "el-infierno"
   },
   {
     "id": 530254,
@@ -7753,7 +8219,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "마녀"
+    "original_title": "마녀",
+    "slug": "the-witch-part-1-the-subversion"
   },
   {
     "id": 3112,
@@ -7770,7 +8237,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-night-of-the-hunter"
   },
   {
     "id": 1607,
@@ -7785,7 +8253,8 @@
     "images": [
       "still_0.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "a-bronx-tale"
   },
   {
     "id": 833,
@@ -7800,7 +8269,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "umberto-d"
   },
   {
     "id": 393,
@@ -7817,7 +8287,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "kill-bill-vol-2"
   },
   {
     "id": 455714,
@@ -7836,7 +8307,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "ฉลาดเกมส์โกง"
+    "original_title": "ฉลาดเกมส์โกง",
+    "slug": "bad-genius"
   },
   {
     "id": 16237,
@@ -7854,7 +8326,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "teen-titans-trouble-in-tokyo"
   },
   {
     "id": 550205,
@@ -7872,7 +8345,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "wish-dragon"
   },
   {
     "id": 316029,
@@ -7887,7 +8361,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-greatest-showman"
   },
   {
     "id": 662,
@@ -7903,7 +8378,8 @@
     "images": [
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "la-jete"
   },
   {
     "id": 777,
@@ -7920,7 +8396,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "La Grande Illusion"
+    "original_title": "La Grande Illusion",
+    "slug": "grand-illusion"
   },
   {
     "id": 265195,
@@ -7938,7 +8415,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Relatos salvajes"
+    "original_title": "Relatos salvajes",
+    "slug": "wild-tales"
   },
   {
     "id": 47796,
@@ -7953,7 +8431,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "mamma-roma"
   },
   {
     "id": 11293,
@@ -7970,7 +8449,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "paper-moon"
   },
   {
     "id": 961323,
@@ -7991,7 +8471,8 @@
     "images": [
       "still_0.webp",
       "still_1.webp"
-    ]
+    ],
+    "slug": "nimona"
   },
   {
     "id": 501929,
@@ -8008,7 +8489,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-mitchells-vs-the-machines"
   },
   {
     "id": 331482,
@@ -8025,7 +8507,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "little-women"
   },
   {
     "id": 3034,
@@ -8039,7 +8522,8 @@
     "images": [
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "young-frankenstein"
   },
   {
     "id": 16,
@@ -8055,7 +8539,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "dancer-in-the-dark"
   },
   {
     "id": 698948,
@@ -8071,7 +8556,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "thirteen-lives"
   },
   {
     "id": 522212,
@@ -8088,7 +8574,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "just-mercy"
   },
   {
     "id": 369557,
@@ -8106,7 +8593,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "sing-street"
   },
   {
     "id": 774531,
@@ -8121,7 +8609,8 @@
     "images": [
       "still_0.webp",
       "still_1.webp"
-    ]
+    ],
+    "slug": "young-woman-and-the-sea"
   },
   {
     "id": 381341,
@@ -8138,7 +8627,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Perfetti sconosciuti"
+    "original_title": "Perfetti sconosciuti",
+    "slug": "perfect-strangers"
   },
   {
     "id": 25364,
@@ -8153,7 +8643,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "ace-in-the-hole"
   },
   {
     "id": 32085,
@@ -8168,7 +8659,8 @@
     "images": [
       "still_0.webp",
       "still_1.webp"
-    ]
+    ],
+    "slug": "vincent"
   },
   {
     "id": 613,
@@ -8185,7 +8677,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Der Untergang"
+    "original_title": "Der Untergang",
+    "slug": "downfall"
   },
   {
     "id": 453,
@@ -8201,7 +8694,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "a-beautiful-mind"
   },
   {
     "id": 23160,
@@ -8217,7 +8711,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Werckmeister harmóniák"
+    "original_title": "Werckmeister harmóniák",
+    "slug": "werckmeister-harmonies"
   },
   {
     "id": 10191,
@@ -8235,7 +8730,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "how-to-train-your-dragon"
   },
   {
     "id": 698508,
@@ -8251,7 +8747,8 @@
     "images": [
       "still_0.webp",
       "still_1.webp"
-    ]
+    ],
+    "slug": "redeeming-love"
   },
   {
     "id": 275,
@@ -8268,7 +8765,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "fargo"
   },
   {
     "id": 1214484,
@@ -8284,7 +8782,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Släpp taget"
+    "original_title": "Släpp taget",
+    "slug": "let-go"
   },
   {
     "id": 235,
@@ -8300,7 +8799,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "stand-by-me"
   },
   {
     "id": 505192,
@@ -8318,7 +8818,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "万引き家族"
+    "original_title": "万引き家族",
+    "slug": "shoplifters"
   },
   {
     "id": 45752,
@@ -8335,7 +8836,8 @@
     "images": [
       "still_0.webp",
       "still_1.webp"
-    ]
+    ],
+    "slug": "scooby-doo-camp-scare"
   },
   {
     "id": 89,
@@ -8351,7 +8853,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "indiana-jones-and-the-last-crusade"
   },
   {
     "id": 50759,
@@ -8366,7 +8869,8 @@
       "still_0.webp",
       "still_1.webp"
     ],
-    "original_title": "秋刀魚の味"
+    "original_title": "秋刀魚の味",
+    "slug": "an-autumn-afternoon"
   },
   {
     "id": 585,
@@ -8383,7 +8887,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "monsters-inc"
   },
   {
     "id": 761898,
@@ -8402,7 +8907,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "劇場版 ソードアート・オンライン-プログレッシブ- 星なき夜のアリア"
+    "original_title": "劇場版 ソードアート・オンライン-プログレッシブ- 星なき夜のアリア",
+    "slug": "sword-art-online-the-movie-progressive-aria-of-a-starless-night"
   },
   {
     "id": 152601,
@@ -8419,7 +8925,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "her"
   },
   {
     "id": 59440,
@@ -8435,7 +8942,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "warrior"
   },
   {
     "id": 968,
@@ -8452,7 +8960,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "dog-day-afternoon"
   },
   {
     "id": 581528,
@@ -8470,7 +8979,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "악인전"
+    "original_title": "악인전",
+    "slug": "the-gangster-the-cop-the-devil"
   },
   {
     "id": 399174,
@@ -8487,7 +8997,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "isle-of-dogs"
   },
   {
     "id": 3083,
@@ -8503,7 +9014,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "mr-smith-goes-to-washington"
   },
   {
     "id": 16804,
@@ -8519,7 +9031,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "おくりびと"
+    "original_title": "おくりびと",
+    "slug": "departures"
   },
   {
     "id": 5801,
@@ -8536,7 +9049,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "পথের পাঁচালী"
+    "original_title": "পথের পাঁচালী",
+    "slug": "pather-panchali"
   },
   {
     "id": 546554,
@@ -8553,7 +9067,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "knives-out"
   },
   {
     "id": 24428,
@@ -8570,7 +9085,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-avengers"
   },
   {
     "id": 1081676,
@@ -8588,7 +9104,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Znachor"
+    "original_title": "Znachor",
+    "slug": "forgotten-love"
   },
   {
     "id": 379170,
@@ -8606,7 +9123,8 @@
     "images": [
       "still_0.webp",
       "still_1.webp"
-    ]
+    ],
+    "slug": "sherlock-the-abominable-bride"
   },
   {
     "id": 323272,
@@ -8620,7 +9138,8 @@
     "images": [
       "still_0.webp",
       "still_1.webp"
-    ]
+    ],
+    "slug": "war-room"
   },
   {
     "id": 293299,
@@ -8638,7 +9157,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "feast"
   },
   {
     "id": 33320,
@@ -8658,7 +9178,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "千年女優"
+    "original_title": "千年女優",
+    "slug": "millennium-actress"
   },
   {
     "id": 581,
@@ -8675,7 +9196,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "dances-with-wolves"
   },
   {
     "id": 115,
@@ -8690,7 +9212,8 @@
     "images": [
       "still_0.webp",
       "still_1.webp"
-    ]
+    ],
+    "slug": "the-big-lebowski"
   },
   {
     "id": 93,
@@ -8707,7 +9230,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "anatomy-of-a-murder"
   },
   {
     "id": 266856,
@@ -8723,7 +9247,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-theory-of-everything"
   },
   {
     "id": 52345,
@@ -8739,7 +9264,8 @@
       "still_0.webp",
       "still_1.webp"
     ],
-    "original_title": "Lisbela e o Prisioneiro"
+    "original_title": "Lisbela e o Prisioneiro",
+    "slug": "lisbela-and-the-prisoner"
   },
   {
     "id": 438695,
@@ -8757,7 +9283,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "sing-2"
   },
   {
     "id": 31411,
@@ -8773,7 +9300,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-cameraman"
   },
   {
     "id": 677638,
@@ -8791,7 +9319,8 @@
     "images": [
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "we-bare-bears-the-movie"
   },
   {
     "id": 430424,
@@ -8809,7 +9338,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Au revoir là-haut"
+    "original_title": "Au revoir là-haut",
+    "slug": "see-you-up-there"
   },
   {
     "id": 33602,
@@ -8825,7 +9355,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "temple-grandin"
   },
   {
     "id": 9479,
@@ -8841,7 +9372,8 @@
     "images": [
       "still_0.webp",
       "still_1.webp"
-    ]
+    ],
+    "slug": "the-nightmare-before-christmas"
   },
   {
     "id": 11656,
@@ -8858,7 +9390,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Jungfrukällan"
+    "original_title": "Jungfrukällan",
+    "slug": "the-virgin-spring"
   },
   {
     "id": 16859,
@@ -8876,7 +9409,8 @@
       "still_0.webp",
       "still_1.webp"
     ],
-    "original_title": "魔女の宅急便"
+    "original_title": "魔女の宅急便",
+    "slug": "kikis-delivery-service"
   },
   {
     "id": 2062,
@@ -8894,7 +9428,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "ratatouille"
   },
   {
     "id": 11953,
@@ -8912,7 +9447,8 @@
       "still_0.webp",
       "still_1.webp"
     ],
-    "original_title": "影武者"
+    "original_title": "影武者",
+    "slug": "kagemusha"
   },
   {
     "id": 47931,
@@ -8930,7 +9466,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Tropa de Elite 2"
+    "original_title": "Tropa de Elite 2",
+    "slug": "elite-squad-the-enemy-within"
   },
   {
     "id": 83564,
@@ -8946,7 +9483,8 @@
     "images": [
       "still_0.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "la-luna"
   },
   {
     "id": 6075,
@@ -8963,7 +9501,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "carlitos-way"
   },
   {
     "id": 1280,
@@ -8981,7 +9520,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "빈집"
+    "original_title": "빈집",
+    "slug": "3-iron"
   },
   {
     "id": 714888,
@@ -8998,7 +9538,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "argentina-1985"
   },
   {
     "id": 27064,
@@ -9012,7 +9553,8 @@
     "images": [
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "mishima-a-life-in-four-chapters"
   },
   {
     "id": 5924,
@@ -9028,7 +9570,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "papillon"
   },
   {
     "id": 391,
@@ -9044,7 +9587,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Per un pugno di dollari"
+    "original_title": "Per un pugno di dollari",
+    "slug": "a-fistful-of-dollars"
   },
   {
     "id": 445030,
@@ -9064,7 +9608,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "ノーゲーム・ノーライフ ゼロ"
+    "original_title": "ノーゲーム・ノーライフ ゼロ",
+    "slug": "no-game-no-life-zero"
   },
   {
     "id": 435129,
@@ -9082,7 +9627,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-breadwinner"
   },
   {
     "id": 32480,
@@ -9096,7 +9642,8 @@
     "images": [
       "still_0.webp"
     ],
-    "original_title": "Il marchese del Grillo"
+    "original_title": "Il marchese del Grillo",
+    "slug": "the-marquis-of-grillo"
   },
   {
     "id": 650031,
@@ -9114,7 +9661,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Skyggen i mit øje"
+    "original_title": "Skyggen i mit øje",
+    "slug": "the-shadow-in-my-eye"
   },
   {
     "id": 522402,
@@ -9130,7 +9678,8 @@
     "images": [
       "still_0.webp",
       "still_1.webp"
-    ]
+    ],
+    "slug": "finch"
   },
   {
     "id": 25606,
@@ -9145,7 +9694,8 @@
       "still_0.webp",
       "still_1.webp"
     ],
-    "original_title": "Fantozzi"
+    "original_title": "Fantozzi",
+    "slug": "fantozzi-white-collar-blues"
   },
   {
     "id": 24167,
@@ -9162,7 +9712,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "La ciociara"
+    "original_title": "La ciociara",
+    "slug": "two-women"
   },
   {
     "id": 805,
@@ -9179,7 +9730,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "rosemarys-baby"
   },
   {
     "id": 1426776,
@@ -9195,7 +9747,8 @@
     "images": [
       "still_0.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "straw"
   },
   {
     "id": 11830,
@@ -9211,7 +9764,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "タンポポ"
+    "original_title": "タンポポ",
+    "slug": "tampopo"
   },
   {
     "id": 631,
@@ -9226,7 +9780,8 @@
     "images": [
       "still_0.webp",
       "still_1.webp"
-    ]
+    ],
+    "slug": "sunrise-a-song-of-two-humans"
   },
   {
     "id": 779047,
@@ -9244,7 +9799,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "us-again"
   },
   {
     "id": 14574,
@@ -9260,7 +9816,8 @@
     "images": [
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-boy-in-the-striped-pyjamas"
   },
   {
     "id": 3078,
@@ -9276,7 +9833,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "it-happened-one-night"
   },
   {
     "id": 198,
@@ -9293,7 +9851,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "to-be-or-not-to-be"
   },
   {
     "id": 263115,
@@ -9310,7 +9869,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "logan"
   },
   {
     "id": 826,
@@ -9326,7 +9886,8 @@
     "images": [
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-bridge-on-the-river-kwai"
   },
   {
     "id": 527774,
@@ -9345,7 +9906,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "raya-and-the-last-dragon"
   },
   {
     "id": 31442,
@@ -9362,7 +9924,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Иваново детство"
+    "original_title": "Иваново детство",
+    "slug": "ivans-childhood"
   },
   {
     "id": 4977,
@@ -9380,7 +9943,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "パプリカ"
+    "original_title": "パプリカ",
+    "slug": "paprika"
   },
   {
     "id": 303867,
@@ -9395,7 +9959,8 @@
     ],
     "images": [
       "still_0.webp"
-    ]
+    ],
+    "slug": "world-of-tomorrow"
   },
   {
     "id": 596,
@@ -9410,7 +9975,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-grapes-of-wrath"
   },
   {
     "id": 12,
@@ -9426,7 +9992,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "finding-nemo"
   },
   {
     "id": 107,
@@ -9442,7 +10009,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "snatch"
   },
   {
     "id": 22,
@@ -9459,7 +10027,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "pirates-of-the-caribbean-the-curse-of-the-black-pearl"
   },
   {
     "id": 911430,
@@ -9475,7 +10044,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "f1"
   },
   {
     "id": 554590,
@@ -9490,7 +10060,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "tods-caen"
   },
   {
     "id": 552532,
@@ -9504,7 +10075,8 @@
     "images": [
       "still_0.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "charm-city-kings"
   },
   {
     "id": 200727,
@@ -9521,7 +10093,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "love-rosie"
   },
   {
     "id": 10774,
@@ -9536,7 +10109,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "network"
   },
   {
     "id": 419478,
@@ -9552,7 +10126,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "midnight-sun"
   },
   {
     "id": 314365,
@@ -9568,7 +10143,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "spotlight"
   },
   {
     "id": 548544,
@@ -9584,7 +10160,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "A Vida Invisível"
+    "original_title": "A Vida Invisível",
+    "slug": "invisible-life"
   },
   {
     "id": 2440,
@@ -9604,7 +10181,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "공동경비구역 JSA"
+    "original_title": "공동경비구역 JSA",
+    "slug": "joint-security-area"
   },
   {
     "id": 594634,
@@ -9620,7 +10198,8 @@
       "still_0.webp",
       "still_1.webp"
     ],
-    "original_title": "Dem Horizont so nah"
+    "original_title": "Dem Horizont so nah",
+    "slug": "close-to-the-horizon"
   },
   {
     "id": 301,
@@ -9635,7 +10214,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "rio-bravo"
   },
   {
     "id": 11697,
@@ -9650,7 +10230,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-man-who-shot-liberty-valance"
   },
   {
     "id": 10315,
@@ -9668,7 +10249,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "fantastic-mr-fox"
   },
   {
     "id": 80,
@@ -9683,7 +10265,8 @@
     "images": [
       "still_0.webp",
       "still_1.webp"
-    ]
+    ],
+    "slug": "before-sunset"
   },
   {
     "id": 531,
@@ -9700,7 +10283,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-wrong-trousers"
   },
   {
     "id": 152742,
@@ -9718,7 +10302,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "La migliore offerta"
+    "original_title": "La migliore offerta",
+    "slug": "the-best-offer"
   },
   {
     "id": 1018,
@@ -9735,7 +10320,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "mulholland-drive"
   },
   {
     "id": 502,
@@ -9751,7 +10337,8 @@
     "images": [
       "still_0.webp",
       "still_1.webp"
-    ]
+    ],
+    "slug": "fail-safe"
   },
   {
     "id": 1311031,
@@ -9770,7 +10357,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来"
+    "original_title": "劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来",
+    "slug": "demon-slayer-kimetsu-no-yaiba-infinity-castle"
   },
   {
     "id": 1062722,
@@ -9787,7 +10375,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "frankenstein"
   },
   {
     "id": 398924,
@@ -9803,7 +10392,8 @@
       "still_0.webp",
       "still_1.webp"
     ],
-    "original_title": "Un sac de billes"
+    "original_title": "Un sac de billes",
+    "slug": "a-bag-of-marbles"
   },
   {
     "id": 15859,
@@ -9820,7 +10410,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "내 머리 속의 지우개"
+    "original_title": "내 머리 속의 지우개",
+    "slug": "a-moment-to-remember"
   },
   {
     "id": 10775,
@@ -9840,7 +10431,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "無間道"
+    "original_title": "無間道",
+    "slug": "infernal-affairs"
   },
   {
     "id": 2118,
@@ -9857,7 +10449,8 @@
     "images": [
       "still_0.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "la-confidential"
   },
   {
     "id": 762,
@@ -9873,7 +10466,8 @@
     "images": [
       "still_0.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "monty-python-and-the-holy-grail"
   },
   {
     "id": 562,
@@ -9889,7 +10483,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "die-hard"
   },
   {
     "id": 937746,
@@ -9906,7 +10501,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Io capitano"
+    "original_title": "Io capitano",
+    "slug": "io-capitano"
   },
   {
     "id": 393559,
@@ -9925,7 +10521,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Ma vie de courgette"
+    "original_title": "Ma vie de courgette",
+    "slug": "my-life-as-a-zucchini"
   },
   {
     "id": 56231,
@@ -9939,7 +10536,8 @@
     "images": [
       "still_0.webp"
     ],
-    "original_title": "La classe operaia va in paradiso"
+    "original_title": "La classe operaia va in paradiso",
+    "slug": "the-working-class-goes-to-heaven"
   },
   {
     "id": 10193,
@@ -9956,7 +10554,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "toy-story-3"
   },
   {
     "id": 113,
@@ -9972,7 +10571,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "봄 여름 가을 겨울 그리고 봄"
+    "original_title": "봄 여름 가을 겨울 그리고 봄",
+    "slug": "spring-summer-fall-winter-and-spring"
   },
   {
     "id": 84892,
@@ -9985,7 +10585,8 @@
     ],
     "images": [
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-perks-of-being-a-wallflower"
   },
   {
     "id": 58129,
@@ -10002,7 +10603,8 @@
       "still_0.webp",
       "still_1.webp"
     ],
-    "original_title": "Körkarlen"
+    "original_title": "Körkarlen",
+    "slug": "the-phantom-carriage"
   },
   {
     "id": 31011,
@@ -10019,7 +10621,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "mr-nobody"
   },
   {
     "id": 674,
@@ -10034,7 +10637,8 @@
     "images": [
       "still_0.webp",
       "still_1.webp"
-    ]
+    ],
+    "slug": "harry-potter-and-the-goblet-of-fire"
   },
   {
     "id": 367412,
@@ -10049,7 +10653,8 @@
     "images": [
       "still_0.webp",
       "still_1.webp"
-    ]
+    ],
+    "slug": "whiplash"
   },
   {
     "id": 335578,
@@ -10067,7 +10672,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Under sandet"
+    "original_title": "Under sandet",
+    "slug": "land-of-mine"
   },
   {
     "id": 49797,
@@ -10083,7 +10689,8 @@
       "still_0.webp",
       "still_2.webp"
     ],
-    "original_title": "악마를 보았다"
+    "original_title": "악마를 보았다",
+    "slug": "i-saw-the-devil"
   },
   {
     "id": 16761,
@@ -10100,7 +10707,8 @@
       "still_0.webp",
       "still_1.webp"
     ],
-    "original_title": "Una película de huevos"
+    "original_title": "Una película de huevos",
+    "slug": "a-movie-of-eggs"
   },
   {
     "id": 5915,
@@ -10116,7 +10724,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "into-the-wild"
   },
   {
     "id": 178682,
@@ -10133,7 +10742,8 @@
     "images": [
       "still_0.webp",
       "still_1.webp"
-    ]
+    ],
+    "slug": "the-wizards-return-alex-vs-alex"
   },
   {
     "id": 3870,
@@ -10150,7 +10760,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Novecento"
+    "original_title": "Novecento",
+    "slug": "1900"
   },
   {
     "id": 579245,
@@ -10167,7 +10778,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Hors Normes"
+    "original_title": "Hors Normes",
+    "slug": "the-specials"
   },
   {
     "id": 11621,
@@ -10186,7 +10798,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "紅の豚"
+    "original_title": "紅の豚",
+    "slug": "porco-rosso"
   },
   {
     "id": 785084,
@@ -10201,7 +10814,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-whale"
   },
   {
     "id": 508943,
@@ -10220,7 +10834,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "luca"
   },
   {
     "id": 22683,
@@ -10235,7 +10850,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "gifted-hands-the-ben-carson-story"
   },
   {
     "id": 149870,
@@ -10255,7 +10871,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "風立ちぬ"
+    "original_title": "風立ちぬ",
+    "slug": "the-wind-rises"
   },
   {
     "id": 29458,
@@ -10271,7 +10888,8 @@
       "still_0.webp",
       "still_1.webp"
     ],
-    "original_title": "I cento passi"
+    "original_title": "I cento passi",
+    "slug": "one-hundred-steps"
   },
   {
     "id": 11049,
@@ -10287,7 +10905,8 @@
     ],
     "images": [
       "still_2.webp"
-    ]
+    ],
+    "slug": "interstella-5555-the-5tory-of-the-5ecret-5tar-5ystem"
   },
   {
     "id": 1366,
@@ -10301,7 +10920,8 @@
     "images": [
       "still_0.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "rocky"
   },
   {
     "id": 1394,
@@ -10318,7 +10938,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Ностальгия"
+    "original_title": "Ностальгия",
+    "slug": "nostalgia"
   },
   {
     "id": 49026,
@@ -10336,7 +10957,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-dark-knight-rises"
   },
   {
     "id": 29845,
@@ -10352,7 +10974,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "a-woman-under-the-influence"
   },
   {
     "id": 13042,
@@ -10369,7 +10992,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "presto"
   },
   {
     "id": 22843,
@@ -10388,7 +11012,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "ヱヴァンゲリヲン新劇場版：破"
+    "original_title": "ヱヴァンゲリヲン新劇場版：破",
+    "slug": "evangelion-20-you-can-not-advance"
   },
   {
     "id": 12496,
@@ -10405,7 +11030,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "たそがれ清兵衛"
+    "original_title": "たそがれ清兵衛",
+    "slug": "the-twilight-samurai"
   },
   {
     "id": 142,
@@ -10421,7 +11047,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "brokeback-mountain"
   },
   {
     "id": 901563,
@@ -10436,7 +11063,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "close"
   },
   {
     "id": 359156,
@@ -10452,7 +11080,8 @@
       "still_0.webp",
       "still_1.webp"
     ],
-    "original_title": "Non essere cattivo"
+    "original_title": "Non essere cattivo",
+    "slug": "dont-be-bad"
   },
   {
     "id": 277216,
@@ -10469,7 +11098,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "straight-outta-compton"
   },
   {
     "id": 593,
@@ -10486,7 +11116,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Солярис"
+    "original_title": "Солярис",
+    "slug": "solaris"
   },
   {
     "id": 570503,
@@ -10503,7 +11134,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "유열의 음악앨범"
+    "original_title": "유열의 음악앨범",
+    "slug": "tune-in-for-love"
   },
   {
     "id": 14069,
@@ -10522,7 +11154,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "時をかける少女"
+    "original_title": "時をかける少女",
+    "slug": "the-girl-who-leapt-through-time"
   },
   {
     "id": 887,
@@ -10538,7 +11171,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-best-years-of-our-lives"
   },
   {
     "id": 262,
@@ -10554,7 +11188,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-king-of-comedy"
   },
   {
     "id": 632322,
@@ -10570,7 +11205,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "all-my-life"
   },
   {
     "id": 5961,
@@ -10588,7 +11224,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Fanny och Alexander"
+    "original_title": "Fanny och Alexander",
+    "slug": "fanny-and-alexander"
   },
   {
     "id": 20873,
@@ -10606,7 +11243,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Бриллиантовая рука"
+    "original_title": "Бриллиантовая рука",
+    "slug": "the-diamond-arm"
   },
   {
     "id": 25050,
@@ -10623,7 +11261,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "歩いても 歩いても"
+    "original_title": "歩いても 歩いても",
+    "slug": "still-walking"
   },
   {
     "id": 348892,
@@ -10640,7 +11279,8 @@
       "still_0.webp",
       "still_1.webp"
     ],
-    "original_title": "बजरंगी भाईजान"
+    "original_title": "बजरंगी भाईजान",
+    "slug": "bajrangi-bhaijaan"
   },
   {
     "id": 9475,
@@ -10655,7 +11295,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "scent-of-a-woman"
   },
   {
     "id": 5991,
@@ -10669,7 +11310,8 @@
     "images": [
       "still_0.webp"
     ],
-    "original_title": "Der letzte Mann"
+    "original_title": "Der letzte Mann",
+    "slug": "the-last-laugh"
   },
   {
     "id": 136,
@@ -10685,7 +11327,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "freaks"
   },
   {
     "id": 438631,
@@ -10700,7 +11343,8 @@
     "images": [
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "dune"
   },
   {
     "id": 934,
@@ -10717,7 +11361,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Du rififi chez les hommes"
+    "original_title": "Du rififi chez les hommes",
+    "slug": "rififi"
   },
   {
     "id": 71157,
@@ -10732,7 +11377,8 @@
     "images": [
       "still_0.webp",
       "still_1.webp"
-    ]
+    ],
+    "slug": "polisse"
   },
   {
     "id": 31056,
@@ -10749,7 +11395,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Krótki film o miłości"
+    "original_title": "Krótki film o miłości",
+    "slug": "a-short-film-about-love"
   },
   {
     "id": 712454,
@@ -10767,7 +11414,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Le Sommet des dieux"
+    "original_title": "Le Sommet des dieux",
+    "slug": "the-summit-of-the-gods"
   },
   {
     "id": 11602,
@@ -10782,7 +11430,8 @@
       "still_0.webp",
       "still_1.webp"
     ],
-    "original_title": "Såsom i en spegel"
+    "original_title": "Såsom i en spegel",
+    "slug": "through-a-glass-darkly"
   },
   {
     "id": 11005,
@@ -10796,7 +11445,8 @@
     "images": [
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "awakenings"
   },
   {
     "id": 165,
@@ -10813,7 +11463,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "back-to-the-future-part-ii"
   },
   {
     "id": 144,
@@ -10831,7 +11482,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Der Himmel über Berlin"
+    "original_title": "Der Himmel über Berlin",
+    "slug": "wings-of-desire"
   },
   {
     "id": 760774,
@@ -10847,7 +11499,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "one-life"
   },
   {
     "id": 5000,
@@ -10864,7 +11517,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Jeux interdits"
+    "original_title": "Jeux interdits",
+    "slug": "forbidden-games"
   },
   {
     "id": 976893,
@@ -10879,7 +11533,8 @@
       "still_0.webp",
       "still_2.webp"
     ],
-    "original_title": "PERFECT DAYS"
+    "original_title": "PERFECT DAYS",
+    "slug": "perfect-days"
   },
   {
     "id": 2721,
@@ -10896,7 +11551,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "z"
   },
   {
     "id": 946,
@@ -10911,7 +11567,8 @@
     "images": [
       "still_0.webp",
       "still_1.webp"
-    ]
+    ],
+    "slug": "letter-from-an-unknown-woman"
   },
   {
     "id": 925,
@@ -10926,7 +11583,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "do-the-right-thing"
   },
   {
     "id": 783675,
@@ -10943,7 +11601,8 @@
       "still_0.webp",
       "still_1.webp"
     ],
-    "original_title": "THE FIRST SLAM DUNK"
+    "original_title": "THE FIRST SLAM DUNK",
+    "slug": "the-first-slam-dunk"
   },
   {
     "id": 126319,
@@ -10960,7 +11619,8 @@
       "still_0.webp",
       "still_2.webp"
     ],
-    "original_title": "Ernest et Célestine"
+    "original_title": "Ernest et Célestine",
+    "slug": "ernest-celestine"
   },
   {
     "id": 141,
@@ -10977,7 +11637,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "donnie-darko"
   },
   {
     "id": 1010581,
@@ -10995,7 +11656,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Culpa mía"
+    "original_title": "Culpa mía",
+    "slug": "my-fault"
   },
   {
     "id": 6844,
@@ -11011,7 +11673,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-ten-commandments"
   },
   {
     "id": 169813,
@@ -11026,7 +11689,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "short-term-12"
   },
   {
     "id": 18079,
@@ -11044,7 +11708,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Nueve reinas"
+    "original_title": "Nueve reinas",
+    "slug": "nine-queens"
   },
   {
     "id": 9421,
@@ -11060,7 +11725,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Le Dîner de cons"
+    "original_title": "Le Dîner de cons",
+    "slug": "the-dinner-game"
   },
   {
     "id": 1480,
@@ -11075,7 +11741,8 @@
     "images": [
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "touch-of-evil"
   },
   {
     "id": 553,
@@ -11091,7 +11758,8 @@
     "images": [
       "still_0.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "dogville"
   },
   {
     "id": 5511,
@@ -11107,7 +11775,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "le-samoura"
   },
   {
     "id": 14756,
@@ -11125,7 +11794,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "葉問"
+    "original_title": "葉問",
+    "slug": "ip-man"
   },
   {
     "id": 652722,
@@ -11140,7 +11810,8 @@
     "images": [
       "still_0.webp"
     ],
-    "original_title": "En brazos de un asesino"
+    "original_title": "En brazos de un asesino",
+    "slug": "in-the-arms-of-an-assassin"
   },
   {
     "id": 423612,
@@ -11158,7 +11829,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Werk ohne Autor"
+    "original_title": "Werk ohne Autor",
+    "slug": "never-look-away"
   },
   {
     "id": 86837,
@@ -11174,7 +11846,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "amour"
   },
   {
     "id": 22504,
@@ -11192,7 +11865,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Le Roi et l'Oiseau"
+    "original_title": "Le Roi et l'Oiseau",
+    "slug": "the-king-and-the-mockingbird"
   },
   {
     "id": 10229,
@@ -11208,7 +11882,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "a-walk-to-remember"
   },
   {
     "id": 1417,
@@ -11225,7 +11900,8 @@
       "still_0.webp",
       "still_2.webp"
     ],
-    "original_title": "El laberinto del fauno"
+    "original_title": "El laberinto del fauno",
+    "slug": "pans-labyrinth"
   },
   {
     "id": 583,
@@ -11240,7 +11916,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "life-of-brian"
   },
   {
     "id": 1175942,
@@ -11259,7 +11936,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-bad-guys-2"
   },
   {
     "id": 273248,
@@ -11275,7 +11953,8 @@
     "images": [
       "still_0.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-hateful-eight"
   },
   {
     "id": 117,
@@ -11291,7 +11970,8 @@
     "images": [
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-untouchables"
   },
   {
     "id": 937278,
@@ -11307,7 +11987,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "a-man-called-otto"
   },
   {
     "id": 14282,
@@ -11326,7 +12007,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "獣兵衛忍風帖"
+    "original_title": "獣兵衛忍風帖",
+    "slug": "ninja-scroll"
   },
   {
     "id": 24480,
@@ -11344,7 +12026,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "partly-cloudy"
   },
   {
     "id": 13855,
@@ -11362,7 +12045,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "추격자"
+    "original_title": "추격자",
+    "slug": "the-chaser"
   },
   {
     "id": 715931,
@@ -11379,7 +12063,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "emancipation"
   },
   {
     "id": 1675,
@@ -11396,7 +12081,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "La Nuit américaine"
+    "original_title": "La Nuit américaine",
+    "slug": "day-for-night"
   },
   {
     "id": 587,
@@ -11412,7 +12098,8 @@
     "images": [
       "still_0.webp",
       "still_1.webp"
-    ]
+    ],
+    "slug": "big-fish"
   },
   {
     "id": 523781,
@@ -11427,7 +12114,8 @@
     "images": [
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "words-on-bathroom-walls"
   },
   {
     "id": 808,
@@ -11446,7 +12134,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "shrek"
   },
   {
     "id": 269149,
@@ -11463,7 +12152,8 @@
     "images": [
       "still_0.webp",
       "still_1.webp"
-    ]
+    ],
+    "slug": "zootopia"
   },
   {
     "id": 12429,
@@ -11480,7 +12170,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "崖の上のポニョ"
+    "original_title": "崖の上のポニョ",
+    "slug": "ponyo"
   },
   {
     "id": 380,
@@ -11494,7 +12185,8 @@
     "images": [
       "still_0.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "rain-man"
   },
   {
     "id": 396535,
@@ -11513,7 +12205,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "부산행"
+    "original_title": "부산행",
+    "slug": "train-to-busan"
   },
   {
     "id": 15916,
@@ -11531,7 +12224,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "天使のたまご"
+    "original_title": "天使のたまご",
+    "slug": "angels-egg"
   },
   {
     "id": 143,
@@ -11547,7 +12241,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "all-quiet-on-the-western-front"
   },
   {
     "id": 40662,
@@ -11563,7 +12258,8 @@
     "images": [
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "batman-under-the-red-hood"
   },
   {
     "id": 216,
@@ -11580,7 +12276,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Angst essen Seele auf"
+    "original_title": "Angst essen Seele auf",
+    "slug": "ali-fear-eats-the-soul"
   },
   {
     "id": 211954,
@@ -11597,7 +12294,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "No se aceptan devoluciones"
+    "original_title": "No se aceptan devoluciones",
+    "slug": "instructions-not-included"
   },
   {
     "id": 166428,
@@ -11614,7 +12312,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "how-to-train-your-dragon-the-hidden-world"
   },
   {
     "id": 28162,
@@ -11632,7 +12331,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "a-matter-of-life-and-death"
   },
   {
     "id": 428493,
@@ -11647,7 +12347,8 @@
     "images": [
       "still_0.webp",
       "still_1.webp"
-    ]
+    ],
+    "slug": "gods-own-country"
   },
   {
     "id": 303,
@@ -11664,7 +12365,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "notorious"
   },
   {
     "id": 585511,
@@ -11682,7 +12384,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "luck"
   },
   {
     "id": 1700,
@@ -11697,7 +12400,8 @@
     "images": [
       "still_0.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "misery"
   },
   {
     "id": 792,
@@ -11714,7 +12418,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "platoon"
   },
   {
     "id": 609242,
@@ -11731,7 +12436,8 @@
       "still_0.webp",
       "still_1.webp"
     ],
-    "original_title": "El robo del siglo"
+    "original_title": "El robo del siglo",
+    "slug": "the-heist-of-the-century"
   },
   {
     "id": 10227,
@@ -11746,7 +12452,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "playtime"
   },
   {
     "id": 25253,
@@ -11762,7 +12469,8 @@
       "still_0.webp",
       "still_1.webp"
     ],
-    "original_title": "Les Tontons flingueurs"
+    "original_title": "Les Tontons flingueurs",
+    "slug": "crooks-in-clover"
   },
   {
     "id": 903,
@@ -11777,7 +12485,8 @@
     "images": [
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "cool-hand-luke"
   },
   {
     "id": 322,
@@ -11795,7 +12504,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "mystic-river"
   },
   {
     "id": 579974,
@@ -11813,7 +12523,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "రౌద్రం రణం రుధిరం"
+    "original_title": "రౌద్రం రణం రుధిరం",
+    "slug": "rrr"
   },
   {
     "id": 203217,
@@ -11828,7 +12539,8 @@
       "still_0.webp",
       "still_1.webp"
     ],
-    "original_title": "Minha Mãe é uma Peça: O Filme"
+    "original_title": "Minha Mãe é uma Peça: O Filme",
+    "slug": "my-mom-is-a-character"
   },
   {
     "id": 113833,
@@ -11842,7 +12554,8 @@
     "images": [
       "still_0.webp",
       "still_1.webp"
-    ]
+    ],
+    "slug": "the-normal-heart"
   },
   {
     "id": 980489,
@@ -11859,7 +12572,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "gran-turismo"
   },
   {
     "id": 9552,
@@ -11874,7 +12588,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-exorcist"
   },
   {
     "id": 873,
@@ -11890,7 +12605,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-color-purple"
   },
   {
     "id": 12444,
@@ -11906,7 +12622,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "harry-potter-and-the-deathly-hallows-part-1"
   },
   {
     "id": 51533,
@@ -11923,7 +12640,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "讓子彈飛"
+    "original_title": "讓子彈飛",
+    "slug": "let-the-bullets-fly"
   },
   {
     "id": 703,
@@ -11939,7 +12657,8 @@
     "images": [
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "annie-hall"
   },
   {
     "id": 17483,
@@ -11955,7 +12674,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "shelter"
   },
   {
     "id": 14811,
@@ -11971,7 +12691,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "fiddler-on-the-roof"
   },
   {
     "id": 45269,
@@ -11987,7 +12708,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-kings-speech"
   },
   {
     "id": 27670,
@@ -12002,7 +12724,8 @@
     "images": [
       "still_0.webp"
     ],
-    "original_title": "Non ci resta che piangere"
+    "original_title": "Non ci resta che piangere",
+    "slug": "nothing-left-to-do-but-cry"
   },
   {
     "id": 492188,
@@ -12017,7 +12740,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "marriage-story"
   },
   {
     "id": 382591,
@@ -12034,7 +12758,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Demain tout commence"
+    "original_title": "Demain tout commence",
+    "slug": "two-is-a-family"
   },
   {
     "id": 15265,
@@ -12051,7 +12776,8 @@
     "images": [
       "still_0.webp"
     ],
-    "original_title": "Le Ballon rouge"
+    "original_title": "Le Ballon rouge",
+    "slug": "the-red-balloon"
   },
   {
     "id": 882569,
@@ -12068,7 +12794,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "guy-ritchies-the-covenant"
   },
   {
     "id": 843906,
@@ -12083,7 +12810,8 @@
     "images": [
       "still_0.webp",
       "still_1.webp"
-    ]
+    ],
+    "slug": "straight-outta-nowhere-scooby-doo-meets-courage-the-cowardly-dog"
   },
   {
     "id": 123025,
@@ -12101,7 +12829,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "batman-the-dark-knight-returns-part-1"
   },
   {
     "id": 20126,
@@ -12119,7 +12848,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Profondo rosso"
+    "original_title": "Profondo rosso",
+    "slug": "deep-red"
   },
   {
     "id": 486589,
@@ -12140,7 +12870,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "레드슈즈"
+    "original_title": "레드슈즈",
+    "slug": "red-shoes-and-the-seven-dwarfs"
   },
   {
     "id": 336804,
@@ -12155,7 +12886,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "mustang"
   },
   {
     "id": 5528,
@@ -12171,7 +12903,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Les Choristes"
+    "original_title": "Les Choristes",
+    "slug": "the-chorus"
   },
   {
     "id": 545611,
@@ -12188,7 +12921,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "everything-everywhere-all-at-once"
   },
   {
     "id": 12405,
@@ -12204,7 +12938,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "slumdog-millionaire"
   },
   {
     "id": 10020,
@@ -12221,7 +12956,8 @@
     "images": [
       "still_0.webp",
       "still_1.webp"
-    ]
+    ],
+    "slug": "beauty-and-the-beast"
   },
   {
     "id": 2108,
@@ -12237,7 +12973,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-breakfast-club"
   },
   {
     "id": 1040,
@@ -12253,7 +12990,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Il gattopardo"
+    "original_title": "Il gattopardo",
+    "slug": "the-leopard"
   },
   {
     "id": 96721,
@@ -12268,7 +13006,8 @@
     "images": [
       "still_0.webp",
       "still_1.webp"
-    ]
+    ],
+    "slug": "rush"
   },
   {
     "id": 177572,
@@ -12287,7 +13026,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "big-hero-6"
   },
   {
     "id": 22596,
@@ -12303,7 +13043,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "safety-last"
   },
   {
     "id": 11902,
@@ -12321,7 +13062,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Подземље"
+    "original_title": "Подземље",
+    "slug": "underground"
   },
   {
     "id": 525,
@@ -12338,7 +13080,8 @@
     "images": [
       "still_0.webp",
       "still_1.webp"
-    ]
+    ],
+    "slug": "the-blues-brothers"
   },
   {
     "id": 334,
@@ -12353,7 +13096,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "magnolia"
   },
   {
     "id": 61979,
@@ -12370,7 +13114,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Tres metros sobre el cielo"
+    "original_title": "Tres metros sobre el cielo",
+    "slug": "three-steps-above-heaven"
   },
   {
     "id": 49046,
@@ -12388,7 +13133,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Im Westen nichts Neues"
+    "original_title": "Im Westen nichts Neues",
+    "slug": "all-quiet-on-the-western-front"
   },
   {
     "id": 15121,
@@ -12406,7 +13152,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-sound-of-music"
   },
   {
     "id": 404,
@@ -12421,7 +13168,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-straight-story"
   },
   {
     "id": 705861,
@@ -12437,7 +13185,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "hustle"
   },
   {
     "id": 32579,
@@ -12452,7 +13201,8 @@
       "still_0.webp",
       "still_1.webp"
     ],
-    "original_title": "La misma luna"
+    "original_title": "La misma luna",
+    "slug": "under-the-same-moon"
   },
   {
     "id": 28276,
@@ -12470,7 +13220,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "お早よう"
+    "original_title": "お早よう",
+    "slug": "good-morning"
   },
   {
     "id": 666277,
@@ -12486,7 +13237,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "past-lives"
   },
   {
     "id": 369299,
@@ -12503,7 +13255,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "¿Qué culpa tiene el niño?"
+    "original_title": "¿Qué culpa tiene el niño?",
+    "slug": "dont-blame-the-kid"
   },
   {
     "id": 9806,
@@ -12519,7 +13272,8 @@
     ],
     "images": [
       "still_0.webp"
-    ]
+    ],
+    "slug": "the-incredibles"
   },
   {
     "id": 696,
@@ -12535,7 +13289,8 @@
     "images": [
       "still_0.webp",
       "still_1.webp"
-    ]
+    ],
+    "slug": "manhattan"
   },
   {
     "id": 272,
@@ -12552,7 +13307,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "batman-begins"
   },
   {
     "id": 162,
@@ -12568,7 +13324,8 @@
     "images": [
       "still_0.webp",
       "still_1.webp"
-    ]
+    ],
+    "slug": "edward-scissorhands"
   },
   {
     "id": 602063,
@@ -12587,7 +13344,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "るろうに剣心 最終章 The Final"
+    "original_title": "るろうに剣心 最終章 The Final",
+    "slug": "rurouni-kenshin-the-final"
   },
   {
     "id": 30959,
@@ -12603,7 +13361,8 @@
     "images": [
       "still_0.webp"
     ],
-    "original_title": "怪談"
+    "original_title": "怪談",
+    "slug": "kwaidan"
   },
   {
     "id": 396,
@@ -12618,7 +13377,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "whos-afraid-of-virginia-woolf"
   },
   {
     "id": 603692,
@@ -12635,7 +13395,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "john-wick-chapter-4"
   },
   {
     "id": 221732,
@@ -12652,7 +13413,8 @@
       "still_0.webp",
       "still_2.webp"
     ],
-    "original_title": "るろうに剣心　伝説の最期編"
+    "original_title": "るろうに剣心　伝説の最期編",
+    "slug": "rurouni-kenshin-part-iii-the-legend-ends"
   },
   {
     "id": 1626,
@@ -12668,7 +13430,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Vivre sa vie: film en douze tableaux"
+    "original_title": "Vivre sa vie: film en douze tableaux",
+    "slug": "vivre-sa-vie"
   },
   {
     "id": 11299,
@@ -12685,7 +13448,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "カウボーイビバップ 天国の扉"
+    "original_title": "カウボーイビバップ 天国の扉",
+    "slug": "cowboy-bebop-the-movie"
   },
   {
     "id": 9800,
@@ -12700,7 +13464,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "philadelphia"
   },
   {
     "id": 359784,
@@ -12716,7 +13481,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "maudie"
   },
   {
     "id": 205,
@@ -12732,7 +13498,8 @@
     "images": [
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "hotel-rwanda"
   },
   {
     "id": 309,
@@ -12748,7 +13515,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Festen"
+    "original_title": "Festen",
+    "slug": "the-celebration"
   },
   {
     "id": 1054867,
@@ -12765,7 +13533,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "one-battle-after-another"
   },
   {
     "id": 688,
@@ -12780,7 +13549,8 @@
     "images": [
       "still_0.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-bridges-of-madison-county"
   },
   {
     "id": 451945,
@@ -12796,7 +13566,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "120 battements par minute"
+    "original_title": "120 battements par minute",
+    "slug": "bpm-beats-per-minute"
   },
   {
     "id": 374473,
@@ -12811,7 +13582,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "i-daniel-blake"
   },
   {
     "id": 12491,
@@ -12825,7 +13597,8 @@
     "images": [
       "still_0.webp",
       "still_1.webp"
-    ]
+    ],
+    "slug": "accattone"
   },
   {
     "id": 980,
@@ -12840,7 +13613,8 @@
     "images": [
       "still_0.webp",
       "still_1.webp"
-    ]
+    ],
+    "slug": "the-ox-bow-incident"
   },
   {
     "id": 963,
@@ -12856,7 +13630,8 @@
     "images": [
       "still_0.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-maltese-falcon"
   },
   {
     "id": 980026,
@@ -12874,7 +13649,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Bastarden"
+    "original_title": "Bastarden",
+    "slug": "the-promised-land"
   },
   {
     "id": 502033,
@@ -12890,7 +13666,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "sound-of-metal"
   },
   {
     "id": 30018,
@@ -12907,7 +13684,8 @@
       "still_0.webp",
       "still_1.webp"
     ],
-    "original_title": "마더"
+    "original_title": "마더",
+    "slug": "mother"
   },
   {
     "id": 1139817,
@@ -12925,7 +13703,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "무도실무관"
+    "original_title": "무도실무관",
+    "slug": "officer-black-belt"
   },
   {
     "id": 242582,
@@ -12942,7 +13721,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "nightcrawler"
   },
   {
     "id": 49687,
@@ -12960,7 +13740,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Matrimonio all'italiana"
+    "original_title": "Matrimonio all'italiana",
+    "slug": "marriage-italian-style"
   },
   {
     "id": 672,
@@ -12975,7 +13756,8 @@
     "images": [
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "harry-potter-and-the-chamber-of-secrets"
   },
   {
     "id": 40619,
@@ -12992,7 +13774,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "day-night"
   },
   {
     "id": 843241,
@@ -13008,7 +13791,8 @@
       "still_0.webp",
       "still_1.webp"
     ],
-    "original_title": "劇場版 七つの大罪 光に呪われし者たち"
+    "original_title": "劇場版 七つの大罪 光に呪われし者たち",
+    "slug": "the-seven-deadly-sins-cursed-by-light"
   },
   {
     "id": 297222,
@@ -13026,7 +13810,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "पीके"
+    "original_title": "पीके",
+    "slug": "pk"
   },
   {
     "id": 51608,
@@ -13044,7 +13829,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "아저씨"
+    "original_title": "아저씨",
+    "slug": "the-man-from-nowhere"
   },
   {
     "id": 12516,
@@ -13060,7 +13846,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "夢"
+    "original_title": "夢",
+    "slug": "dreams"
   },
   {
     "id": 573699,
@@ -13078,7 +13865,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "白蛇：缘起"
+    "original_title": "白蛇：缘起",
+    "slug": "white-snake"
   },
   {
     "id": 30588,
@@ -13095,7 +13883,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "monsieur-verdoux"
   },
   {
     "id": 11171,
@@ -13109,7 +13898,8 @@
     "images": [
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "mysterious-skin"
   },
   {
     "id": 158,
@@ -13125,7 +13915,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "knockin-on-heavens-door"
   },
   {
     "id": 19026,
@@ -13142,7 +13933,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Azur et Asmar"
+    "original_title": "Azur et Asmar",
+    "slug": "azur-asmar-the-princes-quest"
   },
   {
     "id": 16052,
@@ -13158,7 +13950,8 @@
     "images": [
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "selena"
   },
   {
     "id": 23832,
@@ -13175,7 +13968,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "L'armata Brancaleone"
+    "original_title": "L'armata Brancaleone",
+    "slug": "for-love-and-gold"
   },
   {
     "id": 632,
@@ -13190,7 +13984,8 @@
     ],
     "images": [
       "still_1.webp"
-    ]
+    ],
+    "slug": "stalag-17"
   },
   {
     "id": 4480,
@@ -13204,7 +13999,8 @@
     "images": [
       "still_0.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "jean-de-florette"
   },
   {
     "id": 3114,
@@ -13219,7 +14015,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-searchers"
   },
   {
     "id": 336,
@@ -13234,7 +14031,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Giù la testa"
+    "original_title": "Giù la testa",
+    "slug": "duck-you-sucker"
   },
   {
     "id": 453191,
@@ -13252,7 +14050,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Le Grand Méchant Renard et autres contes..."
+    "original_title": "Le Grand Méchant Renard et autres contes...",
+    "slug": "the-big-bad-fox-and-other-tales"
   },
   {
     "id": 851,
@@ -13268,7 +14067,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "brief-encounter"
   },
   {
     "id": 2204,
@@ -13284,7 +14084,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Alice in den Städten"
+    "original_title": "Alice in den Städten",
+    "slug": "alice-in-the-cities"
   },
   {
     "id": 773,
@@ -13300,7 +14101,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "little-miss-sunshine"
   },
   {
     "id": 337960,
@@ -13315,7 +14117,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "holding-the-man"
   },
   {
     "id": 24657,
@@ -13331,7 +14134,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Offret"
+    "original_title": "Offret",
+    "slug": "the-sacrifice"
   },
   {
     "id": 539517,
@@ -13348,7 +14152,8 @@
     "images": [
       "still_0.webp",
       "still_1.webp"
-    ]
+    ],
+    "slug": "constantine-city-of-demons-the-movie"
   },
   {
     "id": 286217,
@@ -13365,7 +14170,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-martian"
   },
   {
     "id": 177945,
@@ -13381,7 +14187,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "そして父になる"
+    "original_title": "そして父になる",
+    "slug": "like-father-like-son"
   },
   {
     "id": 5544,
@@ -13398,7 +14205,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Hiroshima mon amour"
+    "original_title": "Hiroshima mon amour",
+    "slug": "hiroshima-mon-amour"
   },
   {
     "id": 974036,
@@ -13413,7 +14221,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "ordinary-angels"
   },
   {
     "id": 234200,
@@ -13429,7 +14238,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "pride"
   },
   {
     "id": 5910,
@@ -13446,7 +14256,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "HANA-BI"
+    "original_title": "HANA-BI",
+    "slug": "fireworks"
   },
   {
     "id": 713776,
@@ -13462,7 +14273,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "if-anything-happens-i-love-you"
   },
   {
     "id": 44214,
@@ -13479,7 +14291,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "black-swan"
   },
   {
     "id": 656563,
@@ -13494,7 +14307,8 @@
     "images": [
       "still_0.webp"
     ],
-    "original_title": "Ricos de Amor"
+    "original_title": "Ricos de Amor",
+    "slug": "rich-in-love"
   },
   {
     "id": 613868,
@@ -13510,7 +14324,8 @@
     "images": [
       "still_1.webp"
     ],
-    "original_title": "Primos"
+    "original_title": "Primos",
+    "slug": "cousins"
   },
   {
     "id": 597316,
@@ -13529,7 +14344,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "my-little-pony-a-new-generation"
   },
   {
     "id": 137182,
@@ -13544,7 +14360,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-broken-circle-breakdown"
   },
   {
     "id": 573171,
@@ -13563,7 +14380,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Huevitos Congelados"
+    "original_title": "Huevitos Congelados",
+    "slug": "little-eggs-a-frozen-rescue"
   },
   {
     "id": 375794,
@@ -13578,7 +14396,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "no-manches-frida"
   },
   {
     "id": 9023,
@@ -13598,7 +14417,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "spirit-stallion-of-the-cimarron"
   },
   {
     "id": 2493,
@@ -13617,7 +14437,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-princess-bride"
   },
   {
     "id": 1633,
@@ -13632,7 +14453,8 @@
     "images": [
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "fried-green-tomatoes"
   },
   {
     "id": 938008,
@@ -13649,7 +14471,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "더 킬러: 죽어도 되는 아이"
+    "original_title": "더 킬러: 죽어도 되는 아이",
+    "slug": "the-killer"
   },
   {
     "id": 413594,
@@ -13669,7 +14492,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "劇場版 ソードアート・オンライン -オーディナル・スケール-"
+    "original_title": "劇場版 ソードアート・オンライン -オーディナル・スケール-",
+    "slug": "sword-art-online-the-movie-ordinal-scale"
   },
   {
     "id": 393729,
@@ -13684,7 +14508,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "divines"
   },
   {
     "id": 336808,
@@ -13701,7 +14526,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "El abrazo de la serpiente"
+    "original_title": "El abrazo de la serpiente",
+    "slug": "embrace-of-the-serpent"
   },
   {
     "id": 767,
@@ -13717,7 +14543,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "harry-potter-and-the-half-blood-prince"
   },
   {
     "id": 479718,
@@ -13735,7 +14562,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "범죄도시"
+    "original_title": "범죄도시",
+    "slug": "the-outlaws"
   },
   {
     "id": 21135,
@@ -13752,7 +14580,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "L'eclisse"
+    "original_title": "L'eclisse",
+    "slug": "leclisse"
   },
   {
     "id": 12219,
@@ -13768,7 +14597,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "12-angry-men"
   },
   {
     "id": 10757,
@@ -13783,7 +14613,8 @@
     "images": [
       "still_0.webp"
     ],
-    "original_title": "कभी ख़ुशी कभी ग़म"
+    "original_title": "कभी ख़ुशी कभी ग़म",
+    "slug": "kabhi-khushi-kabhie-gham"
   },
   {
     "id": 2433,
@@ -13801,7 +14632,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Les Demoiselles de Rochefort"
+    "original_title": "Les Demoiselles de Rochefort",
+    "slug": "the-young-girls-of-rochefort"
   },
   {
     "id": 1632,
@@ -13818,7 +14650,8 @@
     "images": [
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "mississippi-burning"
   },
   {
     "id": 578,
@@ -13835,7 +14668,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "jaws"
   },
   {
     "id": 950396,
@@ -13852,7 +14686,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-gorge"
   },
   {
     "id": 48831,
@@ -13870,7 +14705,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Ma nuit chez Maud"
+    "original_title": "Ma nuit chez Maud",
+    "slug": "my-night-at-mauds"
   },
   {
     "id": 799766,
@@ -13886,7 +14722,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "better-man"
   },
   {
     "id": 83666,
@@ -13903,7 +14740,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "moonrise-kingdom"
   },
   {
     "id": 82702,
@@ -13922,7 +14760,8 @@
     "images": [
       "still_0.webp",
       "still_1.webp"
-    ]
+    ],
+    "slug": "how-to-train-your-dragon-2"
   },
   {
     "id": 244063,
@@ -13940,7 +14779,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Jongens"
+    "original_title": "Jongens",
+    "slug": "boys"
   },
   {
     "id": 13151,
@@ -13958,7 +14798,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "scooby-doo-on-zombie-island"
   },
   {
     "id": 227932,
@@ -13972,7 +14813,8 @@
     "images": [
       "still_0.webp"
     ],
-    "original_title": "Minha Mãe é uma Peça 2: O Filme"
+    "original_title": "Minha Mãe é uma Peça 2: O Filme",
+    "slug": "my-mom-is-a-character-2"
   },
   {
     "id": 30020,
@@ -13988,7 +14830,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "طعم گيلاس"
+    "original_title": "طعم گيلاس",
+    "slug": "taste-of-cherry"
   },
   {
     "id": 11787,
@@ -14004,7 +14847,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "harvey"
   },
   {
     "id": 11474,
@@ -14020,7 +14864,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-warriors"
   },
   {
     "id": 13187,
@@ -14038,7 +14883,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "a-charlie-brown-christmas"
   },
   {
     "id": 675,
@@ -14054,7 +14900,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "harry-potter-and-the-order-of-the-phoenix"
   },
   {
     "id": 965150,
@@ -14069,7 +14916,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "aftersun"
   },
   {
     "id": 435366,
@@ -14087,7 +14935,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "조작된 도시"
+    "original_title": "조작된 도시",
+    "slug": "fabricated-city"
   },
   {
     "id": 20139,
@@ -14102,7 +14951,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-childrens-hour"
   },
   {
     "id": 990,
@@ -14117,7 +14967,8 @@
     "images": [
       "still_0.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-hustler"
   },
   {
     "id": 218,
@@ -14134,7 +14985,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-terminator"
   },
   {
     "id": 766507,
@@ -14151,7 +15003,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "prey"
   },
   {
     "id": 22881,
@@ -14165,7 +15018,8 @@
     "images": [
       "still_0.webp",
       "still_1.webp"
-    ]
+    ],
+    "slug": "the-blind-side"
   },
   {
     "id": 11362,
@@ -14184,7 +15038,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-count-of-monte-cristo"
   },
   {
     "id": 993,
@@ -14201,7 +15056,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "sleuth"
   },
   {
     "id": 653,
@@ -14218,7 +15074,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Nosferatu, eine Symphonie des Grauens"
+    "original_title": "Nosferatu, eine Symphonie des Grauens",
+    "slug": "nosferatu"
   },
   {
     "id": 68,
@@ -14234,7 +15091,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "brazil"
   },
   {
     "id": 556984,
@@ -14250,7 +15108,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-trial-of-the-chicago-7"
   },
   {
     "id": 506574,
@@ -14268,7 +15127,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "descendants-3"
   },
   {
     "id": 446159,
@@ -14285,7 +15145,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "bacurau"
   },
   {
     "id": 3763,
@@ -14301,7 +15162,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "鬼婆"
+    "original_title": "鬼婆",
+    "slug": "onibaba"
   },
   {
     "id": 167581,
@@ -14318,7 +15180,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Freier Fall"
+    "original_title": "Freier Fall",
+    "slug": "free-fall"
   },
   {
     "id": 522627,
@@ -14334,7 +15197,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-gentlemen"
   },
   {
     "id": 869626,
@@ -14351,7 +15215,8 @@
     "images": [
       "still_0.webp",
       "still_1.webp"
-    ]
+    ],
+    "slug": "marcel-the-shell-with-shoes-on"
   },
   {
     "id": 776305,
@@ -14369,7 +15234,8 @@
       "still_0.webp",
       "still_2.webp"
     ],
-    "original_title": "竜とそばかすの姫"
+    "original_title": "竜とそばかすの姫",
+    "slug": "belle"
   },
   {
     "id": 9912,
@@ -14386,7 +15252,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-worlds-fastest-indian"
   },
   {
     "id": 845,
@@ -14402,7 +15269,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "strangers-on-a-train"
   },
   {
     "id": 13466,
@@ -14418,7 +15286,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "october-sky"
   },
   {
     "id": 1908,
@@ -14433,7 +15302,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "inherit-the-wind"
   },
   {
     "id": 792307,
@@ -14450,7 +15320,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "poor-things"
   },
   {
     "id": 14438,
@@ -14466,7 +15337,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "fireproof"
   },
   {
     "id": 11220,
@@ -14484,7 +15356,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "墮落天使"
+    "original_title": "墮落天使",
+    "slug": "fallen-angels"
   },
   {
     "id": 4808,
@@ -14501,7 +15374,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "charade"
   },
   {
     "id": 726759,
@@ -14517,7 +15391,8 @@
     "images": [
       "still_0.webp",
       "still_1.webp"
-    ]
+    ],
+    "slug": "tetris"
   },
   {
     "id": 587272,
@@ -14531,7 +15406,8 @@
     "images": [
       "still_0.webp"
     ],
-    "original_title": "Padre no hay más que uno"
+    "original_title": "Padre no hay más que uno",
+    "slug": "father-there-is-only-one"
   },
   {
     "id": 1587,
@@ -14546,7 +15422,8 @@
     "images": [
       "still_0.webp",
       "still_1.webp"
-    ]
+    ],
+    "slug": "whats-eating-gilbert-grape"
   },
   {
     "id": 51739,
@@ -14562,7 +15439,8 @@
     "images": [
       "still_0.webp"
     ],
-    "original_title": "借りぐらしのアリエッティ"
+    "original_title": "借りぐらしのアリエッティ",
+    "slug": "the-secret-world-of-arrietty"
   },
   {
     "id": 499,
@@ -14578,7 +15456,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Cléo de 5 à 7"
+    "original_title": "Cléo de 5 à 7",
+    "slug": "clo-from-5-to-7"
   },
   {
     "id": 774370,
@@ -14596,7 +15475,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "dog-man"
   },
   {
     "id": 672322,
@@ -14615,7 +15495,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "るろうに剣心 最終章 The Beginning"
+    "original_title": "るろうに剣心 最終章 The Beginning",
+    "slug": "rurouni-kenshin-the-beginning"
   },
   {
     "id": 8016,
@@ -14630,7 +15511,8 @@
       "still_0.webp",
       "still_1.webp"
     ],
-    "original_title": "Germania anno zero"
+    "original_title": "Germania anno zero",
+    "slug": "germany-year-zero"
   },
   {
     "id": 1027014,
@@ -14648,7 +15530,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "entergalactic"
   },
   {
     "id": 8358,
@@ -14664,7 +15547,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "cast-away"
   },
   {
     "id": 414906,
@@ -14680,7 +15564,8 @@
     "images": [
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-batman"
   },
   {
     "id": 49992,
@@ -14695,7 +15580,8 @@
     "images": [
       "still_0.webp"
     ],
-    "original_title": "La gabbianella e il gatto"
+    "original_title": "La gabbianella e il gatto",
+    "slug": "lucky-and-zorba"
   },
   {
     "id": 14580,
@@ -14711,7 +15597,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-big-heat"
   },
   {
     "id": 288,
@@ -14727,7 +15614,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "high-noon"
   },
   {
     "id": 1075,
@@ -14745,7 +15633,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Crna mačka, beli mačor"
+    "original_title": "Crna mačka, beli mačor",
+    "slug": "black-cat-white-cat"
   },
   {
     "id": 100402,
@@ -14762,7 +15651,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "captain-america-the-winter-soldier"
   },
   {
     "id": 50531,
@@ -14776,7 +15666,8 @@
     "images": [
       "still_0.webp"
     ],
-    "original_title": "Chiedimi se sono felice"
+    "original_title": "Chiedimi se sono felice",
+    "slug": "ask-me-if-im-happy"
   },
   {
     "id": 840430,
@@ -14792,7 +15683,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-holdovers"
   },
   {
     "id": 508439,
@@ -14811,7 +15703,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "onward"
   },
   {
     "id": 1726,
@@ -14827,7 +15720,8 @@
     "images": [
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "iron-man"
   },
   {
     "id": 1592,
@@ -14844,7 +15738,8 @@
     "images": [
       "still_0.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "primal-fear"
   },
   {
     "id": 812,
@@ -14862,7 +15757,8 @@
     "images": [
       "still_0.webp",
       "still_1.webp"
-    ]
+    ],
+    "slug": "aladdin"
   },
   {
     "id": 575452,
@@ -14880,7 +15776,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Il traditore"
+    "original_title": "Il traditore",
+    "slug": "the-traitor"
   },
   {
     "id": 939243,
@@ -14898,7 +15795,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "sonic-the-hedgehog-3"
   },
   {
     "id": 508933,
@@ -14912,7 +15810,8 @@
     "images": [
       "still_0.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "ricky-gervais-humanity"
   },
   {
     "id": 371645,
@@ -14928,7 +15827,8 @@
     "images": [
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "hunt-for-the-wilderpeople"
   },
   {
     "id": 1904,
@@ -14945,7 +15845,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "memoirs-of-a-geisha"
   },
   {
     "id": 770254,
@@ -14962,7 +15863,8 @@
     "images": [
       "still_0.webp",
       "still_1.webp"
-    ]
+    ],
+    "slug": "back-to-the-outback"
   },
   {
     "id": 15794,
@@ -14979,7 +15881,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "white-heat"
   },
   {
     "id": 10633,
@@ -14996,7 +15899,8 @@
     "images": [
       "still_0.webp",
       "still_1.webp"
-    ]
+    ],
+    "slug": "in-the-heat-of-the-night"
   },
   {
     "id": 238628,
@@ -15011,7 +15915,8 @@
     "images": [
       "still_0.webp"
     ],
-    "original_title": "Mandariinid"
+    "original_title": "Mandariinid",
+    "slug": "tangerines"
   },
   {
     "id": 247,
@@ -15026,7 +15931,8 @@
     "images": [
       "still_0.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-killing"
   },
   {
     "id": 886396,
@@ -15042,7 +15948,8 @@
     "images": [
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "batman-and-superman-battle-of-the-super-sons"
   },
   {
     "id": 14813,
@@ -15058,7 +15965,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "mickeys-christmas-carol"
   },
   {
     "id": 10637,
@@ -15073,7 +15981,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "remember-the-titans"
   },
   {
     "id": 8416,
@@ -15089,7 +15998,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Il conformista"
+    "original_title": "Il conformista",
+    "slug": "the-conformist"
   },
   {
     "id": 108,
@@ -15105,7 +16015,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Trois couleurs : Bleu"
+    "original_title": "Trois couleurs : Bleu",
+    "slug": "three-colors-blue"
   },
   {
     "id": 514439,
@@ -15120,7 +16031,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "breakthrough"
   },
   {
     "id": 15999,
@@ -15141,7 +16053,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "吸血鬼ハンターD ブラッドラスト"
+    "original_title": "吸血鬼ハンターD ブラッドラスト",
+    "slug": "vampire-hunter-d-bloodlust"
   },
   {
     "id": 871,
@@ -15159,7 +16072,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "planet-of-the-apes"
   },
   {
     "id": 871,
@@ -15177,7 +16091,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "planet-of-the-apes"
   },
   {
     "id": 110160,
@@ -15193,7 +16108,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "laurence-anyways"
   },
   {
     "id": 12548,
@@ -15210,7 +16126,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "I vitelloni"
+    "original_title": "I vitelloni",
+    "slug": "i-vitelloni"
   },
   {
     "id": 212,
@@ -15226,7 +16143,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "arsenic-and-old-lace"
   },
   {
     "id": 728118,
@@ -15243,7 +16161,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "quo-vadis-aida"
   },
   {
     "id": 11898,
@@ -15259,7 +16178,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "kind-hearts-and-coronets"
   },
   {
     "id": 1678,
@@ -15277,7 +16197,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "ゴジラ"
+    "original_title": "ゴジラ",
+    "slug": "godzilla"
   },
   {
     "id": 678,
@@ -15292,7 +16213,8 @@
     "images": [
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "out-of-the-past"
   },
   {
     "id": 4347,
@@ -15308,7 +16230,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "atonement"
   },
   {
     "id": 261,
@@ -15323,7 +16246,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "cat-on-a-hot-tin-roof"
   },
   {
     "id": 567410,
@@ -15339,7 +16263,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Systemsprenger"
+    "original_title": "Systemsprenger",
+    "slug": "system-crasher"
   },
   {
     "id": 381289,
@@ -15358,7 +16283,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "a-dogs-purpose"
   },
   {
     "id": 144288,
@@ -15377,7 +16303,8 @@
       "still_0.webp",
       "still_1.webp"
     ],
-    "original_title": "ベルセルク 黄金時代篇Ⅲ 降臨"
+    "original_title": "ベルセルク 黄金時代篇Ⅲ 降臨",
+    "slug": "berserk-the-golden-age-arc-iii-the-advent"
   },
   {
     "id": 724495,
@@ -15394,7 +16321,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-woman-king"
   },
   {
     "id": 342470,
@@ -15409,7 +16337,8 @@
     "images": [
       "still_0.webp",
       "still_1.webp"
-    ]
+    ],
+    "slug": "all-the-bright-places"
   },
   {
     "id": 164,
@@ -15425,7 +16354,8 @@
     "images": [
       "still_0.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "breakfast-at-tiffanys"
   },
   {
     "id": 4497,
@@ -15440,7 +16370,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "viridiana"
   },
   {
     "id": 4495,
@@ -15457,7 +16388,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "El espíritu de la colmena"
+    "original_title": "El espíritu de la colmena",
+    "slug": "the-spirit-of-the-beehive"
   },
   {
     "id": 580175,
@@ -15474,7 +16406,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Druk"
+    "original_title": "Druk",
+    "slug": "another-round"
   },
   {
     "id": 1002185,
@@ -15488,7 +16421,8 @@
     ],
     "images": [
       "still_0.webp"
-    ]
+    ],
+    "slug": "a-million-miles-away"
   },
   {
     "id": 471707,
@@ -15504,7 +16438,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Boże Ciało"
+    "original_title": "Boże Ciało",
+    "slug": "corpus-christi"
   },
   {
     "id": 37247,
@@ -15520,7 +16455,8 @@
     "images": [
       "still_0.webp",
       "still_1.webp"
-    ]
+    ],
+    "slug": "the-graduate"
   },
   {
     "id": 20123,
@@ -15539,7 +16475,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Dom za vešanje"
+    "original_title": "Dom za vešanje",
+    "slug": "time-of-the-gypsies"
   },
   {
     "id": 81401,
@@ -15555,7 +16492,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "A torinói ló"
+    "original_title": "A torinói ló",
+    "slug": "the-turin-horse"
   },
   {
     "id": 137113,
@@ -15571,7 +16509,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "edge-of-tomorrow"
   },
   {
     "id": 627725,
@@ -15585,7 +16524,8 @@
     "images": [
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-banker"
   },
   {
     "id": 498249,
@@ -15600,7 +16540,8 @@
     "images": [
       "still_0.webp"
     ],
-    "original_title": "Mauvaises herbes"
+    "original_title": "Mauvaises herbes",
+    "slug": "bad-seeds"
   },
   {
     "id": 313297,
@@ -15616,7 +16557,8 @@
     "images": [
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "kubo-and-the-two-strings"
   },
   {
     "id": 29154,
@@ -15631,7 +16573,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "stand-and-deliver"
   },
   {
     "id": 17835,
@@ -15647,7 +16590,8 @@
     "images": [
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "threads"
   },
   {
     "id": 13929,
@@ -15663,7 +16607,8 @@
     "images": [
       "still_0.webp",
       "still_1.webp"
-    ]
+    ],
+    "slug": "geris-game"
   },
   {
     "id": 55,
@@ -15680,7 +16625,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Amores perros"
+    "original_title": "Amores perros",
+    "slug": "amores-perros"
   },
   {
     "id": 16306,
@@ -15696,7 +16642,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "La Planète sauvage"
+    "original_title": "La Planète sauvage",
+    "slug": "fantastic-planet"
   },
   {
     "id": 4995,
@@ -15711,7 +16658,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "boogie-nights"
   },
   {
     "id": 99,
@@ -15728,7 +16676,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Todo sobre mi madre"
+    "original_title": "Todo sobre mi madre",
+    "slug": "all-about-my-mother"
   },
   {
     "id": 228205,
@@ -15744,7 +16693,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-longest-ride"
   },
   {
     "id": 76341,
@@ -15761,7 +16711,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "mad-max-fury-road"
   },
   {
     "id": 13363,
@@ -15777,7 +16728,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-man-from-earth"
   },
   {
     "id": 15251,
@@ -15791,7 +16743,8 @@
     "images": [
       "still_0.webp",
       "still_1.webp"
-    ]
+    ],
+    "slug": "eddie-murphy-delirious"
   },
   {
     "id": 38251,
@@ -15807,7 +16760,8 @@
     "images": [
       "still_0.webp",
       "still_1.webp"
-    ]
+    ],
+    "slug": "mediterraneo"
   },
   {
     "id": 744114,
@@ -15823,7 +16777,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "my-policeman"
   },
   {
     "id": 8832,
@@ -15838,7 +16793,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "il-divo"
   },
   {
     "id": 650,
@@ -15852,7 +16808,8 @@
     ],
     "images": [
       "still_2.webp"
-    ]
+    ],
+    "slug": "boyz-n-the-hood"
   },
   {
     "id": 534780,
@@ -15871,7 +16828,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "अंधाधुन"
+    "original_title": "अंधाधुन",
+    "slug": "andhadhun"
   },
   {
     "id": 293660,
@@ -15888,7 +16846,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "deadpool"
   },
   {
     "id": 207703,
@@ -15905,7 +16864,8 @@
     "images": [
       "still_0.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "kingsman-the-secret-service"
   },
   {
     "id": 513434,
@@ -15923,7 +16883,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "カメラを止めるな！"
+    "original_title": "カメラを止めるな！",
+    "slug": "one-cut-of-the-dead"
   },
   {
     "id": 329865,
@@ -15940,7 +16901,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "arrival"
   },
   {
     "id": 1939,
@@ -15956,7 +16918,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "laura"
   },
   {
     "id": 583083,
@@ -15972,7 +16935,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-kissing-booth-2"
   },
   {
     "id": 419430,
@@ -15989,7 +16953,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "get-out"
   },
   {
     "id": 496450,
@@ -16009,7 +16974,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Miraculous - le film"
+    "original_title": "Miraculous - le film",
+    "slug": "miraculous-ladybug-cat-noir-the-movie"
   },
   {
     "id": 9343,
@@ -16025,7 +16991,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "fitzcarraldo"
   },
   {
     "id": 24160,
@@ -16041,7 +17008,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Amici miei - Atto II°"
+    "original_title": "Amici miei - Atto II°",
+    "slug": "my-friends-act-ii"
   },
   {
     "id": 13386,
@@ -16056,7 +17024,8 @@
       "still_0.webp",
       "still_1.webp"
     ],
-    "original_title": "Ricomincio da tre"
+    "original_title": "Ricomincio da tre",
+    "slug": "im-starting-from-three"
   },
   {
     "id": 702,
@@ -16070,7 +17039,8 @@
     ],
     "images": [
       "still_0.webp"
-    ]
+    ],
+    "slug": "a-streetcar-named-desire"
   },
   {
     "id": 966220,
@@ -16088,7 +17058,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Снайпер. Білий ворон"
+    "original_title": "Снайпер. Білий ворон",
+    "slug": "sniper-the-white-raven"
   },
   {
     "id": 614917,
@@ -16103,7 +17074,8 @@
     "images": [
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "king-richard"
   },
   {
     "id": 19101,
@@ -16118,7 +17090,8 @@
     ],
     "images": [
       "still_1.webp"
-    ]
+    ],
+    "slug": "a-little-princess"
   },
   {
     "id": 74308,
@@ -16133,7 +17106,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "detachment"
   },
   {
     "id": 28580,
@@ -16148,7 +17122,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-lost-weekend"
   },
   {
     "id": 10451,
@@ -16165,7 +17140,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "飲食男女"
+    "original_title": "飲食男女",
+    "slug": "eat-drink-man-woman"
   },
   {
     "id": 137,
@@ -16182,7 +17158,8 @@
     "images": [
       "still_0.webp",
       "still_1.webp"
-    ]
+    ],
+    "slug": "groundhog-day"
   },
   {
     "id": 1933,
@@ -16199,7 +17176,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-others"
   },
   {
     "id": 995,
@@ -16215,7 +17193,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "stagecoach"
   },
   {
     "id": 14784,
@@ -16231,7 +17210,8 @@
     "images": [
       "still_0.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-fall"
   },
   {
     "id": 1712,
@@ -16246,7 +17226,8 @@
     "images": [
       "still_0.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "giant"
   },
   {
     "id": 39324,
@@ -16264,7 +17245,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "ドラゴンボールZ 絶望への反抗!! 残された超戦士・悟飯とトランクス"
+    "original_title": "ドラゴンボールZ 絶望への反抗!! 残された超戦士・悟飯とトランクス",
+    "slug": "dragon-ball-z-the-history-of-trunks"
   },
   {
     "id": 309809,
@@ -16281,7 +17263,8 @@
     "images": [
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "the-little-prince"
   },
   {
     "id": 10331,
@@ -16295,7 +17278,8 @@
     ],
     "images": [
       "still_0.webp"
-    ]
+    ],
+    "slug": "night-of-the-living-dead"
   },
   {
     "id": 283995,
@@ -16312,7 +17296,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "guardians-of-the-galaxy-vol-2"
   },
   {
     "id": 10754,
@@ -16329,7 +17314,8 @@
       "still_1.webp",
       "still_2.webp"
     ],
-    "original_title": "Krótki film o zabijaniu"
+    "original_title": "Krótki film o zabijaniu",
+    "slug": "a-short-film-about-killing"
   },
   {
     "id": 9693,
@@ -16346,7 +17332,8 @@
     "images": [
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "children-of-men"
   },
   {
     "id": 841755,
@@ -16362,7 +17349,8 @@
     "images": [
       "still_0.webp",
       "still_1.webp"
-    ]
+    ],
+    "slug": "mortal-kombat-legends-battle-of-the-realms"
   },
   {
     "id": 803700,
@@ -16377,7 +17365,8 @@
       "still_0.webp",
       "still_1.webp"
     ],
-    "original_title": "Le otto montagne"
+    "original_title": "Le otto montagne",
+    "slug": "the-eight-mountains"
   },
   {
     "id": 537116,
@@ -16392,7 +17381,8 @@
     "images": [
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "tick-tick-boom"
   },
   {
     "id": 417261,
@@ -16408,7 +17398,8 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "forever-my-girl"
   },
   {
     "id": 76600,
@@ -16424,7 +17415,8 @@
     "images": [
       "still_0.webp",
       "still_1.webp"
-    ]
+    ],
+    "slug": "avatar-the-way-of-water"
   },
   {
     "id": 38757,
@@ -16441,6 +17433,7 @@
       "still_0.webp",
       "still_1.webp",
       "still_2.webp"
-    ]
+    ],
+    "slug": "tangled"
   }
 ]

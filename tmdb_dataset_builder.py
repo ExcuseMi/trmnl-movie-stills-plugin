@@ -7,6 +7,7 @@ from typing import List, Dict
 import sys
 from PIL import Image
 from dotenv import load_dotenv
+import re
 
 
 class TMDBDatasetBuilder:
@@ -17,6 +18,19 @@ class TMDBDatasetBuilder:
         self.output_dir = Path(output_dir)
         self.output_dir.mkdir(parents=True, exist_ok=True)
         self.genres = {}
+
+    def generate_slug(self, title: str) -> str:
+        """Generate a URL-friendly slug from movie title"""
+        slug = title.lower()
+        # Replace spaces with hyphens
+        slug = slug.replace(' ', '-')
+        # Remove all non-alphanumeric characters except hyphens
+        slug = re.sub(r'[^a-z0-9\-]', '', slug)
+        # Replace multiple consecutive hyphens with single hyphen
+        slug = re.sub(r'-+', '-', slug)
+        # Remove leading/trailing hyphens
+        slug = slug.strip('-')
+        return slug
 
     def fetch_genres(self):
         """Fetch genre mapping from TMDB"""
@@ -151,6 +165,47 @@ class TMDBDatasetBuilder:
             print(f"  Error downloading/converting image: {e}")
             return False
 
+    def update_existing_slugs(self):
+        """Update all existing movie.json files to add slug field"""
+        movies_file = self.output_dir / "movies.json"
+        if not movies_file.exists():
+            print("No movies.json found!")
+            return
+
+        print("\n🔄 Updating existing entries with slugs...")
+
+        with open(movies_file, 'r', encoding='utf-8') as f:
+            dataset = json.load(f)
+
+        updated_count = 0
+
+        for movie_data in dataset:
+            movie_id = movie_data['id']
+            movie_dir = self.output_dir / str(movie_id)
+            movie_json_path = movie_dir / "movie.json"
+
+            if not movie_json_path.exists():
+                continue
+
+            # Check if slug already exists
+            if 'slug' not in movie_data:
+                slug = self.generate_slug(movie_data['title'])
+                movie_data['slug'] = slug
+
+                # Update individual movie.json
+                with open(movie_json_path, 'w', encoding='utf-8') as f:
+                    json.dump(movie_data, f, indent=2, ensure_ascii=False)
+
+                updated_count += 1
+                print(f"  ✅ Added slug to: {movie_data['title']} -> {slug}")
+
+        # Save updated dataset
+        if updated_count > 0:
+            self.save_dataset(dataset)
+            print(f"\n✅ Updated {updated_count} movies with slugs")
+        else:
+            print("\n✅ All movies already have slugs")
+
     def build_dataset(self, total_movies: int = 500):
         """Build the complete dataset"""
         # First fetch genres
@@ -207,10 +262,14 @@ class TMDBDatasetBuilder:
                 # Convert genre IDs to names
                 genre_names = [self.genres.get(gid, f"Unknown_{gid}") for gid in movie.get('genre_ids', [])]
 
+                # Generate slug
+                slug = self.generate_slug(title)
+
                 # Store metadata
                 movie_data = {
                     "id": movie_id,
                     "title": title,
+                    "slug": slug,
                     "year": movie.get('release_date', '')[:4],
                     "overview": movie.get('overview'),
                     "rating": movie.get('vote_average'),
@@ -228,6 +287,14 @@ class TMDBDatasetBuilder:
                 # Load existing data
                 with open(movie_json_path, 'r', encoding='utf-8') as f:
                     movie_data = json.load(f)
+
+                # Add slug if missing
+                if 'slug' not in movie_data:
+                    movie_data['slug'] = self.generate_slug(movie_data['title'])
+                    # Save updated movie.json
+                    with open(movie_json_path, 'w', encoding='utf-8') as f:
+                        json.dump(movie_data, f, indent=2, ensure_ascii=False)
+                    print(f"  Added slug: {movie_data['slug']}")
 
                 # Verify images still exist and clean up if needed
                 original_image_count = len(movie_data.get('images', []))
@@ -294,6 +361,11 @@ class TMDBDatasetBuilder:
                 print(f"  ⚠️  Movie folder missing: {movie_data['title']} (ID: {movie_id})")
                 movies_removed += 1
                 continue
+
+            # Add slug if missing
+            if 'slug' not in movie_data:
+                movie_data['slug'] = self.generate_slug(movie_data['title'])
+                print(f"  Added slug to: {movie_data['title']}")
 
             # Verify images
             original_images = movie_data.get('images', [])
@@ -392,9 +464,11 @@ class TMDBDatasetBuilder:
             dataset = json.load(f)
 
         total_images = sum(len(m['images']) for m in dataset)
+        movies_with_slugs = sum(1 for m in dataset if 'slug' in m)
 
         print("\n📊 Dataset Statistics:")
         print(f"  Total movies: {len(dataset)}")
+        print(f"  Movies with slugs: {movies_with_slugs}/{len(dataset)}")
         print(f"  Total images: {total_images}")
         print(f"  Avg images per movie: {total_images / len(dataset):.1f}")
         print(f"  Storage location: {self.output_dir.absolute()}")
@@ -432,11 +506,13 @@ if __name__ == "__main__":
     # Build new dataset (automatically cleans during build)
     # builder.build_dataset(total_movies=1000)
 
+    # Update existing entries with slugs (doesn't re-download images)
+    builder.update_existing_slugs()
+
     # Or just run cleanup on existing dataset
-    builder.cleanup_missing_images()
+    # builder.cleanup_missing_images()
 
     # Or process a delete list from the image reviewer
-    #
-    #builder.process_delete_list("delete_list_1762669507505.json")
+    # builder.process_delete_list("delete_list_1762669507505.json")
 
     builder.print_stats()
