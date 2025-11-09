@@ -48,7 +48,7 @@ custom_fields:
   - War
   - Western
   multiple: true
-  help_text: Use <kbd>⌘</kbd>+<kbd>click</kbd> or <kbd>ctrl</kbd>+<kbd>click</kbd> to select multiple genres. Leave empty to show all genres.
+  help_text: Use <kbd>⌘</kbd>+<kbd>click</kbd> or <kbd>ctrl</kbd>+<kbd>click</kbd> to select multiple genres.<br />Leave empty to show all genres.
   optional: true
 - keyname: genre_exclusions
   field_type: select
@@ -75,7 +75,7 @@ custom_fields:
   - War
   - Western
   multiple: true
-  help_text: Use <kbd>⌘</kbd>+<kbd>click</kbd> or <kbd>ctrl</kbd>+<kbd>click</kbd> to select multiple genres.
+  help_text: Use <kbd>⌘</kbd>+<kbd>click</kbd> or <kbd>ctrl</kbd>+<kbd>click</kbd> to select multiple genres.<br />Leave empty to show all genres.
   optional: true
 - keyname: min_year
   field_type: number

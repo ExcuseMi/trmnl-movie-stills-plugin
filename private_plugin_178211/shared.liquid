@@ -96,8 +96,7 @@ Displays a random movie still from your curated dataset
 
   {% comment %} Construct image path and URLs {% endcomment %}
   {% assign image_path = selected_movie.id | append: "/" | append: selected_image %}
-  {% assign movie_slug = selected_movie.title | slugify: "pretty" %}
-  {% assign tmdb_url = "https://www.themoviedb.org/movie/" | append: selected_movie.id | append: "-" | append: movie_slug %}
+  {% assign tmdb_url = "https://www.themoviedb.org/movie/" | append: selected_movie.id | append: "-" | append: selected_movie.slug %}
 
   {% comment %} Create QR code content with movie details {% endcomment %}
   {% capture qr_content %}{{ selected_movie.title }} ({{ selected_movie.year }})
