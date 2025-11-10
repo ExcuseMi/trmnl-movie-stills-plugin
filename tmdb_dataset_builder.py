@@ -504,7 +504,7 @@ if __name__ == "__main__":
     # Uncomment the action you want to perform:
 
     # Build new dataset (automatically cleans during build)
-    # yesbuilder.build_dataset(total_movies=2000)
+    # builder.build_dataset(total_movies=2000)
 
     # Update existing entries with slugs (doesn't re-download images)
     #builder.update_existing_slugs()
