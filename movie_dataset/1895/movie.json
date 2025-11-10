@@ -1,0 +1,18 @@
+{
+  "id": 1895,
+  "title": "Star Wars: Episode III - Revenge of the Sith",
+  "slug": "star-wars-episode-iii-revenge-of-the-sith",
+  "year": "2005",
+  "overview": "The evil Darth Sidious enacts his final plan for unlimited power – and the heroic Jedi Anakin Skywalker must choose a side.",
+  "rating": 7.455,
+  "genres": [
+    "Adventure",
+    "Action",
+    "Science Fiction"
+  ],
+  "images": [
+    "still_0.webp",
+    "still_1.webp",
+    "still_2.webp"
+  ]
+}

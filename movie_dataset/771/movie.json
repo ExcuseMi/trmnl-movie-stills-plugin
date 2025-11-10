@@ -1,0 +1,17 @@
+{
+  "id": 771,
+  "title": "Home Alone",
+  "slug": "home-alone",
+  "year": "1990",
+  "overview": "Eight-year-old Kevin McCallister makes the most of the situation after his family unwittingly leaves him behind when they go on Christmas vacation. When thieves try to break into his home, he puts up a fight like no other.",
+  "rating": 7.4,
+  "genres": [
+    "Comedy",
+    "Family"
+  ],
+  "images": [
+    "still_0.webp",
+    "still_1.webp",
+    "still_2.webp"
+  ]
+}

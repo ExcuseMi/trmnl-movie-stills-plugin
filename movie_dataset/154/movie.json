@@ -1,0 +1,18 @@
+{
+  "id": 154,
+  "title": "Star Trek II: The Wrath of Khan",
+  "slug": "star-trek-ii-the-wrath-of-khan",
+  "year": "1982",
+  "overview": "The starship Enterprise and its crew is pulled back into action when old nemesis, Khan, steals a top secret device called Project Genesis.",
+  "rating": 7.449,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction",
+    "Thriller"
+  ],
+  "images": [
+    "still_0.webp",
+    "still_2.webp"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 252,
+  "title": "Willy Wonka & the Chocolate Factory",
+  "slug": "willy-wonka-the-chocolate-factory",
+  "year": "1971",
+  "overview": "When eccentric candy man Willy Wonka promises a lifetime supply of sweets and a tour of his chocolate factory to five lucky kids, penniless Charlie Bucket seeks the golden ticket that will make him a winner.",
+  "rating": 7.481,
+  "genres": [
+    "Family",
+    "Fantasy",
+    "Comedy"
+  ],
+  "images": [
+    "still_0.webp",
+    "still_1.webp"
+  ]
+}

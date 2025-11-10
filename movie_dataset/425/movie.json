@@ -1,0 +1,19 @@
+{
+  "id": 425,
+  "title": "Ice Age",
+  "slug": "ice-age",
+  "year": "2002",
+  "overview": "Heading south to avoid a bad case of global frostbite, a group of migrating misfit creatures embark on a hilarious quest to reunite a human baby with his tribe.",
+  "rating": 7.366,
+  "genres": [
+    "Animation",
+    "Comedy",
+    "Family",
+    "Adventure"
+  ],
+  "images": [
+    "still_0.webp",
+    "still_1.webp",
+    "still_2.webp"
+  ]
+}

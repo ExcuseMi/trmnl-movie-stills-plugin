@@ -1,0 +1,18 @@
+{
+  "id": 828,
+  "title": "The Day the Earth Stood Still",
+  "slug": "the-day-the-earth-stood-still",
+  "year": "1951",
+  "overview": "An alien and a robot land on Earth after World War II and tell mankind to be peaceful or face destruction.",
+  "rating": 7.5,
+  "genres": [
+    "Science Fiction",
+    "Thriller",
+    "Drama"
+  ],
+  "images": [
+    "still_0.webp",
+    "still_1.webp",
+    "still_2.webp"
+  ]
+}

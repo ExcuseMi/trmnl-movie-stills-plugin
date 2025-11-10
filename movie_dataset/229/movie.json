@@ -1,0 +1,16 @@
+{
+  "id": 229,
+  "title": "Bride of Frankenstein",
+  "slug": "bride-of-frankenstein",
+  "year": "1935",
+  "overview": "Dr. Frankenstein and his monster both turn out to be alive after being attacked by an angry mob. The now-chastened scientist attempts to escape his past, but a former mentor forces him to assist with the creation of a new creature.",
+  "rating": 7.509,
+  "genres": [
+    "Horror",
+    "Science Fiction"
+  ],
+  "images": [
+    "still_1.webp",
+    "still_2.webp"
+  ]
+}

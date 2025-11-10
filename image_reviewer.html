@@ -157,6 +157,13 @@
             font-family: 'Courier New', monospace;
         }
 
+        .file-date {
+            color: #888;
+            font-size: 13px;
+            margin-top: 0.5rem;
+            font-weight: 500;
+        }
+
         .shortcuts {
             position: fixed;
             bottom: 2rem;
@@ -354,10 +361,14 @@
                         url: URL.createObjectURL(file),
                         path: file.webkitRelativePath,
                         movieTitle: movie?.title || 'Unknown Movie',
-                        movieId: movieId
+                        movieId: movieId,
+                        lastModified: file.lastModified
                     });
                 }
             }
+
+            // Sort by file creation date (lastModified) - newest first
+            images.sort((a, b) => b.lastModified - a.lastModified);
 
             if (images.length === 0) {
                 viewer.innerHTML = '<div class="empty-state"><h2>No images found</h2><p>Make sure you selected the movie_dataset folder</p></div>';
@@ -376,6 +387,7 @@
 
             const img = images[currentIndex];
             const isMarked = markedForDeletion.has(img.path);
+            const fileDate = new Date(img.lastModified).toLocaleString();
 
             viewer.innerHTML = `
                 <button class="nav-buttons prev" onclick="previousImage()">‹</button>
@@ -389,6 +401,7 @@
                         <div class="movie-title">${img.movieTitle}</div>
                         <div class="image-name">${img.file.name}</div>
                         <div class="path">${img.path}</div>
+                        <div class="file-date">📅 ${fileDate}</div>
                     </div>
                 </div>
             `;

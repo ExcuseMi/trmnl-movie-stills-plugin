@@ -1,0 +1,18 @@
+{
+  "id": 18,
+  "title": "The Fifth Element",
+  "slug": "the-fifth-element",
+  "year": "1997",
+  "overview": "In 2257, a taxi driver is unintentionally given the task of saving a young girl who is part of the key that will ensure the survival of humanity.",
+  "rating": 7.561,
+  "genres": [
+    "Science Fiction",
+    "Action",
+    "Adventure"
+  ],
+  "images": [
+    "still_0.webp",
+    "still_1.webp"
+  ],
+  "original_title": "Le Cinquième Élément"
+}

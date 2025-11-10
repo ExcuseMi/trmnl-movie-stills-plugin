@@ -1,0 +1,17 @@
+{
+  "id": 571,
+  "title": "The Birds",
+  "slug": "the-birds",
+  "year": "1963",
+  "overview": "Thousands of birds flock into a seaside town and terrorize the residents in a series of deadly attacks.",
+  "rating": 7.5,
+  "genres": [
+    "Horror",
+    "Thriller"
+  ],
+  "images": [
+    "still_0.webp",
+    "still_1.webp",
+    "still_2.webp"
+  ]
+}

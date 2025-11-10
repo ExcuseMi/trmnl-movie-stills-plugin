@@ -504,15 +504,15 @@ if __name__ == "__main__":
     # Uncomment the action you want to perform:
 
     # Build new dataset (automatically cleans during build)
-    # builder.build_dataset(total_movies=1000)
+    # yesbuilder.build_dataset(total_movies=2000)
 
     # Update existing entries with slugs (doesn't re-download images)
-    builder.update_existing_slugs()
+    #builder.update_existing_slugs()
 
     # Or just run cleanup on existing dataset
     # builder.cleanup_missing_images()
 
     # Or process a delete list from the image reviewer
-    # builder.process_delete_list("delete_list_1762669507505.json")
+    builder.process_delete_list("delete_list_1762742154150.json")
 
     builder.print_stats()

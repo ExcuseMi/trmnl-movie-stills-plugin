@@ -1,0 +1,18 @@
+{
+  "id": 966,
+  "title": "The Magnificent Seven",
+  "slug": "the-magnificent-seven",
+  "year": "1960",
+  "overview": "An oppressed Mexican peasant village hires seven gunfighters to help defend their homes.",
+  "rating": 7.506,
+  "genres": [
+    "Western",
+    "Action",
+    "Adventure"
+  ],
+  "images": [
+    "still_0.webp",
+    "still_1.webp",
+    "still_2.webp"
+  ]
+}

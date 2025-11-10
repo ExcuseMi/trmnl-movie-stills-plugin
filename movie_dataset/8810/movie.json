@@ -1,0 +1,19 @@
+{
+  "id": 8810,
+  "title": "Mad Max 2",
+  "slug": "mad-max-2",
+  "year": "1981",
+  "overview": "Max Rockatansky returns as the heroic loner who drives the dusty roads of a postapocalyptic Australian Outback in an unending search for gasoline. Arrayed against him and the other scraggly defendants of a fuel-depot encampment are the bizarre warriors commanded by the charismatic Lord Humungus, a violent leader whose scruples are as barren as the surrounding landscape.",
+  "rating": 7.4,
+  "genres": [
+    "Adventure",
+    "Action",
+    "Thriller",
+    "Science Fiction"
+  ],
+  "images": [
+    "still_0.webp",
+    "still_1.webp",
+    "still_2.webp"
+  ]
+}

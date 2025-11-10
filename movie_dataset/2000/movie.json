@@ -1,0 +1,18 @@
+{
+  "id": 2000,
+  "title": "Aguirre, the Wrath of God",
+  "slug": "aguirre-the-wrath-of-god",
+  "year": "1972",
+  "overview": "A few decades after the destruction of the Inca Empire, a Spanish expedition led by the infamous Aguirre leaves the mountains of Peru and goes down the Amazon River in search of the lost city of El Dorado. When great difficulties arise, Aguirre’s men start to wonder whether their quest will lead them to prosperity or certain death.",
+  "rating": 7.468,
+  "genres": [
+    "History",
+    "Adventure",
+    "Drama"
+  ],
+  "images": [
+    "still_1.webp",
+    "still_2.webp"
+  ],
+  "original_title": "Aguirre, der Zorn Gottes"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 79,
+  "title": "Hero",
+  "slug": "hero",
+  "year": "2002",
+  "overview": "During China's Warring States period, a district prefect arrives at the palace of Qin Shi Huang, claiming to have killed the three assassins who had made an attempt on the king's life three years ago.",
+  "rating": 7.499,
+  "genres": [
+    "Drama",
+    "Adventure",
+    "Action",
+    "History"
+  ],
+  "images": [
+    "still_0.webp",
+    "still_1.webp",
+    "still_2.webp"
+  ],
+  "original_title": "英雄"
+}
